@@ -69,3 +69,5 @@ Uit kansverdeling:
 Dus dat ligt aardig in de buurt"
  
 - 4 drawings/excel files of 2016 base plates (Email 07-07-2016 Wout) all dated with "20160707" in the file name  
+
+- Galton board test 15-07-2016: https://www.youtube.com/watch?v=FR3QPHajcew&feature=youtu.be
