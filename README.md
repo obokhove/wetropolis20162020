@@ -77,4 +77,6 @@ Dus dat ligt aardig in de buurt"
  gewicht: zal ik nog wegen". Transportable. Reporting on dimensions and weight in orde rto assess whether constructions fits in the back of a car --with backseat folded down.
 - It is a race against time. Test of river pump on 08-01-206: https://www.youtube.com/watch?v=GVCFESyP-mU&feature=youtu.be
 "filmpje met eerste water in model. rivier stroomt over bij debiet 1040 l  per uur., water in stad staat dan tot de rand waar de uiterwaard begint. ik ga er een (instelbaar) 220 v pompje voor halen, ik heb nu 3 stuks  12-V pompjes nodig (op 14 V, dat houden ze niet lang vol) om dit debiet  te halen. rondpompen gaat verder goed, ik heb een retourpomp op 220 v welke het uitgestroomde water oppompt vanuit een teil / emmer op de bodem naar de  bak waar de 12 v pompen in hangen (zo min mogelijk opvoerhoogte, maakt  het voor de pompen makkelijker om voldoende debiet te geven). het pompje zal regelbaar zijn, zodat we de gewenste hoeveelheid ook  vantevoren in kunnen stellen."
+Top view "overstromingsmodel test rivierpomp bovenaanzicht 1 aug 2016": https://youtu.be/QiVPV9ntBt0
+The seams between two foam plates and the aluminium tape sealing them is seen nicely in here "overstromingsmodel test rivierpomp cyclus 1 aug 2016": https://youtu.be/Hwd3rjfHjkE
 
