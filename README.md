@@ -72,5 +72,7 @@ Dus dat ligt aardig in de buurt"
 
 - Galton board test 15-07-2016: https://www.youtube.com/watch?v=FR3QPHajcew&feature=youtu.be
 
-- 21-07-2016: the wooden support frame is getting together; JPG-files started with 210702016
+- 21-07-2016 email Wout: the wooden support frame is getting together; JPG-files started with 210702016
+"Transportabel: alles kan goed uit elkaar, worden latten met wat uitstekende klampen in een rchting, dus goed te bundelen.  grootste lengte: 180 cm lat 8 boutjes m6 om het vast te zetten de latten grijpen in elkaar en worden met een boutje geborgd (zie foto)
+ gewicht: zal ik nog wegen". Transportable. Reporting on dimensions and weight in orde rto assess whether constructions fits in the back of a car --with backseat folded down.
 
