@@ -53,7 +53,7 @@ I will elucidate the answers to the above questions and use them in the design a
 "Maak ook maar zo’n model voor Twente. Er viel hier net 20 mm in 15 minuten. Zelfs de straat stond blank, ondanks de hoge ligging en vlak voor de keukendeur was het 5 cm diep water. En er komen nog een paar buien aan, wow!"
 Please also make a mathematical model for Twente. Rain fell, 20mm in 15min. The street was flooded, despite its higher situation and in front of the kicthen door the water was 5cm deep. More rain is expected. Wow!
 
--Email Wout 31-05-2016: "ik heb al materiaal gekocht. slang, klep, dik schuim, iets om detector mee te maken. "Materials have been bought: tube, valve, thick foam and something to amke a detector."
+- Email Wout 31-05-2016: "ik heb al materiaal gekocht. slang, klep, dik schuim, iets om detector mee te maken. "Materials have been bought: tube, valve, thick foam and something to amke a detector."
 
 - Email Wout 04-06-2016: Plaatje freesmodel. The first deisgn was on one foam plated with a DDR-style city. We routed it but it was abandoned since the channel and residence time was too short. See file overstromingsmodel-rendering-03.JPG
 
