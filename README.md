@@ -68,4 +68,4 @@ Uit kansverdeling:
 30           70           50           10
 Dus dat ligt aardig in de buurt"
  
-- 4 drawings/excel files of 2016 base plates (Email 07-07-2016 Wout) all dated with "07072017" in file name  
+- 4 drawings/excel files of 2016 base plates (Email 07-07-2016 Wout) all dated with "20160707" in the file name  
