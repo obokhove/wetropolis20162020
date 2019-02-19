@@ -61,3 +61,11 @@ Please also make a mathematical model for Twente. Rain fell, 20mm in 15min. The 
 
 - one ``'On the science of floods: rainfall, flooding and flood control revisited in the design of a table-top model' at Imperial College on 01-06-2016, where the first completed mathematical and numerical desig model was revealed --see the file reading1J2016.pdf
 At this seminar, I ran the matlab simulation at the end of the seminar for 100 Wetropolis days, i.e. 1000s real time, which is about 100s computational time. While there shoudl be 2.73 extreme events on average over 100 wd's, in that simulation it was not till day 99 that the first extreme rainfall event and flooding happened. Meanwhile I was babbling for 99s for the extreme event to appears, sweating buckts thinking that I had set up the simulation incorrectly. Then on day 100, bang, the extreme flooding event flooded the city. "Did you keep us in suspense on purpose, had you arrange this", I recall prof Dayl Holm asking. "Sure", I said, and smiled: "I did not. I was swaeting buckets that something went wrng but, hey, that is probability for you". I think I saved a screen shot of this simulation with one spike on wd 99. See, indeed, the file simulator11ic.jpg
+
+- The test results of teh first asymmetric Galton board (email Wout 30-06-2016): "Ik heb de aantallen even opgeteld. Na 10 x 16 kogels laten rollen:
+28           79           44           9
+Uit kansverdeling:
+30           70           50           10
+Dus dat ligt aardig in de buurt"
+ 
+- 4 drawings/excel files of 2016 base plates (Email 07-07-2016 Wout) all dated with "07072017" in file name  
