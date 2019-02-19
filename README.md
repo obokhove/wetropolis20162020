@@ -25,5 +25,37 @@ The story of Wetropolis Flood demonstrator by Onno Bokhove
 
 While compilating the design files, I searched through my email accounts and realised how the Wetropolis idea gradually grew to a definite design in a couple of email exchanges with Wout Zweers as well as to two or three presentations:
 - one ``Managing Risk in an Age of Extremes'' at the Science of Flood workshop on May 8th 2016 in Hebden Bridge --see the file hebdenbrigde2016 -copy.pdf Notice the first design sketch on page 18 and that the final design became quite different.
+- an Email exchange with Dr COlin Cotter in which I promised a presentation and send him an abstract on 08-05-2015, while I had not done any mathematical calculations yet. Talke about managing risk in the age of extremes!
+"Sun 5/8/2016, 9:09 PM
+colin.cotter@imperial.ac.uk 
+Hi Colin,
+
+Would the following work for the June 1st seminar for MPE?
+
+Bit "experimental/preliminary" but I think I have enough for a good overview and discussion. Besides it coincides with the writing of the outline. Let me know your comments before I send it to Anna, please.
+--Onno
+
+On the Science of Floods:
+Rainfall, Flooding, and Flood Control revisited in the Design of a Table-Top Model
+By Onno Bokhove
+School of Mathematics
+University of Leeds
+ 
+In a recent public event in Hebden Bridge, a town in Yorkshire that has seen a lot of sustained and flash floods over the last decade, I addressed the following questions:
+- Is it going to rain more in the future?
+- Can we define extreme precipitation and flooding events?
+- How (well) can we predict heavy precipitation and floods?
+- How (well) can we mitigate and control flooding?
+
+I will elucidate the answers to the above questions and use them in the design and modelling of an interactive, conceptual table-top demonstration and experiment on rainfall, flooding as well as flood mitigation and control. The design will serve two purposes: as public demonstration of the concepts of flooding and as a simplified test environment for mathematical models of flooding with rainfall, hydraulics, hydrology, data assimilation and flood control. For the test environment, I will identify the mathematical elements involved to model ``random’’ rain supply, channel/river flow, the hydrology of ``Hele-Shaw valleys’’ (illustrating the effects porous moors, fast run-off from tarmac, and the function of reservoirs), flow in bypass canals, and control features such as weirs and sluice gates as well as data assimilation using a few measurement points. Obviously, this is work in progress.
+
+- Email from Wout on 30-05-2106:
+"Maak ook maar zo’n model voor Twente. Er viel hier net 20 mm in 15 minuten. Zelfs de straat stond blank, ondanks de hoge ligging en vlak voor de keukendeur was het 5 cm diep water. En er komen nog een paar buien aan, wow!"
+Please also make a mathematical model for Twente. Rain fell, 20mm in 15min. The street was flooded, despite its higher situation and in front of the kicthen door the water was 5cm deep. More rain is expected. Wow!
+
+-Email Wout 31-05-2016: "ik heb al materiaal gekocht. slang, klep, dik schuim, iets om detector mee te maken. "Materials have been bought: tube, valve, thick foam and something to amke a detector."
+
+- Email Wout 04-06-2016: Plaatje freesmodel. The first deisgn was on one foam plated with a DDR-style city. We routed it but it was abandoned since the channel and residence time was too short. See file overstromingsmodel-rendering-03.JPG
+
 - one ``'On the science of floods: rainfall, flooding and flood control revisited in the design of a table-top model' at Imperial College on 01-06-2016, where the first completed mathematical and numerical desig model was revealed --see the file reading1J2016.pdf
 At this seminar, I ran the matlab simulation at the end of the seminar for 100 Wetropolis days, i.e. 1000s real time, which is about 100s computational time. While there shoudl be 2.73 extreme events on average over 100 wd's, in that simulation it was not till day 99 that the first extreme rainfall event and flooding happened. Meanwhile I was babbling for 99s for the extreme event to appears, sweating buckts thinking that I had set up the simulation incorrectly. Then on day 100, bang, the extreme flooding event flooded the city. "Did you keep us in suspense on purpose, had you arrange this", I recall prof Dayl Holm asking. "Sure", I said, and smiled: "I did not. I was swaeting buckets that something went wrng but, hey, that is probability for you". I think I saved a screen shot of this simulation with one spike on wd 99. See, indeed, the file simulator11ic.jpg
