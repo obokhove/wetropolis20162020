@@ -83,3 +83,5 @@ The seams between two foam plates and the aluminium tape sealing them is seen ni
 
 - And comparing my calculations of rainsupply with what was measured: "mijn calibratie kwam uit op 0.94 l in 10 sec. spot on dus
 Op 4-8-2016 om 15:18 schreef Onno Bokhove: 1, 2, 4, of 8 R0/s over 10s unit. In mijn model had ik 0.12, 0.24, 0.48, 0.96 liter over 10s, en dus over twee cellen kan dat zelfs 2x0.96 liter zijn. Edoch mijn model is slechts indicatief."
+Wout: "de pomp werkte bij 8 v en gaf 336 l per uur. bij 12 v, net ook even getest,  kom ik op 550 l per uur. net voldoende denk ik, want bij 1000 liter per uur stroomde bedding net niet over bij de stad. dit getal klopt wel zo'n beetje met de eerdere tests van de dompelpompje: rond 500 liter per uur maximaal. De pomp stond op 8 v, ik kan continu bedrijf (12 v)  max een half uur gebruiken.
+Mocht het toch te weinig zijn dan stap ik ook hier over op een 220 v pompje, voor ongeveer 25 euro heb je ruime keuze in debieten en geen gedoe met hoog amperage voeding voor 12V. het wordt toch via een relais aan uit geschakeld."
