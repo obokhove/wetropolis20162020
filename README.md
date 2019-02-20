@@ -9,7 +9,7 @@ Instructions Wout 20-02-2019: The CAD programs used are as follows: Solidworks f
 Browse the 20162608 marked files in /figs folder.
 
 ## Arduino board and codes for automated internal Galton boards 2016
-See file: arduinofil/schakelaar_kogeltjes_galtonboard-V0.12-30_aug_2016.ino
+See file: arduinofil/schakelaar_kogeltjes_galtonboard-V0.12-30_aug_2016.ino (30-08-2016) and arduinofil/ (November 2016).
 
 ## Arduino boards routing CAD and codes for two Galton boards 2016-2018
 See file: arduinofil/
