@@ -28,8 +28,10 @@ Summary report found here under outreach projects: http://www1.maths.leeds.ac.uk
 Writing the journal paper and the creation of this github in 2019 falls under the EU EFRO-project ``Wetropolis: tangible education and watermanagement``, see https://www.wetropolis.nl
 
 ## References
-Bokhove, Hicks, Zweers and Kent (2019) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. For  Hydrology and Earth System Sciences (hess) or Geoscience Communication (gc). EGU journal. Draft-0 (```wetroarticle```)
+- O.Bokhove, T. Hicks, W. Zweers and T. Kent (2019) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. For  Hydrology and Earth System Sciences or Geoscience Communication. EGU journals. Draft-0 (```wetroarticle```)
 ![wetroarticle](wetropolis2018.pdf)
+- O. Bokhove Final report EPSRC Maths Foresees network outreach project (2018) (```finalrep```) ![finalrep](http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf)
+- ). Bokhove Blog in Data Assimilation of the Resilient city -DARE- project (2017) http://blogs.reading.ac.uk/dare/2017/07/25/wetropolis-flood-demonstrator/
 
 # The story of Wetropolis' flood demonstrator
 
