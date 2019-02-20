@@ -26,7 +26,8 @@ Writing the journal paper and the creation of this github in 2019 falls under th
 # The story of Wetropolis' flood demonstrator
 
 While compilating the design files, I searched through my email accounts and realised how the Wetropolis idea gradually grew to a definite design in a couple of email exchanges with Wout Zweers as well as to two or three presentations:
-- one ``Managing Risk in an Age of Extremes'' at the Science of Flood workshop on May 8th 2016 in Hebden Bridge --see the file hebdenbrigde2016 -copy.pdf Notice the first design sketch on page 18 and that the final design became quite different.
+- one "Managing Risk in an Age of Extremes" at the Science of Flood workshop on May 8th 2016 in Hebden Bridge --see the file hebdenbrigde2016 -copy.pdf Notice the first design sketch (```1stsket```) on page 18 and that the final design became quite different.
+![1stsket](figs/floodingmodel07052016.pdf)
 - an Email exchange with Dr Colin Cotter in which I promised a presentation and send him an abstract on 08-05-2015, while I had not done any mathematical calculations yet. Talke about managing risk in the age of extremes!
 "Sun 5/8/2016, 9:09 PM
 Hi Colin, Would the following work for the June 1st seminar for MPE? Bit "experimental/preliminary" but I think I have enough for a good overview and discussion. Besides it coincides with the writing of the outline. Let me know your comments before I send it in, please. --Onno
