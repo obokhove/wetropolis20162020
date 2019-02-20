@@ -65,6 +65,6 @@ Please also make a mathematical model for Twente. Rain fell, 20mm in 15min. The 
 ![fin1108](figs/20161108CIMG2030copy.jpg)
 
 
-Wetropolis Natural Flood Management
-Of version 0 the base foam plates dissolved because water-soluable paint was used despite our warnings ... (```WetNFM''') ![WetNFM](Figs/IMG_20180109_1238322.jpg)
+# Wetropolis Natural Flood Management 2017-2018
+Of version 0 the base foam plates dissolved because water-soluable paint was used despite our warnings ... small showcasing at Maths Foresees network meetng January 2018: (```WetNFM''') ![WetNFM](figs/IMG_20180109_1238322.jpg)
 
