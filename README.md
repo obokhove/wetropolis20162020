@@ -4,6 +4,7 @@
 ## Design files for Wetropolis Flood demonstrator
 
 ## Design foam plates 2016 CAD files
+Instructions Wout 20-02-2019: The CAD programs used are as follows: Solidworks for designs, saved as Step file for import in Rhino (V5); plugin in Rhino for routing: Rhinocam 5, which generates routing/freesfiles (NC files); routed on BZT 1400 PF router/frees with Winpc-nc driver.
 
 ## Arduino board and codes for automated internal Galton boards 2016
 
@@ -67,15 +68,9 @@ Please also make a mathematical model for Twente. Rain fell, 20mm in 15min. The 
 # Sand used to roughen river base
 Instructions 20-02-2019:
 
-Supplier/leverancier: welkoop schelpenzand, agri retailo galvanistraat 100 ede, verkoop via welkoop. Schelpenzand bevat gecalcineerd zand en zeeschelpen (sand and shells) voor aanbrengen is het zand gezeefd met een huishoudzeef, maasopening ongeveer 0.9 mm (vierkante opening), draaddikte ongeveer 0.1 mm (sifted with maze 0.9mm wire thicknes 0.1mm); zand is vastgelijmd in een vrij ruim opgezette laag matte PU lak (glued on with PU varnish).
+Supplier/leverancier: welkoop schelpenzand, agri retailo galvanistraat 100 ede, verkoop via welkoop. Schelpenzand bevat gecalcineerd zand en zeeschelpen (sand and shells) voor aanbrengen is het zand gezeefd met een huishoudzeef, maasopening ongeveer 0.9 mm (vierkante opening), draaddikte ongeveer 0.1 mm (sieved with sieve with holes of 0.9mm and wire thickness of 0.1mm); zand is vastgelijmd in een vrij ruim opgezette laag matte PU lak (sand glued on with PU varnish).
 
 Applied as follows/Aanbrengen:de kunst is een gelijkmatige laag te krijgen welke goed hecht. De lak werkt als lijm. Breng lak aan met een volle, platte penseel, werk met hanteerbare oppervlakken. horizontaal en verticaal kunnen tegelijk worden gelakt.   In de natte lak is een overmaat zand gestrooid , door het schuim te wentelsen en het zand heen en weer te laten schuiven is een gelijkmatige bedekking bereikt op horizontale en verticale vlakken. De overmaat zand van het schuim laten vallen door het schuim op de kop te zetten en hier lichtjes op te kloppen. Ga verder met het volgende deel. De vorm is in gedeeltes bezand omdat het niet in een keer dik genoeg in de lak kon worden gezet zonder dat de lak wegvloeide (druipers of juist te dunne laag op verticale vlakken). Je moet dus vlot doorwerken en in een sessie het werk afmaken. Na bezanden en afkloppen de laag vooral niet aanraken tot deze droog is anders veroorzaak je klontjes welke niet meer vlak te krijgen zijn. Enige handigheid en vaste hand met de kwast is wel zo praktisch, maar het valt wel mee om een goede vlakke laag te krijgen op deze manier.  2-3 cm rand welke je later wilt aftapen (voor waterdichte verbinding) bij de overgang van het kanaal van ene naar andere schuim niet bezanden, tape hecht slecht op het zand en er zal water onder door lopen. 
-
-# CAD programs used
-Instructions Wout 20-02-2019:
-
-Solidworks for designs, saves as Step file for import in Rhino (V5), plugin in Rhino for routing: Rhinocam 5, which generates routing/freesfiles (NC files), routed on BZT 1400 PF router/frees with Winpc-nc driver.
-
 
 # Wetropolis Natural Flood Management 2017-2018
 Of version 0 the base foam plates dissolved because water-soluable paint was used despite our warnings ... small showcasing at Maths Foresees network meetng January 2018: (```WetNFM''') ![WetNFM](figs/IMG_20180109_1238322.jpg)
