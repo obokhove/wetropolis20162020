@@ -97,6 +97,6 @@ A design sketch (```WetNFM2```) is given of the Wetropolis flood demonstrator re
 
 A new topographic base-plate design is made (with some glitches) using new CAD software, see 02-12-2018 file (```newbase2018```) ![newbase2018](figs/20181202ogodabgkfkanngio-3.png)
 See also files starting 20180213 in folder topodrawings for several new design features: [topo2018](topodrawings/20180213overzicht1t10aanpassing.PNG)
-New river and city plain cross section in (```crosscity```) on 13-02-2018: ![crosscity](20180213doorsnederivierthvstad.PNG) 
+New river and city plain cross section in (```crosscity```) on 13-02-2018: ![crosscity](topodrawings/20180213doorsnederivierthvstad.PNG) 
 
 
