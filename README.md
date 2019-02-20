@@ -11,6 +11,8 @@ Browse the date-marked files in /figs folder for a photographic tour of the desi
 
 ## Arduino board and codes for automated internal Galton boards 2016
 See file: arduinofil/schakelaar_kogeltjes_galtonboard-V0.12-30_aug_2016.ino (30-08-2016) and arduinofil/galton_board_november_2016-V02.1.ino (November 2016).
+The print designs for the Arduino boards are found as pdf and dxf files dated 12-11-2016 (layoutprintplaatgaltonboard12nov2016.pdf and layoutprintGB12nov2016zwarteprintlijnen.dxf) 
+Arduino material required: TBC Wout???
 
 ## Matlab file of matematical and numerical design model 
 Created 28-05-2016 for seminar at 01-06-2016 and first version completed 08-06-2016; contined further till 19-02-2016. Old version 05-06-2016: tabletopt1v2016.m (probably with infamous error). Newer/newest version: tabletopt2v2016.m
