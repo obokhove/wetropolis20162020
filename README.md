@@ -17,8 +17,8 @@ Created 28-05-2016 for seminar at 01-06-2016 and first version completed 08-06-2
 
 ## Funding
 Outreach project within EPSRC grant Maths Foresees EP/M008525/1 (2015-2016), funding Tom Kent and Wout Zweers, circa 10k plus travel and transport and 2.5k for update of Galton boards (2017).
-Summary report found here:
-Writing the journal paper and the creation of this github in 2019 falls under the EU EFRO-project ``Wetropolis: tangible education and watermanagemen`` XXX, https://www.wetropolis.nl
+Summary report found here under outreach projects: http://www1.maths.leeds.ac.uk/mathsforesees/projects.html and here: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
+Writing the journal paper and the creation of this github in 2019 falls under the EU EFRO-project ``Wetropolis: tangible education and watermanagement``, see https://www.wetropolis.nl
 
 
 # The story of Wetropolis' flood demonstrator
