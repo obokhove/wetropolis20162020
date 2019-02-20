@@ -2,7 +2,7 @@
 ![](figs/20161707CIMG2121copy.jpg)
 
 ## Design files for Wetropolis Flood demonstrator and Galton boards
-Original ones: https://grabcad.com/mylibrarymodels search for Wout Zweers and then Galton board 2016. Note that there are 2018 updates used for a new Wetropolis design. See also https://github.com/zweers but some files have been or will be redeposited here as well.
+Original ones: https://grabcad.com/mylibrarymodels search for Wout Zweers and then Galton board 2016. Note that there are 2018 updates used for a new Wetropolis design. See also https://github.com/zweers but some files have been or will be redeposited here as well in /topodrawings e.g. image (```sketchbase```) with on the left measurement points given in the excel file. ![sketchbase](topodrawings/20160707dimensions04.pdf)
 
 ## Design foam plates 2016 CAD files
 Instructions Wout 20-02-2019: The CAD programs used are as follows: Solidworks for designs, saved as Step file for import in Rhino (V5); plugin in Rhino for routing: Rhinocam 5, which generates routing/freesfiles (NC files); routed on BZT 1400 PF router/frees with Winpc-nc driver.
