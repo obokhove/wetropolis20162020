@@ -5,12 +5,13 @@
 
 ## Design foam plates 2016 CAD files
 Instructions Wout 20-02-2019: The CAD programs used are as follows: Solidworks for designs, saved as Step file for import in Rhino (V5); plugin in Rhino for routing: Rhinocam 5, which generates routing/freesfiles (NC files); routed on BZT 1400 PF router/frees with Winpc-nc driver.
+Browse the 20162608 marked files in /figs folder.
 
 ## Arduino board and codes for automated internal Galton boards 2016
-See file: arduinofils/schakelaar_kogeltjes_galtonboard-V0.12-30_aug_2016.ino
+See file: arduinofil/schakelaar_kogeltjes_galtonboard-V0.12-30_aug_2016.ino
 
 ## Arduino boards routing CAD and codes for two Galton boards 2016-2018
-See file:
+See file: arduinofil/
 
 
 ## Matlab file of matematical and numerical design model 
