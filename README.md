@@ -1,4 +1,9 @@
 # Wetropolis Design 2016-2019
+
+## Introduction
+The Wetropolis flood demonstrator is a conceptual, life installation showcasing what an extreme rainfall event is and how such an event can lead to extreme flooding of a city. A layman's introduction to Wetropolis is found in the following blog:
+http://blogs.reading.ac.uk/dare/2017/07/25/wetropolis-flood-demonstrator/
+
 ![](figs/20161707CIMG2121copy.jpg)
 
 ## Design files for Wetropolis Flood demonstrator and Galton boards
