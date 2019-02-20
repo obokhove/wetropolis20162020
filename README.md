@@ -22,6 +22,9 @@ Outreach project within EPSRC grant Maths Foresees EP/M008525/1 (2015-2016), fun
 Summary report found here under outreach projects: http://www1.maths.leeds.ac.uk/mathsforesees/projects.html and here: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
 Writing the journal paper and the creation of this github in 2019 falls under the EU EFRO-project ``Wetropolis: tangible education and watermanagement``, see https://www.wetropolis.nl
 
+## References
+Bokhove, Hicks, Zweers and Kent (2019) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. For  Hydrology and Earth System Sciences (hess) or Geoscience Communication (gc). EGU journal. Draft-0 (```wetroarticle```)
+![wetroarticle](Wetropolis2018.pdf)
 
 # The story of Wetropolis' flood demonstrator
 
