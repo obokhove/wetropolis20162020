@@ -24,7 +24,7 @@ Writing the journal paper and the creation of this github in 2019 falls under th
 
 ## References
 Bokhove, Hicks, Zweers and Kent (2019) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. For  Hydrology and Earth System Sciences (hess) or Geoscience Communication (gc). EGU journal. Draft-0 (```wetroarticle```)
-![wetroarticle](Wetropolis2018.pdf)
+![wetroarticle](wetropolis2018.pdf)
 
 # The story of Wetropolis' flood demonstrator
 
