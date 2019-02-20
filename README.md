@@ -95,6 +95,7 @@ Of version 0 the base foam plates dissolved because water-soluable paint was use
 
 A design sketch (```WetNFM2```) is given of the Wetropolis flood demonstrator revisited to demonstrate principles of NFM: it contains a river section in the middle of the set-up in which the effects of inserts of different roughnesses --smooth, medium and very rough e.g. concrete, gravel and trees-- can be observed as well as an upstream catchment with oasis that can be shaped to contain smaller channel fed with streams that can be blocked with leaky match-stick dams. The latter oasis landscape can be molded by the public and hands-on experience with leaky dams, their effects and their failure can be tested. Courtesy: Alex Hinxman. ![WetNFM2](figs/wetronew.png)
 
-A new topographic base-plate design is made (with some glitchs) using new CAD software, see 02-12-2018 file (```newbase2018```) ![newbase2018](20181202ogodabgkfkanngio-3.png)
+A new topographic base-plate design is made (with some glitches) using new CAD software, see 02-12-2018 file (```newbase2018```) ![newbase2018](figs/20181202ogodabgkfkanngio-3.png)
+See also files starting 20130213 for several new design features: [](topodrawings/20180213overzicht1t10aanpassing.PNG)
 
 
