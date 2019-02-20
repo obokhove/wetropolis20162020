@@ -2,6 +2,7 @@
 ![](figs/20161707CIMG2121copy.jpg)
 
 ## Design files for Wetropolis Flood demonstrator
+Original ones: https://grabcad.com/mylibrarymodels and https://github.com/zweers but most files have been or will be redeposited here as well.
 
 ## Design foam plates 2016 CAD files
 Instructions Wout 20-02-2019: The CAD programs used are as follows: Solidworks for designs, saved as Step file for import in Rhino (V5); plugin in Rhino for routing: Rhinocam 5, which generates routing/freesfiles (NC files); routed on BZT 1400 PF router/frees with Winpc-nc driver.
