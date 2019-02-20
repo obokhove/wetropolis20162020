@@ -1,19 +1,15 @@
 # Wetropolis Design 2016-2019
 ![](figs/20161707CIMG2121copy.jpg)
 
-## Design files for Wetropolis Flood demonstrator
-Original ones: https://grabcad.com/mylibrarymodels and https://github.com/zweers but most files have been or will be redeposited here as well.
+## Design files for Wetropolis Flood demonstrator and Galton boards
+Original ones: https://grabcad.com/mylibrarymodels search for Wout Zweers and then Galton board 2016. Note that there are 2018 updates used for a new Wetropolis design. See also https://github.com/zweers but some files have been or will be redeposited here as well.
 
 ## Design foam plates 2016 CAD files
 Instructions Wout 20-02-2019: The CAD programs used are as follows: Solidworks for designs, saved as Step file for import in Rhino (V5); plugin in Rhino for routing: Rhinocam 5, which generates routing/freesfiles (NC files); routed on BZT 1400 PF router/frees with Winpc-nc driver.
-Browse the 20162608 marked files in /figs folder.
+Browse the date-marked files in /figs folder for a photographic tour of the design. (To be updated with a pdf/2nd readfigs compilation).
 
 ## Arduino board and codes for automated internal Galton boards 2016
 See file: arduinofil/schakelaar_kogeltjes_galtonboard-V0.12-30_aug_2016.ino (30-08-2016) and arduinofil/ (November 2016).
-
-## Arduino boards routing CAD and codes for two Galton boards 2016-2018
-See file: arduinofil/
-
 
 ## Matlab file of matematical and numerical design model 
 Created 28-05-2016 for seminar at 01-06-2016 and first version completed 08-06-2016; contined further till 19-02-2016. Old version 05-06-2016: tabletopt1v2016.m (probably with infamous error). Newer/newest version: tabletopt2v2016.m
