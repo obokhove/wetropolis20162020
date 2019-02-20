@@ -81,3 +81,6 @@ Applied as follows/Aanbrengen:de kunst is een gelijkmatige laag te krijgen welke
 # Wetropolis Natural Flood Management 2017-2018
 Of version 0 the base foam plates dissolved because water-soluable paint was used despite our warnings ... small showcasing at Maths Foresees network meetng January 2018: (```WetNFM''') ![WetNFM](figs/IMG_20180109_1238322.jpg)
 
+A design sketch (```WetNFM2```) is given of the Wetropolis flood demonstrator revisited to demonstrate principles of NFM: it contains a river section in the middle of the set-up in which the effects of inserts of different roughnesses --smooth, medium and very rough e.g. concrete, gravel and trees-- can be observed as well as an upstream catchment with oasis that can be shaped to contain smaller channel fed with streams that can be blocked with leaky match-stick dams. The latter oasis landscape can be molded by the public and hands-on experience with leaky dams, their effects and their failure can be tested. Courtesy: Alex Hinxman. ![WetNFM2](figs/wetronew.png)
+
+
