@@ -2,7 +2,8 @@
 ![](figs/20161707CIMG2121copy.jpg)
 
 ## Design files for Wetropolis Flood demonstrator and Galton boards
-Original ones: https://grabcad.com/mylibrarymodels search for Wout Zweers and then Galton board 2016. Note that there are 2018 updates used for a new Wetropolis design. See also https://github.com/zweers but some files have been or will be redeposited here as well in /topodrawings e.g. image (```sketchbase```) with on the left measurement points given in the excel file. ![sketchbase](topodrawings/20160707dimensions04.pdf)
+Original ones: https://grabcad.com/mylibrarymodels search for Wout Zweers and then Galton board 2016. Note that there are 2018 updates used for a new Wetropolis design. See also https://github.com/zweers but some files have been or will be redeposited here as well in /topodrawings e.g. image (```sketchbase```) with on the left measurement points indicated which are given in the excel file. 
+![sketchbase](topodrawings/20160707dimensions04.pdf)
 
 ## Design foam plates 2016 CAD files
 Instructions Wout 20-02-2019: The CAD programs used are as follows: Solidworks for designs, saved as Step file for import in Rhino (V5); plugin in Rhino for routing: Rhinocam 5, which generates routing/freesfiles (NC files); routed on BZT 1400 PF router/frees with Winpc-nc driver.
@@ -19,9 +20,9 @@ Created 28-05-2016 for seminar at 01-06-2016 and first version completed 08-06-2
 
 While compilating the design files, I searched through my email accounts and realised how the Wetropolis idea gradually grew to a definite design in a couple of email exchanges with Wout Zweers as well as to two or three presentations:
 - one ``Managing Risk in an Age of Extremes'' at the Science of Flood workshop on May 8th 2016 in Hebden Bridge --see the file hebdenbrigde2016 -copy.pdf Notice the first design sketch on page 18 and that the final design became quite different.
-- an Email exchange with Dr COlin Cotter in which I promised a presentation and send him an abstract on 08-05-2015, while I had not done any mathematical calculations yet. Talke about managing risk in the age of extremes!
+- an Email exchange with Dr Colin Cotter in which I promised a presentation and send him an abstract on 08-05-2015, while I had not done any mathematical calculations yet. Talke about managing risk in the age of extremes!
 "Sun 5/8/2016, 9:09 PM
-colin.cotter@imperial.ac.uk Hi Colin, Would the following work for the June 1st seminar for MPE? Bit "experimental/preliminary" but I think I have enough for a good overview and discussion. Besides it coincides with the writing of the outline. Let me know your comments before I send it to Anna, please. --Onno
+Hi Colin, Would the following work for the June 1st seminar for MPE? Bit "experimental/preliminary" but I think I have enough for a good overview and discussion. Besides it coincides with the writing of the outline. Let me know your comments before I send it in, please. --Onno
 
 On the Science of Floods: Rainfall, Flooding, and Flood Control revisited in the Design of a Table-Top Model By Onno Bokhove School of Mathematics University of Leeds
  
