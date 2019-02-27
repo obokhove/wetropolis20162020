@@ -70,7 +70,7 @@ Please also make a mathematical model for Twente. Rainfall here a gew minutes ag
 30           70           50           10 uit de kansverdeling. Dus dat ligt aardig in de buurt"
 I have added the outcome of Galton board after 10x16 trials with the steel balls, I obtained the following:
 28           79           44           9  histogram of outcomes
-30           70           50           10 outcomes for actual distribtion. So the two are fairly close.
+30           70           50           10 outcomes for the actual distribution. So the two are fairly close.
  
 - 4 drawings/excel files of 2016 base plates (Email 07-07-2016 Wout) all dated with "20160707" in the file name  
 
