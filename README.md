@@ -21,17 +21,17 @@ Wetropolis consists of several elements which we describe next:
 The original design files for teh Galton boards are found at https://grabcad.com/mylibrarymodels search for Wout Zweers and then Galton board 2016. Note that there are 2018 updates used for a new Wetropolis design. For the landscape CAD designs see https://github.com/zweers but some files have been or will be redeposited here as well in the folder topodrawings e.g. image (```sketchbase```) with on the left measurement points indicated which are given in the excel file. 
 ![sketchbase](topodrawings/20160707dimensions04.pdf)
 
-## Design foam plates 2016 CAD files
+## Matlab file of mathematical and numerical design model 
+The first code was created between 28-05-2016 and 01-06-2016 for seminar at Imperial College on 01-06-2016. This first version was completed on 08-06-2016; continued further till 19-02-2018. The old version from 05-06-2016 is tabletopt1v2016.m (probably with the infamous error) and newer/newest version is tabletopt2v2016.m
+
+## Topographic landscape polystyrene plates, CAD files (2016)
 The CAD programs used are the following: Solidworks for designs, saved as Step file for import in Rhino (V5); plugin in Rhino for routing: Rhinocam 5, which generates routing/freesfiles (NC files); routing is done on a BZT 1400 PF router/frees with Winpc-nc driver.
 Browse the date-marked files in /figs folder for a photographic tour of the design. (To be updated with a pdf/2nd readfigs file).
 
-## Arduino board and codes for automated internal Galton boards 2016
+## Arduino board and codes for automated internal Galton boards (2016-2018)
 See file: arduinofil/schakelaar_kogeltjes_galtonboard-V0.12-30_aug_2016.ino (30-08-2016) and arduinofil/galton_board_november_2016-V02.1.ino (November 2016).
 The print designs for the Arduino boards are found as pdf and dxf files dated 12-11-2016 (layoutprintplaatgaltonboard12nov2016.pdf and layoutprintGB12nov2016zwarteprintlijnen.dxf) 
 Arduino material required: TBC.
-
-## Matlab file of mathematical and numerical design model 
-The first code was created between 28-05-2016 and 01-06-2016 for seminar at Imperial College on 01-06-2016. This first version was completed on 08-06-2016; continued further till 19-02-2018. The old version from 05-06-2016 is tabletopt1v2016.m (probably with the infamous error) and newer/newest version is tabletopt2v2016.m
 
 ## Funding
 Wetropolis was an outreach project within EPSRC Network Maths Foresees EP/M008525/1 (2015-2016); the outreach project funded Tom Kent and Wout Zweers, circa 10k plus travel and transport and 2.5k for update of Galton boards (2017).
@@ -43,6 +43,7 @@ The writing of the journal paper and the creation of this github in 2019 falls u
 ![wetroarticle](wetropolis2018.pdf)
 - O. Bokhove (2018) Wetropolis flood demonstrator. Final report EPSRC Maths Foresees network outreach project: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
 - O. Bokhove (2017) Wetropolis flood demonstrator. Blog in Data Assimilation of the Resilient city -DARE- project: http://blogs.reading.ac.uk/dare/2017/07/25/wetropolis-flood-demonstrator/
+
 
 # The story of Wetropolis' flood demonstrator
 
