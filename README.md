@@ -16,6 +16,14 @@ Wetropolis consists of several elements which we describe next:
 -The moor unit is made of acrylic and on the open side-face of the box a maze prevents the lava grit from avalanching into the river. The acrylic reservoir is open from the top and water can enter through a hole near the top edge. Outflow of water in the river is regulated via an internal pipe which outflow level can be manually adjusted. Hence, active flood control can be demonstrated by manually adjusting this outflow level. Via an adjustable valve, outflow into the canal can be arranged separately. Note that this is slightly different from the set-up in the mathematical and numerical design model, where the outflow of moor water was partitioned between the river and canal.
 - The set-up for the Galton boards including the Galton boards themselves, the accompanying Arduino control units, power sockets and plugs
   to operate the three aquarium pumps. The two draws from the discrete probability distribution are either computer generated or determined from the random paths of (a) steel ball(s) through the two asymmetric Galton boards. In the latter case, the steel ball triggers a signal by interupting optical sensors in one of the four channels on each Galton board. The signal subsequently steers either the reservoir pump, moor pump, both or none as arranged via the Arduino technology.
+  
+What follows next are:
+- links to other sites with some material, partly duplicated here,
+- links to the matlab design codes,
+- technical specs of programs used in the routing and the router,
+- information and files on the arduino design,
+- funding acknoqledgments and a few references, and
+- the more-or-less chronological story of the creation of Wetropolis.
 
 ## Location of design files for the Wetropolis Flood demonstrator
 The original design files for teh Galton boards are found at https://grabcad.com/mylibrarymodels search for Wout Zweers and then Galton board 2016. Note that there are 2018 updates used for a new Wetropolis design. For the landscape CAD designs see https://github.com/zweers but some files have been or will be redeposited here as well in the folder topodrawings e.g. image (```sketchbase```) with on the left measurement points indicated which are given in the excel file. 
@@ -36,7 +44,7 @@ Arduino material required: TBC.
 ## Funding
 Wetropolis was an outreach project within EPSRC Network Maths Foresees EP/M008525/1 (2015-2016); the outreach project funded Tom Kent and Wout Zweers, circa 10k plus travel and transport and 2.5k for update of Galton boards (2017).
 A summary report from May 2018 is found under outreach projects here: http://www1.maths.leeds.ac.uk/mathsforesees/projects.html and here: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
-The writing of the journal paper and the creation of this github in 2019 falls under the EU EFRO-project ``Wetropolis: tangible education and watermanagement``, see https://www.wetropolis.nl
+The writing of the journal paper and the creation of this github in 2019 falls under the EU EFRO-project "Wetropolis: tangible education and watermanagement", see https://www.wetropolis.nl
 
 ## References
 - O.Bokhove, T. Hicks, W. Zweers and T. Kent (2019) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. For  Hydrology and Earth System Sciences or Geoscience Communication. EGU journals. Draft-0 (```wetroarticle```)
@@ -50,7 +58,7 @@ The writing of the journal paper and the creation of this github in 2019 falls u
 While compilating the design files, we searched through our email. A chronological account nicely shows how the Wetropolis idea gradually grew to a definite design in a series of communications with Wout Zweers and visits to Wowlab as well as to two or three presentations:
 - one "Managing Risk in an Age of Extremes" at the Science of Flood workshop on May 8th 2016 in Hebden Bridge --see the file hebdenbrigde2016 -copy.pdf Notice the first design sketch (```1stsket```) on page 18 and that the final design became quite different.
 ![1stsket](figs/floodingmodel07052016.pdf)
-- an Email exchange with Dr Colin Cotter in which I promised a presentation and send him an abstract on 08-05-2015, before I had done any mathematical calculations. Talk about managing risk in the age of extremes!
+- an email exchange with Dr Colin Cotter in which I promised a presentation and send him an abstract on 08-05-2015, before I had done any mathematical calculations. Talk about managing risk in the age of extremes!
 "Sun 5/8/2016, 9:09 PM
 Hi Colin, Would the following work for the June 1st seminar for MPE? (The abstract is a) Bit "experimental/preliminary" but I think I have enough for a good overview and discussion. Besides it coincides with the writing of the outline. Let me know your comments before I send it in, please. --Onno
 
