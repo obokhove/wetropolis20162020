@@ -3,11 +3,16 @@
 ## Introduction
 The Wetropolis flood demonstrator is a conceptual, life installation showcasing what an extreme rainfall event is and how such an event can lead to extreme flooding of a city. A layman's introduction to Wetropolis is found in the following blog:
 http://blogs.reading.ac.uk/dare/2017/07/25/wetropolis-flood-demonstrator/
+Please read the blog first. Wetropolis is best experienced life but, second best, watched the following movies:
+- a first impression on 30-08-2016 https://youtu.be/1FIHFOn6IPQ
+- the equivalent of the River Aire Boxing Day flood of 2015 with flooding resulting from two wd's (10s) of consecutive extreme 90% rainfall (so 18s of rainfall in 20s) on 30-08-2016 https://youtu.be/N4Sp5gHXcz4
 
 ![](figs/20161707CIMG2121copy.jpg)
 
+
+
 ## Design files for Wetropolis Flood demonstrator and Galton boards
-Original ones: https://grabcad.com/mylibrarymodels search for Wout Zweers and then Galton board 2016. Note that there are 2018 updates used for a new Wetropolis design. See also https://github.com/zweers but some files have been or will be redeposited here as well in teh folder topodrawings e.g. image (```sketchbase```) with on the left measurement points indicated which are given in the excel file. 
+Original ones: https://grabcad.com/mylibrarymodels search for Wout Zweers and then Galton board 2016. Note that there are 2018 updates used for a new Wetropolis design. See also https://github.com/zweers but some files have been or will be redeposited here as well in the folder topodrawings e.g. image (```sketchbase```) with on the left measurement points indicated which are given in the excel file. 
 ![sketchbase](topodrawings/20160707dimensions04.pdf)
 
 ## Design foam plates 2016 CAD files
