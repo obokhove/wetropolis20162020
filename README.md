@@ -69,12 +69,12 @@ In a recent public event in Hebden Bridge, a town in Yorkshire that has seen a l
 - How (well) can we predict heavy precipitation and floods?
 - How (well) can we mitigate and control flooding?
 
-I will elucidate the answers to the above questions and use them in the design and modelling of an interactive, conceptual table-top demonstration and experiment on rainfall, flooding as well as flood mitigation and control. The design will serve two purposes: as public demonstration of the concepts of flooding and as a simplified test environment for mathematical models of flooding with rainfall, hydraulics, hydrology, data assimilation and flood control. For the test environment, I will identify the mathematical elements involved to model ``random’’ rain supply, channel/river flow, the hydrology of ``Hele-Shaw valleys’’ (illustrating the effects porous moors, fast run-off from tarmac, and the function of reservoirs), flow in bypass canals, and control features such as weirs and sluice gates as well as data assimilation using a few measurement points. Obviously, this is work in progress.
+I will elucidate the answers to the above questions and use them in the design and modelling of an interactive, conceptual table-top demonstration and experiment on rainfall, flooding as well as flood mitigation and control. The design will serve two purposes: as public demonstration of the concepts of flooding and as a simplified test environment for mathematical models of flooding with rainfall, hydraulics, hydrology, data assimilation and flood control. For the test environment, I will identify the mathematical elements involved to model "random" rain supply, channel/river flow, the hydrology of "Hele-Shaw valleys" (illustrating the effects porous moors, fast run-off from tarmac, and the function of reservoirs), flow in bypass canals, and control features such as weirs and sluice gates as well as data assimilation using a few measurement points. Obviously, this is work in progress.
 
-- Email from Wout on 30-05-2106: "Maak ook maar zo’n model voor Twente. Er viel hier net 20 mm in 15 minuten. Zelfs de straat stond blank, ondanks de hoge ligging en vlak voor de keukendeur was het 5 cm diep water. En er komen nog een paar buien aan, wow!"
-Please also make a mathematical model for Twente. Rainfall here a gew minutes ago accumulated to 20mm in 15min. The street was flooded, despite its higher situation and in front of the kicthen door the water was 5cm deep. More rain is expected. Wow!
+- Email from Wout on 30-05-2106: *Maak ook maar zo’n model voor Twente. Er viel hier net 20 mm in 15 minuten. Zelfs de straat stond blank, ondanks de hoge ligging en vlak voor de keukendeur was het 5 cm diep water. En er komen nog een paar buien aan, wow!*
+Please also make such a mathematical and numerical model for (rivers in) Twente. Rainfall here a gew minutes ago accumulated to 20mm in 15min. The street was flooded, despite its higher situation and in front of the kicthen door the water was 5cm deep. More rain is expected. Wow!
 
-- Email Wout 31-05-2016: *ik heb al materiaal gekocht. slang, klep, dik schuim, iets om detector mee te maken. "Materials have been bought: tube, valve, thick foam and something to amke a detector.* I have bought some material, in advance of your visit: tubing, a valve, thick foam, something to construct a waterlevel detector.
+- Email Wout 31-05-2016: *ik heb al materiaal gekocht. slang, klep, dik schuim, iets om detector mee te maken.* Materials have been bought: tube, valve, thick polystyrene foam and something to amake a detector. I have bought some material, in advance of your visit: tubing, a valve, thick foam, something to construct a waterlevel detector.
 
 - Email Wout 04-06-2016: *Plaatje freesmodel*. The first design was on one foam plated with a DDR-style city. We routed it but it was abandoned since the channel and residence time was too short. See file (```Figovers''') overstromingsmodel-rendering-03.JPG
 ![Figovers](overstromingsmodel-rendering-03.JPG)
@@ -84,12 +84,19 @@ Please also make a mathematical model for Twente. Rainfall here a gew minutes ag
 - At seminar on 01-06-2016:'On the science of floods: rainfall, flooding and flood control revisited in the design of a table-top model' at Imperial College on 01-06-2016, where the first completed mathematical and numerical desig model was revealed --see the file reading1J2016.pdf At this seminar, I/Onno ran the matlab simulation at the end of the seminar for 100 Wetropolis days, i.e. 1000s real time, which is about 100s computational time. While there should be 2.73 extreme events on average over 100 wd's, in that simulation it was not till day 99 that the first extreme rainfall event and flooding happened. Meanwhile I was babbling for 99s for the extreme event to appears, sweating buckts thinking that I had set up the simulation incorrectly. Then on day 100, bang, the extreme flooding event flooded the city. "Did you keep us in suspense on purpose, had you arrange this", I recall Prof Daryl Holm asking. "Sure", I said, and smiled: "I did not. I was swaeting buckets that something went wrong but, hey, that is probability for you". I think I saved a screen shot of this simulation with one spike on wd 99. See, indeed, the file (```simu''') simulator11ic.jpg
 ![simu](simulator11ic.jpg)
 
-- The test results of the first asymmetric Galton board (email Wout 30-06-2016): *Ik heb de aantallen even opgeteld. Na 10 x 16 kogels laten rollen:
-28           79           44           9  uitkomsten
-30           70           50           10 uit de kansverdeling. Dus dat ligt aardig in de buurt*
+- The test results of the first asymmetric Galton board (email Wout 30-06-2016): *Ik heb de aantallen even opgeteld. Na 10 x 16 kogels laten rollen:*
+
+ | links | midden links | midden rechts | rechts 
+____________________
+* trial uitkomsten* | 28     |      79     |      44    |    9  
+* kansverdeling*  | 30     |      70     |      50    |    10 
+*Dus dat ligt aardig in de buurt*
 I have added the outcome of Galton board after 10x16 trials with the steel balls, I obtained the following:
-28           79           44           9  histogram of outcomes
-30           70           50           10 outcomes for the actual distribution. So the two are fairly close.
+| Left | middle left | middle right | right 
+_____________
+histogram of outcomes | 28      |     79     |      44      |     9  
+actual distribution   | 30      |     70     |      50      |    10
+So the two are fairly close.
  
 - Four drawings/excel files of 2016 base plates (Email 07-07-2016 Wout) all dated with "20160707" in the file name  
 
