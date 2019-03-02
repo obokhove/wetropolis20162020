@@ -86,19 +86,19 @@ Please also make such a mathematical and numerical model for (rivers in) Twente.
 
 - The test results of the first asymmetric Galton board (email Wout 30-06-2016): *Ik heb de aantallen even opgeteld. Na 10 x 16 kogels laten rollen:*
 
-     | links | midden links | midden rechts | rechts 
------|-------|--------------|---------------|--------
-* trial uitkomsten* | 28     |      79     |      44    |    9  
-* kansverdeling*  | 30     |      70     |      50    |    10 
+| | links | midden links | midden rechts | rechts |
+|-----|-------|--------------|---------------|--------|
+|* trial uitkomsten* | 28 | 79 | 44 | 9 |
+|* kansverdeling* | 30 | 70 | 50 | 10 |
 
 *Dus dat ligt aardig in de buurt*
 
 I have added the outcome of Galton board after 10x16 trials with the steel balls, I obtained the following after 16x1 trials with teh steel balls rolling down a Galton board:
 
-     | Left | middle left | middle right | right 
------|------|-------------|--------------|-----------
-histogram of outcomes | 28      |     79     |      44      |     9  
-actual distribution   | 30      |     70     |      50      |    10
+|     | Left | middle left | middle right | right |
+|-----|------|-------------|--------------|-----------|
+|histogram of outcomes | 28      |     79     |      44      |     9  |
+|actual distribution   | 30      |     70     |      50      |    10  |
 
 So the two are fairly close.
  
