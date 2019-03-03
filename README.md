@@ -41,9 +41,9 @@ The print designs for the Arduino boards are found as pdf and dxf files dated 12
 Arduino material required: TBC.
 
 ## Funding
-Wetropolis was an outreach project within EPSRC Network Maths Foresees EP/M008525/1 (2015-2016); the outreach project funded Tom Kent and Wout Zweers, circa 10k plus travel and transport and 2.5k for update of Galton boards (2017).
+Wetropolis was an outreach project within EPSRC Network Maths Foresees EP/M008525/1 (2015-2016); the outreach project funded Tom Kent and Wout Zweers, circa 10k plus travel and transport and 2.5k for an update of the Galton boards (2017/2018).
 A summary report from May 2018 is found under outreach projects here: http://www1.maths.leeds.ac.uk/mathsforesees/projects.html and here: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
-The writing of the journal paper and the creation of this github in 2019 falls under the EU EFRO-project "Wetropolis: tangible education and watermanagement", see https://www.wetropolis.nl
+The writing of the journal paper and the creation of this github in 2019 falls under the EU project "Wetropolis: tangible education and watermanagement", see https://www.wetropolis.nl
 
 ## References
 - O.Bokhove, T. Hicks, W. Zweers and T. Kent (2019) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. For  Hydrology and Earth System Sciences or Geoscience Communication. EGU journals. Draft-0 (```wetroarticle```)
