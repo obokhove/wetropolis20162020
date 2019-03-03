@@ -127,9 +127,8 @@ A new topographic base-plate design is made (with some glitches) using new CAD s
 See also files starting 20180213 in folder topodrawings for several new design features: [topo2018](topodrawings/20180213overzicht1t10aanpassing.PNG)
 New river and city plain cross section in (```crosscity```) on 13-02-2018: ![crosscity](topodrawings/20180213doorsnederivierthvstad.PNG)
 
-- **_Arduino board_** The folder ```arduinofile2018``` contains the Arduino codes for the 2018-design of the Arduino boards. New Galton board with four recirculating steel balls via a FisherTechqniue construction, front (```NFMwet0```): ![NFMwet0](figs/20190118143917.jpg)
-back (```NFMwet1```): ![NFMwet1](figs/20190118144007.jpg)
-Overview new NFM topographic lanscape at Hydrotec Consulting (alas, the riverbed was not 1:100 but rather uneven so needs to be replaced) (```NFMwet2```): ![NFMwet2](figs/20190118143911.jpg)
-Deailt of the new reservoir, aquifer and recirculation: (```NFMwet3```): ![NFMwet3](figs/20190118143959.jpg)
+- **_Arduino board_** The folder ```arduinofile2018``` contains the Arduino codes for the 2018-design of the Arduino boards. New Galton board with four recirculating steel balls via a FisherTechqniue construction, a) front, b) back, and c) overview of new NFM topographic lanscape at Hydrotec Consulting (alas, the riverbed was not 1:100 but rather uneven so needs to be replaced) (```NFMwet2```): ![NFMwet2](figs/arduino2018compilation.pdf)
+
+Detail of the new reservoir, aquifer and recirculation units: (```NFMwet3```): ![NFMwet3](figs/20190118143959.jpg)
 
 
