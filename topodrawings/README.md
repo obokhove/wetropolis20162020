@@ -3,7 +3,7 @@
 **_Check second NFM-Wetropolis topography_**
 Monday 04-03-2019 Hand-measurements of mid-channel slope of polystyrene topography 2017 Wetropolis NFM plates. Using a simple handruler after levelling the set-up with a horizontal level, for both the foam-bounding box and the fitted foams themselves.
 
-| Point | height (cm) +-0.2cm | slope estimated | comment |
+| Point | height (cm) +-0.1cm | slope estimated | comment |
 |--------|-------|--------|--------|
 | 1 | 1.3 |-| 0.02m from inflow circle | 
 | 2 | 1.8 |0.0179 | 0.3m from inflow point | 
