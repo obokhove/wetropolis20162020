@@ -1,12 +1,12 @@
-Topography of landscape 
+## Topography of landscape 
 
 Monday 05-0-2019 Hand-measurements of mid-channel slope of polystyrene topography 2017 Qetropolis NFM plates  Using a simple handruler after levelling the set-up with a leveler, of both the box and the foams.
 
 | Point | height (mm) +-1mm | comment |
-----------------------------------------
+|--------|-------|----------------|
 | 1 | 1.3 | 0.02m from inflow circle | 
 | 2 | 1.8 | 0.3m from inflow point | 
-| 3 | 2.05 | | 0.6m from inflow point | 
+| 3 | 2.05| 0.6m from inflow point | 
 | 4 | 2.2 | 0.75m from inflow point | 
 | 5 | 2.4 | middle 1st bend | 
 | 6 | 2.6 | past ar opposite to 0.75m pt 4| 
