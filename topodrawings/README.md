@@ -3,7 +3,7 @@
 **_Check second NGM-Wetropolis topography_**
 Monday 05-0-2019 Hand-measurements of mid-channel slope of polystyrene topography 2017 Qetropolis NFM plates  Using a simple handruler after levelling the set-up with a leveler, of both the box and the foams.
 
-| Point | height (mm) +-1mm | slope estimated | comment |
+| Point | height (cm) +-0.2cm | slope estimated | comment |
 |--------|-------|--------|--------|
 | 1 | 1.3 |-| 0.02m from inflow circle | 
 | 2 | 1.8 |0.0179 | 0.3m from inflow point | 
@@ -23,4 +23,4 @@ Monday 05-0-2019 Hand-measurements of mid-channel slope of polystyrene topograph
 | 16| 5.65 |- | middle straight of exit bends |
 | 17| 6.8 | - | exit |
 
-In conclusion the slope of the main channel is pretty close to 1:100.
+In conclusion the slope of the main channel is pretty close to 1:100. Overall drop is 5.5cm over 4.2 or more meters, whcih is about 0.0131 slope.
