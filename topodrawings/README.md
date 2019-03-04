@@ -1,7 +1,7 @@
 ## Topography of landscape 
 
 **_Check second NFM-Wetropolis topography_**
-Monday 04-03-2019 Hand-measurements of mid-channel slope of polystyrene topography 2017 Qetropolis NFM plates  Using a simple handruler after levelling the set-up with a leveler, of both the box and the foams.
+Monday 04-03-2019 Hand-measurements of mid-channel slope of polystyrene topography 2017 Wetropolis NFM plates. Using a simple handruler after levelling the set-up with a horizontal level, for both the foam-bounding box and the fitted foams themselves.
 
 | Point | height (cm) +-0.2cm | slope estimated | comment |
 |--------|-------|--------|--------|
