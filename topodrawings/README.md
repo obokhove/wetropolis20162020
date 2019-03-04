@@ -23,4 +23,4 @@ Monday 04-03-2019 Hand-measurements of mid-channel slope of polystyrene topograp
 | 16| 5.65 |- | middle straight of exit bends |
 | 17| 6.8 | - | exit |
 
-In conclusion, the slope of the main channel is pretty close to 1:100. Overall drop is 5.5cm over 4.2 or more meters, whcih is about 0.0131 slope. I forgot to measure the overall length of the channel with a string.
+In conclusion, the slope of the main channel is pretty close to 1:100. Overall drop is 5.5cm over 4.2 or more meters, which is about a 0.0131 slope. I forgot to measure the overall length of the channel with a string.
