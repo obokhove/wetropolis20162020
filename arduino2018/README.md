@@ -12,7 +12,7 @@ For the 2017 and 2018 Arduino designs the  Arduino Mega-2560 has been used. The 
 -In the 2018 version uses  solid-state relais and in thee 2016 version a thread-winding relais. De solid-state relais is more trustworthy and mechanically stronger, causing less interference in the switching.
 
 #  Installatie arduino op apple: 
-- Curently, Arduino code uploads via the Mac-Apple are not possible (let us know if a solution has been found) because apple changed its operating system. We tried a Rasberry-Pi but at the moment we have troubles there too with one of the Mega's. 
+- Curently, Arduino code uploads via the Mac-Apple are not possible (let us know if a solution has been found) because apple changed its operating system. We tried a Rasberry-Pi but at the moment we have troubles there too with one of the Mega's. See also: https://www.raspberrypi.org/magpi/program-arduino-uno-raspberry-pi/
 
 # Testing: 
 - For testing, buying and using a separate Arduino is easier such that oen does not have to set up the entire installation.
