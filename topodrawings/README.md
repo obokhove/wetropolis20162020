@@ -34,7 +34,7 @@ In conclusion, the slope of the main channel is pretty close to 1:100. Overall d
 
 **_Quality-control protocol_**
 A quality-control protocol is therefore:
-- Qua1: level the polystyrene foam blocks in their actual setting with a horizontal level, both the foams and a bouding box, if any.
+- Qua1: level the polystyrene foam blocks in their actual setting with a horizontal level, both the foams and a bounding box, if any.
 - Qua2: relative to the top of the foam, assumed flat, please check, measure the depth of the main river channel from source to sink and check whether the measured slopes match the design slopes.
 - Qua3: repeat with caliper, if there is reason to do so.
 - Qua4: repeat if possible with a dumpymeter, if there is reason to do so.
