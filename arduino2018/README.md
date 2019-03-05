@@ -17,7 +17,7 @@ For the 2017 and 2018 Arduino designs the  Arduino Mega-2560 has been used. The 
 # Testing: 
 - For testing, buying and using a separate Arduino is easier such that oen does not have to set up the entire installation.
 - For testing with the pumps, we used two buckets with two pumps in one bucket and one in the other; keeping an eye on overflows. 
-- The program test can eb done with LEDs on the pins (with 330 Ohm resistance otherwise the ports are loaded to heavily). The LEDs will signal the statues of a ports: 0 or 1 for a signal (detection of a passing object/ball) kogel) one can use 8 push-buttons, with a (10K) resistor als pull-up resistor, otherwise there is a floating port which is alternatingly or 1.[*Onno: I can't follow the previous instructions*]
+- The program test can eb done with LEDs on the pins (with 330 Ohm resistance otherwise the ports are loaded to heavily). The LEDs will signal the statues of a ports: 0 or 1 for a signal (detection of a passing object/ball) kogel) one can use 8 push-buttons, with a (10k Ohm) resistor als pull-up resistor, otherwise there is a floating port which is alternatingly or 1. [*Onno: I can't follow the previous instructions*]
 - The pins can be connected directly with cables (jumping wires) or (safer and more clear) via a break-out shield. LEDs and buttons kun can be build on a broad-board, which is most straightfoward.
 
 # List of components voor Arduino Mega: 
@@ -29,5 +29,5 @@ https://www.hobbyelectronica.nl/product/arduino-mega-2560-ch340g-compatibel/
 - Furtehrmore, jumping wires are needed: https://www.kiwi-electronics.nl/jumperwires-kabeltjes/jumperwires-bundel
 - Bread-board (or broad-board) on which one can put the buttons and LEDs:  https://www.hobbyelectronica.nl/product/breadboard-830-insteekpunten/
 - Buttons: https://www.hobbyelectronica.nl/product/buttons-kleur-4-stuks/
-- Resostors on teh ports to protect against the leds from too much power, or toprevnt floating zeroes; (button use) resistors at 330Ohm (one for each LED): resistors 10k Ohm (one for each button); at: https://www.kiwi-electronics.nl/Weerstand-330-ohm-1-4-watt-5-procent-10-stuks?search=weerstanden&description=true and https://www.kiwi-electronics.nl/Weerstand-10K-ohm-1-4-watt-5-procent-10-stuks?search=weerstanden&description=true
-- Optional: resistors 1MOhm (for waterdepth sensor, if required, one for each pin); at: https://www.conrad.nl/p/koolfilmweerstand-1-m-axiaal-bedraad-0207-025-w-5-yageo-cfr-25jt-52-1m0-1-stuks-1417664
+- Resistors on the ports to protect against the LEDs from burning/too much power, or to prevent floating zeroes; (for button use) resistors at 330Ohm (one for each LED): resistors 10k Ohm (one for each button); at: https://www.kiwi-electronics.nl/Weerstand-330-ohm-1-4-watt-5-procent-10-stuks?search=weerstanden&description=true and https://www.kiwi-electronics.nl/Weerstand-10K-ohm-1-4-watt-5-procent-10-stuks?search=weerstanden&description=true
+- Optional: resistors 1M Ohm (for waterdepth sensor, if required, one for each pin); at: https://www.conrad.nl/p/koolfilmweerstand-1-m-axiaal-bedraad-0207-025-w-5-yageo-cfr-25jt-52-1m0-1-stuks-1417664
