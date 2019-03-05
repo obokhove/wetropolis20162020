@@ -1,6 +1,13 @@
 ## Topography of landscape 
 
-**_Check second NFM-Wetropolis topography_**
+# Topography design files 2016, 2017-NFM and 2018
+There are currently design files for the topography of:
+- the Augusts-2016 version, marked 072016, 082018 or aug2016feb2017.
+- the 2017 Natural Flood Management (NFM), marked 2017NFM.
+
+The procedure to use these in autocad and set up the routing is standard and/or will be explained shortly.
+
+# Protocol and check second NFM-Wetropolis topography
 Monday 04-03-2019 Hand-measurements of mid-channel slope of polystyrene topography 2017 Wetropolis NFM plates. Using a simple handruler after levelling the set-up with a horizontal level, for both the foam-bounding box and the fitted foams themselves. The ruler has an offset H=(0.7+-0.1)cm. It is better to use a caliper and, if possible also, a dumpymeter to check the topography routed in the foam block but the use of a ruler suffices as a first check of anomalies.
 
 | Point | height (cm) +-0.1cm | slope estimated | comment |
@@ -23,4 +30,8 @@ Monday 04-03-2019 Hand-measurements of mid-channel slope of polystyrene topograp
 | 16| H+5.65 |- | middle straight of exit bends |
 | 17| H+6.8 | - | exit |
 
-In conclusion, the slope of the main channel is pretty close to 1:100. Overall drop is 5.5cm over 4.2 or more meters, which is about a 0.0131 slope. I forgot to measure the overall length of the channel with a string. 
+In conclusion, the slope of the main channel is pretty close to 1:100. Overall drop is 5.5cm over 4.2 or more meters, which is about a 0.0131 slope. I forgot to measure the overall length of the channel with a string. A qaulity-control protocol is therefore:
+- Qua1: level the polystyrene foam blocks in their actual setting with a horizontal level, both the foams and a bouding box, if any.
+- Qua2: relative to the top of the foam, assumed flat, please check, measure the depth of the main river channel from source to sink and check whether the measured slopes match the design slopes.
+- Qua3: repeat with caliper, if there is reason to do so.
+- Qua4: repeat if possible with a dumpymeter, if there is reason to do so.
