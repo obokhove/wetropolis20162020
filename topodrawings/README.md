@@ -30,7 +30,10 @@ Monday 04-03-2019 Hand-measurements of mid-channel slope of polystyrene topograp
 | 16| H+5.65 |- | middle straight of exit bends |
 | 17| H+6.8 | - | exit |
 
-In conclusion, the slope of the main channel is pretty close to 1:100. Overall drop is 5.5cm over 4.2 or more meters, which is about a 0.0131 slope. I forgot to measure the overall length of the channel with a string. A qaulity-control protocol is therefore:
+In conclusion, the slope of the main channel is pretty close to 1:100. Overall drop is 5.5cm over 4.2 or more meters, which is about a 0.0131 slope. I forgot to measure the overall length of the channel with a string. 
+
+**_Quality-control protocol_**
+A quality-control protocol is therefore:
 - Qua1: level the polystyrene foam blocks in their actual setting with a horizontal level, both the foams and a bouding box, if any.
 - Qua2: relative to the top of the foam, assumed flat, please check, measure the depth of the main river channel from source to sink and check whether the measured slopes match the design slopes.
 - Qua3: repeat with caliper, if there is reason to do so.
