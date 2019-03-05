@@ -29,7 +29,7 @@ The original design files for the Galton boards are found at https://grabcad.com
 ![sketchbase](topodrawings/20160707dimensions04.pdf)
 
 ## Matlab file of mathematical and numerical design model 
-The first code was created between 28-05-2016 and 01-06-2016 for seminar at Imperial College on 01-06-2016. This first version was completed on 08-06-2016; continued further till 19-02-2018. The old version from 05-06-2016 is ```tabletopt1v2016.m``` (probably with the infamous error) and newer/newest version is ```tabletopt2v2016.m```. Version-3 from March 2019 contains simple label changes from curvilinear along-river coordinate x to s, see ```tabletopt1v2016.m```, to streamline notation in the article.
+The first code was created between 28-05-2016 and 01-06-2016 for seminar at Imperial College on 01-06-2016. This first version was completed on 08-06-2016; continued further till 19-02-2018. The old version from 05-06-2016 is ```tabletopt1v2016.m``` (probably with the infamous error) and newer/newest version is ```tabletopt2v2016.m```. Version-3 from March 2019 contains simple label changes from curvilinear along-river coordinate x to s, see ```tabletopt3v2019.m```, to streamline notation in the article.
 
 ## Topographic landscape polystyrene plates, CAD files (2016)
 The CAD programs used are the following: Solidworks for designs, saved as Step file for import in Rhino (V5); plugin in Rhino for routing: Rhinocam 5, which generates routing/freesfiles (NC files); routing is done on a BZT 1400 PF router/frees with Winpc-nc driver.
