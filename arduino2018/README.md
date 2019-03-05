@@ -1,8 +1,6 @@
 ## Arduino Design Galton Board 2018 (full translation/adapatation will follow in due course)
 
-Design GrabCad files have extension.dxf (pdf version for direct viewing added TBD). Instructions (TBC):
-- Open the CAD program
-- Open the appropriate file with extension.dxf
+Design GrabCad files have extension.dxf (pdf version for direct viewing added). For instructions see the gradcad of Wout Zweers, since the files are rather large: goto https://grabcad.com/ and search for Wout Zweers; there are folders for the 2016, 2017 and 2018 designs.
 
 Photographic overview in file (```Arduino2018pdf''') ![Arduino2018pdf](arduino2018/Arduinofile201805032019.pdf)
 
