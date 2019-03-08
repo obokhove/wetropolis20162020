@@ -22,7 +22,7 @@ What follows next are:
 - technical specs of programs used in the routing and the router,
 - information and files on the arduino design,
 - funding acknowledgments and references, and
-- the more-or-less chronological story of the creation of Wetropolis; it contains the basic information, often *in Dutch* (i.e. in italics), as well as translation, of various steps and issues we faced in the design. This information may later be ordered differently.
+- the more-or-less chronological story of the creation of Wetropolis; it contains the basic information, often *in Dutch* (i.e. in italics), with accompanying translation/adaption in English, of various steps and issues we faced in the design. This information may later be ordered differently. Suggestions and questions are welcomed.
 
 ## Location of design files for the Wetropolis Flood demonstrator
 The original design files for the Galton boards are found at https://grabcad.com/mylibrarymodels search for Wout Zweers and then Galton board 2016. Note that there are 2018 updates used for a new Wetropolis design. For the landscape CAD designs see https://github.com/zweers but some files have been or will be redeposited here as well in the folder topodrawings e.g. image (```sketchbase```) with on the left measurement points indicated which are given in the excel file. 
