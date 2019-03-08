@@ -58,7 +58,7 @@ The Natural Flood Management Wetropolis flood demonstrator, in short Wetropolis 
 - The presentation "Managing Risk in an Age of Extremes" at the Science of Flood workshop on May 8th 2016 in Hebden Bridge --see the file hebdenbrigde2016 -copy.pdf Please notice the first design sketch (```1stsket```) on page 18 and that the final design became quite different.
 ![1stsket](figs/floodingmodel07052016.pdf)
 - The presentation "On the Science of Floods: Rainfall, Flooding, and Flood Control revisited in the Design of a Table-Top Model" with the abstract developed in an email exchange with Dr Colin Cotter in which I promised a presentation and send him an abstract on 08-05-2015, before I had done any mathematical calculations. Talking about managing risk in the age of extremes!
-The source material given below contains invaluable information on the design, which may be streamlined further at a later stage, with the risk of losing some information.
+- Note that the (in part raw) source material given below contains invaluable information on the design, which may be streamlined further at a later stage, but with the risk of losing some information.
 
 **_Presentation at Imperial College_** 
 "Sun 5/8/2016, 9:09 PM
