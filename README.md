@@ -33,12 +33,11 @@ The first code was created between 28-05-2016 and 01-06-2016 for OBs seminar at 
 
 ## Topographic landscape polystyrene plates, CAD files (2016)
 The CAD programs used are the following: Solidworks for designs, saved as Step file for import in Rhino (V5); plugin in Rhino for routing: Rhinocam 5, which generates routing/freesfiles (NC files); routing is done on a BZT 1400 PF router/frees with Winpc-nc driver.
-Browse the date-marked files in ```/figs``` folder for a photographic tour of the design. (To be updated with a pdf/2nd readfigs file).
+Browse the date-marked files in ```/figs``` folder for a photographic tour of the design. See the readme in the topodrawings directory.
 
 ## Arduino board and codes for automated internal Galton boards (2016-2018)
 See file: arduinofil/schakelaar_kogeltjes_galtonboard-V0.12-30_aug_2016.ino (30-08-2016) and arduinofil/galton_board_november_2016-V02.1.ino (November 2016).
-The print designs for the Arduino boards are found as pdf and dxf files dated 12-11-2016 (layoutprintplaatgaltonboard12nov2016.pdf and layoutprintGB12nov2016zwarteprintlijnen.dxf) 
-Arduino material required: TBC.
+The print designs for the Arduino boards are found as pdf and dxf files dated 12-11-2016 (layoutprintplaatgaltonboard12nov2016.pdf and layoutprintGB12nov2016zwarteprintlijnen.dxf) See the readme in the Arduino2018 directory and the arduinofil directory for more details.
 
 ## Funding
 Wetropolis was an outreach project within EPSRC Network Maths Foresees EP/M008525/1 (2015-2016); the outreach project funded Tom Kent and Wout Zweers, circa 10k plus travel and transport and 2.5k for an update of the Galton boards (2017/2018).
