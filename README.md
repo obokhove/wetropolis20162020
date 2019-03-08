@@ -40,9 +40,10 @@ See file: arduinofil/schakelaar_kogeltjes_galtonboard-V0.12-30_aug_2016.ino (30-
 The print designs for the Arduino boards are found as pdf and dxf files dated 12-11-2016 (layoutprintplaatgaltonboard12nov2016.pdf and layoutprintGB12nov2016zwarteprintlijnen.dxf) See the readme in the Arduino2018 directory and the arduinofil directory for more details.
 
 ## Funding
-Wetropolis was an outreach project within EPSRC Network Maths Foresees EP/M008525/1 (2015-2016); the outreach project funded Tom Kent and Wout Zweers, circa 10k plus travel and transport and 2.5k for an update of the Galton boards (2017/2018).
+The first version of Wetropolis was an outreach project within the EPSRC Network Maths Foresees EP/M008525/1 (2015-2016); the outreach project funded Tom Kent and Wout Zweers, circa 10k plus travel and transport and 2.5k for an update of the Galton boards (2017/2018).
 A summary report from May 2018 is found under outreach projects here: http://www1.maths.leeds.ac.uk/mathsforesees/projects.html and here: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
 The writing of the journal paper and the creation of this github in 2019 falls under the EU project "Wetropolis: tangible education and watermanagement", see https://www.wetropolis.nl
+The Natural Flood Management Wetropolis flood demonstrator, in short Wetropolis NFM, is to date (March 2019) under construction, and received funding from the CDT in Fluid Dynamics (Leeds), JBA Trust, the School of Mathematics and the School of Civil Enginerinring from the University of Leeds. Wetropolis NFM contains different elements: foam plates, FisherTechnique marble run and Arduino by Wowlab (Ir. Wout Zweers), Hydrotec Consultants Ltd (Leeds-Bradford), with assistance and direction by OB.More on Wetropolis NFM below.
 
 ## References
 - O.Bokhove, T. Hicks, W. Zweers and T. Kent (2019) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. For  Hydrology and Earth System Sciences or Geoscience Communication. EGU journals. Draft-0 (```wetroarticle```)
