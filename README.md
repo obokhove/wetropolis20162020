@@ -50,12 +50,13 @@ The Natural Flood Management Wetropolis flood demonstrator, in short Wetropolis 
 ![wetroarticle](wetropolis2018.pdf) See also: https://eartharxiv.org/au5sy
 - O. Bokhove (2018) Wetropolis flood demonstrator. Final report EPSRC Maths Foresees network outreach project: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
 - O. Bokhove (2017) Wetropolis flood demonstrator. Blog in Data Assimilation of the Resilient city -DARE- project: http://blogs.reading.ac.uk/dare/2017/07/25/wetropolis-flood-demonstrator/
-----
+
 
 ## Selected presentations
-- "Managing Risk in an Age of Extremes" by OB, at Hebden Bridge "Science of Floods" event 2016. See ```hebdenbridge''' ![hebdenbridge](hebdenbrigde2016.pdf) and 
+- "Managing Risk in an Age of Extremes" by OB, at Hebden Bridge "Science of Floods" event 2016; https://www.pennineprospects.co.uk/news/the-science-of-floods. See ```hebdenbridge''' ![hebdenbridge](hebdenbridge2016.pdf)
 - "Wetropolis flood demonstrator: on extreme rainfall & river flooding" by OB Seminar in Oxford December 2016. See ```Oxford''' ![Oxford](WetropolisO2016.pdf)
 - "Wetropolis' Flood Demonstrator: mathematical design & drowning by numbers" by OB at At European General Assembley April 2018: ```EGUWetropolis''' ![EGUwetropolis](wetropolisegu2018.pdf)
+----
 
 # The story of Wetropolis' flood demonstrator
 
