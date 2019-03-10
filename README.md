@@ -53,9 +53,9 @@ The Natural Flood Management Wetropolis flood demonstrator, in short Wetropolis 
 ----
 
 ## Selected presentations
-- "Managing Risk in an Age of Extremes" by OB, at Hebden Bridge "Science of Floods" event 2016. See ```hebdenbridge''' ![hebdenbridge](hebdenbrigde2016-copy.pdf)
-- Seminar in Oxford 2017.
-- "Wetropolis' Flood Demonstrator: mathematical design & drowning by numbers" by OB at At European General Assembley April 2018: ```EGUWetropolis'' ![EGUwetropolis](wetropolisegu2018.pdf)
+- "Managing Risk in an Age of Extremes" by OB, at Hebden Bridge "Science of Floods" event 2016. See ```hebdenbridge''' ![hebdenbridge](hebdenbrigde2016.pdf) and 
+- "Wetropolis flood demonstrator: on extreme rainfall & river flooding" by OB Seminar in Oxford December 2016. See ```Oxford''' ![Oxford](WetropolisO2016.pdf)
+- "Wetropolis' Flood Demonstrator: mathematical design & drowning by numbers" by OB at At European General Assembley April 2018: ```EGUWetropolis''' ![EGUwetropolis](wetropolisegu2018.pdf)
 
 # The story of Wetropolis' flood demonstrator
 
