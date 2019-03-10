@@ -52,6 +52,10 @@ The Natural Flood Management Wetropolis flood demonstrator, in short Wetropolis 
 - O. Bokhove (2017) Wetropolis flood demonstrator. Blog in Data Assimilation of the Resilient city -DARE- project: http://blogs.reading.ac.uk/dare/2017/07/25/wetropolis-flood-demonstrator/
 ----
 
+## Selected presentations
+- "Managing Risk in an Age of Extremes" by OB, at Hebden Bridge "Science of Floods" event 2016.
+- "Wetropolis' Flood Demonstrator: mathematical design & drowning by numbers" by OB at At European General Assembley April 2018: ```EGUWetropolis'' ![EGUwetropolis](wetropolisegu2018.pdf)
+
 # The story of Wetropolis' flood demonstrator
 
 **_Mathematical/numerical design_**. While compilating the design files, we searched through our emails. A chronological account shows how the Wetropolis idea gradually grew to a definite design in a series of communications with Wout Zweers and visits to Wowlab as well as to two or three presentations:
