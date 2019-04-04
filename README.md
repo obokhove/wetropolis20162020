@@ -46,7 +46,7 @@ The writing of the journal paper and the creation of this github in 2019 falls u
 The Natural Flood Management Wetropolis flood demonstrator, in short Wetropolis NFM, is to date (March 2019) under construction, and received funding from the CDT in Fluid Dynamics (Leeds), JBA Trust, the School of Mathematics and the School of Civil Enginerinring from the University of Leeds. Wetropolis NFM contains different elements: foam plates, FisherTechnique marble run and Arduino by Wowlab (Ir. Wout Zweers), Hydrotec Consultants Ltd (Leeds-Bradford), with assistance and direction by OB.More on Wetropolis NFM below.
 
 ## References
-- O.Bokhove, T. Hicks, W. Zweers and T. Kent (2019) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. Submitted to *Hydrology and Earth System Sciences*. (```wetroarticle```)
+- O. Bokhove, T. Hicks, W. Zweers and T. Kent (2019) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. Submitted to *Hydrology and Earth System Sciences*. (```wetroarticle```)
 ![wetroarticle](wetropolis2018.pdf) See also: https://eartharxiv.org/59ymk/
 - O. Bokhove (2018) Wetropolis flood demonstrator. Final report EPSRC Maths Foresees network outreach project: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
 - O. Bokhove (2017) Wetropolis flood demonstrator. Blog in Data Assimilation of the Resilient city -DARE- project: http://blogs.reading.ac.uk/dare/2017/07/25/wetropolis-flood-demonstrator/
