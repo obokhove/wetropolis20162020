@@ -50,7 +50,7 @@ The Natural Flood Management Wetropolis flood demonstrator, in short Wetropolis 
 ![wetroarticle](wetropolis2018.pdf) See also: https://eartharxiv.org/59ymk/
 - O. Bokhove (2018) Wetropolis flood demonstrator. Final report EPSRC Maths Foresees network outreach project: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
 - O. Bokhove (2017) Wetropolis flood demonstrator. Blog in Data Assimilation of the Resilient city -DARE- project: http://blogs.reading.ac.uk/dare/2017/07/25/wetropolis-flood-demonstrator/
-- O. Bokhove, Tom Kent, Henk de Poot, Wout Zweers 2019: Wetropolis: models for educa8on & water-management of floods and droughts. Poster EGU Vienna 2019. (```posteregu2019```) ![posteregu2019](WetropolisposterEGU2019p.pdf)
+- O. Bokhove, Tom Kent, Henk de Poot, Wout Zweers 2019: Wetropolis: models for education and water-management of floods and droughts. Poster EGU Vienna April 7-11 2019. (```posteregu2019```) ![posteregu2019](WetropolisposterEGU2019p.pdf)
 
 ## Selected presentations
 - O. Bokhove (2016) "Managing Risk in an Age of Extremes". Hebden Bridge "Science of Floods" event 2016; https://www.pennineprospects.co.uk/news/the-science-of-floods. See (```hebdenbridge```) ![hebdenbridge](hebdenbridge2016.pdf).
