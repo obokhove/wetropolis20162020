@@ -43,19 +43,20 @@ The print designs for the Arduino boards are found as pdf and dxf files dated 12
 The first version of Wetropolis was an outreach project within the EPSRC Network Maths Foresees EP/M008525/1 (2015-2016); the outreach project funded Tom Kent and Wout Zweers, circa 10k plus travel and transport and 2.5k for an update of the Galton boards (2017/2018).
 A summary report from May 2018 is found under outreach projects here: http://www1.maths.leeds.ac.uk/mathsforesees/projects.html and here: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
 The writing of the journal paper and the creation of this github in 2019 falls under the EU project "Wetropolis: tangible education and watermanagement", see https://www.wetropolis.nl
-The Natural Flood Management Wetropolis flood demonstrator, in short Wetropolis NFM, is to date (March 2019) under construction, and received funding from the CDT in Fluid Dynamics (Leeds), JBA Trust, the School of Mathematics and the School of Civil Enginerinring from the University of Leeds. Wetropolis NFM contains different elements: foam plates, FisherTechnique marble run and Arduino by Wowlab (Ir. Wout Zweers), Hydrotec Consultants Ltd (Leeds-Bradford), with assistance and direction by OB.More on Wetropolis NFM below.
+The Natural Flood Management Wetropolis flood demonstrator, in short Wetropolis NFM, is to date (March 2019) under construction, and received funding from the CDT in Fluid Dynamics (Leeds), JBA Trust, the School of Mathematics and the School of Civil Enginerinring from the University of Leeds. Wetropolis NFM contains different elements: foam plates, FisherTechnique marble run and Arduino by Wowlab (Ir. Wout Zweers), Hydrotec Consultants Ltd (Leeds-Bradford), with assistance and direction by OB. More on Wetropolis NFM below.
 
 ## References
 - O. Bokhove, T. Hicks, W. Zweers and T. Kent (2019) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. Submitted to *Hydrology and Earth System Sciences*. (```wetroarticle```)
 ![wetroarticle](wetropolis2018.pdf) See also: https://eartharxiv.org/59ymk/
 - O. Bokhove (2018) Wetropolis flood demonstrator. Final report EPSRC Maths Foresees network outreach project: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
 - O. Bokhove (2017) Wetropolis flood demonstrator. Blog in Data Assimilation of the Resilient city -DARE- project: http://blogs.reading.ac.uk/dare/2017/07/25/wetropolis-flood-demonstrator/
-- Onno Bokhove, Tom Kent, Henk de Poot, Wout Zweers 2019. Wetropolis: models for education and water-management of floods and droughts. Poster EGU Vienna April 7-11 2019. (```posteregu2019```) ![posteregu2019](WetropolisposterEGU2019p.pdf)
 
 ## Selected presentations
 - O. Bokhove (2016) "Managing Risk in an Age of Extremes". Hebden Bridge "Science of Floods" event 2016; https://www.pennineprospects.co.uk/news/the-science-of-floods. See (```hebdenbridge```) ![hebdenbridge](hebdenbridge2016.pdf).
 - O. Bokhove (2016) "Wetropolis flood demonstrator: on extreme rainfall & river flooding". Seminar in Oxford December 2016. See (```Oxford```) ![Oxford](WetropolisO2016.pdf).
 - O. Bokhove (2018) "Wetropolis' Flood Demonstrator: mathematical design & drowning by numbers". See (```EGUWetropolis```) ![EGUwetropolis](wetropolisegu2018.pdf). *Geophysical Research Abstracts* 20, EGU 2018-1974, 2018. EGU General Assembly Vienna.
+- Onno Bokhove, Tom Kent, Henk de Poot, Wout Zweers 2019. Wetropolis: models for education and water-management of floods and droughts. Poster EGU Vienna April 7-11 2019. (```posteregu2019```) ![posteregu2019](WetropolisposterEGU2019p.pdf)
+- M. Kelmanson, O. Bokhove, T. Kent, G. Piton, J.-M. Tacnet 2019: Using flood-excess volume to assess and communicate flood-mitigation schemes. Presentationof water-management flood-mitigation cost-effectiveness analysis triggered by Wetropolis. (```pregu2019```) ![posteregu2019](egufev2019.pdf) Pending more minor adjustments. 
 ----
 
 # The story of Wetropolis' flood demonstrator
