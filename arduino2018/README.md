@@ -10,7 +10,7 @@ Design GrabCad files have extension.dxf (pdf version for direct viewing added). 
 Photographic overview in file (```Arduino2018pdf''') ![Arduino2018pdf](arduino2018/Arduinofile201805032019.pdf)
 
 # Arduino design 2016 and 2017
-For the 2017 and 2018 Arduino designs the  Arduino Mega-2560 has been used. The sketches are diffrent for the 2017 and 2018 versions since pin-numbers have changes, so one cannot switche the Mega-2560 around. The pin-nummers in de GB-2016 layout correspond with names in the Arduino-2016 sketch, under variables/pins in the code with extension .ino
+For the 2017 and 2018 Arduino designs the  Arduino Mega-2560 has been used. The sketches are different for the 2017 and 2018 versions since pin-numbers have changed, so one cannot switche the Mega-2560 around. The pin-nummers in de GB-2016 layout correspond with names in the Arduino-2016 sketch, under variables/pins in the code with extension .ino
 
 # Difference between 2016 en 2018: 
 - In de 2018 version is the servo-motor steering for triggering the ball-releaese changed by the autonomous marble-run and in order to get a closed system, also because the servo-motors were not always working well.
