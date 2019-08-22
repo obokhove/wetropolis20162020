@@ -59,6 +59,7 @@ schemes using flood-excess volume. River Research and Applications. In press. Pr
 - O. Bokhove (2018) "Wetropolis' Flood Demonstrator: mathematical design & drowning by numbers". See (```EGUWetropolis```) ![EGUwetropolis](wetropolisegu2018.pdf). *Geophysical Research Abstracts* 20, EGU 2018-1974, 2018. EGU General Assembly Vienna.
 - Onno Bokhove, Tom Kent, Henk de Poot, Wout Zweers 2019. Wetropolis: models for education and water-management of floods and droughts. Poster EGU Vienna April 7-11 2019. (```posteregu2019```) ![posteregu2019](WetropolisposterEGU2019p.pdf)
 - M. Kelmanson, O. Bokhove, T. Kent, G. Piton, J.-M. Tacnet 2019: Using flood-excess volume to assess and communicate flood-mitigation schemes. Presentation of water-management flood-mitigation cost-effectiveness analysis triggered by Wetropolis. (```presegu2019```) ![presegu2019](egufev2019.pdf) Pending more minor adjustments. 
+- Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G., Tacnet, J.-M. 2019b: Public empowerment in flood mitigation. Flood and Coast 2019, Telford UK, June 18th. Conference. Accessible presentation matching the above River Research and Applications article: http://www1.maths.leeds.ac.uk/~obokhove/coastriverfev2019.pdf
 ----
 
 # The story of Wetropolis' flood demonstrator
