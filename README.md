@@ -47,7 +47,7 @@ The Natural Flood Management Wetropolis flood demonstrator, in short Wetropolis 
 
 ## References
 - O. Bokhove, T. Hicks, W. Zweers and T. Kent (2019) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. Submitted to *Hydrology and Earth System Sciences*. (```wetroarticle```)
-![wetroarticle](wetropolis2018.pdf) See also: https://eartharxiv.org/59ymk/
+![wetroarticle](wetropolis2018.pdf) See also: https://eartharxiv.org/59ymk/ and submitted version online for review: https://www.hydrol-earth-syst-sci-discuss.net/hess-2019-191/
 - O. Bokhove (2018) Wetropolis flood demonstrator. Final report EPSRC Maths Foresees network outreach project: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
 - O. Bokhove (2017) Wetropolis flood demonstrator. Blog in Data Assimilation of the Resilient city -DARE- project: http://blogs.reading.ac.uk/dare/2017/07/25/wetropolis-flood-demonstrator/
 - O. Bokhove, T. Kent, M. Kelmanson, G. Piton, J.-M. Tacnet 2019: Communicating (nature-based) flood-mitigation
