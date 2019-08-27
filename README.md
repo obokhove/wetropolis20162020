@@ -1,4 +1,4 @@
-# Wetropolis Design 2016-2019
+# Wetropolis Design 2016-2019, Wetropolis spin-off projects
 
 ## Introduction
 The Wetropolis flood demonstrator is a conceptual, physical installation showcasing what an extreme rainfall event is and how such an event can lead to extreme flooding of a city. A layman's introduction to Wetropolis is found in the following blog:
@@ -60,6 +60,11 @@ schemes using flood-excess volume. River Research and Applications. In press. Pr
 - Onno Bokhove, Tom Kent, Henk de Poot, Wout Zweers 2019. Wetropolis: models for education and water-management of floods and droughts. Poster EGU Vienna April 7-11 2019. (```posteregu2019```) ![posteregu2019](WetropolisposterEGU2019p.pdf)
 - M. Kelmanson, O. Bokhove, T. Kent, G. Piton, J.-M. Tacnet 2019: Using flood-excess volume to assess and communicate flood-mitigation schemes. Presentation of water-management flood-mitigation cost-effectiveness analysis triggered by Wetropolis. (```presegu2019```) ![presegu2019](egufev2019.pdf) Pending more minor adjustments. 
 - Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G., Tacnet, J.-M. 2019b: Public empowerment in flood mitigation. Flood and Coast 2019, Telford UK, June 18th. Conference. Accessible presentation matching the above River Research and Applications article: http://www1.maths.leeds.ac.uk/~obokhove/coastriverfev2019.pdf
+
+## Wetropolis spin-off projects
+- Cost-effectiveness analysis of flood-mitigation plans: see the work of Bokhove, Kelmanson, Kent, Piton and Tacnet in References and Selected presentations above.
+- Advisory work for Wainfleet Flood Action Group (W-FLAG) based on 19-08-2019 visit to Wainfleet in Lincolnshire: (```wfag2019```) ![wfag2019](ObservationssuggestionsWainfleetfloodprotection4.pdf) Will be updated.
+
 ----
 
 # The story of Wetropolis' flood demonstrator
