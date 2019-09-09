@@ -1,4 +1,4 @@
-# Wetropolis Design 2016-2019, Wetropolis spin-off projects
+# Wetropolis Design 2016-2019 & Wetropolis spin-off projects
 
 ## Introduction
 The Wetropolis flood demonstrator is a conceptual, physical installation showcasing what an extreme rainfall event is and how such an event can lead to extreme flooding of a city. A layman's introduction to Wetropolis is found in the following blog:
