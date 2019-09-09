@@ -63,7 +63,8 @@ schemes using flood-excess volume. River Research and Applications. In press. Pr
 
 ## Wetropolis spin-off projects
 - Cost-effectiveness analysis of flood-mitigation plans: see the work of Bokhove, Kelmanson, Kent, Piton and Tacnet in References and Selected presentations above.
-- Advisory work for Wainfleet Flood Action Group (W-FLAG) based on 19-08-2019 visit to Wainfleet in Lincolnshire: (```wfag2019```) ![wfag2019](ObservationssuggestionsWainfleetfloodprotection4.pdf) Will be updated. Annotated overview map:
+- Advisory work for Wainfleet Flood Action Group (W-FLAG) based on 19-08-2019 visit to Wainfleet in Lincolnshire: (```wfag2019```) ![wfag2019](ObservationssuggestionsWainfleetfloodprotection4.pdf) Will be updated/under construction.
+*Figure.* Overview map of the area, River Steeping and alleviation/relief canal around Wainfleet All Saints. North is upward. A distance scale is found bottom-right:
 ![overview](overview.jpg)
 
 ----
