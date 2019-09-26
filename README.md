@@ -45,7 +45,8 @@ A summary report from May 2018 is found under outreach projects here: http://www
 The writing of the journal paper and the creation of this github in 2019 falls under the EU project "Wetropolis: tangible education and watermanagement", see https://www.wetropolis.nl
 The Natural Flood Management Wetropolis flood demonstrator, in short Wetropolis NFM, is to date (March 2019) under construction, and received funding from the CDT in Fluid Dynamics (Leeds), JBA Trust, the School of Mathematics and the School of Civil Engineering from the University of Leeds. Wetropolis NFM contains different elements: foam plates, FisherTechnique marble run and Arduino by Wowlab (Ir. Wout Zweers), Hydrotec Consultants Ltd (Leeds-Bradford), with assistance and direction by OB. More on Wetropolis NFM below.
 
-The latest funding stems from the current EU-Efro-project (2018-2021) "Wetropolis Interactive, tangible models for education and watermanagement": https://www.wetropolis.nl/ Work done under this projet includes:
+The latest funding stems from the current EU-Efro-project (2018-2021) "Wetropolis Interactive, tangible models for education and watermanagement": https://www.wetropolis.nl/
+Work done under this project includes:
 - establishing this GitHub-site such that the Wetropolis flood demonstrator design is a) reported and b) can be used by others for modification and inspiration (Jan-March 2019);
 - write-up and submission of article on Wetropolis, presently submitted to HESS, co-authors Bokjove and Zweers are partners in Wetropolis-EU-Efro project (Jan-March 2019)
 - creation of poster for and presentation at EGU2019 in Vienna with Bokhove, Kent, Zweers and De Poot, all partners in Wetropolis-EU-Efro project except for Tom Kent (March-April 2019);
