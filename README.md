@@ -49,21 +49,21 @@ The latest funding stems from the current EU-Efro-project (2018-2021) "Wetropoli
 
 (i) The 1st batch of work for EU-Efro done includes (Jan-June 2019, ca. 100hrs):
 - establishing this GitHub-site such that the Wetropolis flood demonstrator design is a) reported and b) can be used by others for modification and inspiration (done Jan-March 2019);
-- write-up and submission of a scientific article on Wetropolis (outreach & education), presently submitted to HESS, on which article co-authors Bokhove and Zweers are partners in Wetropolis-EU-Efro project; see link below (Jan-March 2019)
-- creation of a poster for and presentation at EGU2019 in Vienna with Bokhove, Kent, Zweers and De Poot, all partners in Wetropolis-EU-Efro project except for Tom Kent, see link below (done March-April 2019); and,
-- visit to Enschede for communication and knowledge exchange (April 2019).
+- write-up and submission of a scientific article on Wetropolis (outreach & education), presently submitted to HESS, on which article co-authors Bokhove and Zweers are partners in the Wetropolis-EU-Efro project; see link below (Jan-March 2019)
+- creation of a poster for presentation at EGU2019 in Vienna with Bokhove, Kent, Zweers and De Poot, all partners in Wetropolis-EU-Efro project except for Tom Kent, see link below (done March-April 2019); and,
+- visit to Enschede for communication & knowledge exchange (April 2019).
 
 (ii) The 2nd batch of work for EU-Efro includes (Aug-2-Oct 2019):
 - further work on Wetropolis NFM modification and improving the Galton boards (continued till Sept 2019);
 - work with Wainfleet Flood Action Group, invitation & report --see report below (Aug 2019);
 - visit to Enschede for communication and knowledge exchange with Wout Zweers (Wowlab) and JanJaap Wietsma (UTwente) (Aug 2019);
-- attendance at two Wetropolis-EU-Efro meetings via Skype (Sept 2019);
+- attendance at 2 Wetropolis-EU-Efro meetings via Skype (Sept 2019);
 - management EU-Efro Sept-Oct 2019.
 
 Future plans:
-- Making a groundwater Wetropolis concerning groundwater under Enschede?
-- promoting and refining the Galton boards further; and,
-- further mathematical and numerical modelling?
+- Making a groundwater Wetropolis concerning groundwater below Enschede;
+- promoting & refining the Galton boards further; and,
+- further mathematical & numerical modelling.
 
 ## References
 - O. Bokhove, T. Hicks, W. Zweers and T. Kent (2019) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. Submitted to *Hydrology and Earth System Sciences*. (```wetroarticle```)
