@@ -53,7 +53,7 @@ The latest funding stems from the current EU-Efro-project (2018-2021) "Wetropoli
 - creation of a poster for and presentation at EGU2019 in Vienna with Bokhove, Kent, Zweers and De Poot, all partners in Wetropolis-EU-Efro project except for Tom Kent, see link below (done March-April 2019); and,
 - visit to Enschede for communication and knowledge exchange (April 2019).
 
-(ii) The 2nd batch of work for EU-Efro (Aug-2-Oct 2019):
+(ii) The 2nd batch of work for EU-Efro includes (Aug-2-Oct 2019):
 - further work on Wetropolis NFM modification and improving the Galton boards (continued till Sept 2019);
 - work with Wainfleet Flood Action Group, invitation & report --see report below (Aug 2019);
 - visit to Enschede for communication and knowledge exchange with Wout Zweers (Wowlab) and JanJaap Wietsma (UTwente) (Aug 2019);
