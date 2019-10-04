@@ -58,7 +58,7 @@ The latest funding stems from the current EU-Efro-project (2018-2021) "Wetropoli
 - work with Wainfleet Flood Action Group, invitation & report --see report below (Aug 2019);
 - visit to Enschede for communication and knowledge exchange with Wout Zweers (Wowlab) and JanJaap Wietsma (UTwente) (Aug 2019);
 - attendance at 2 Wetropolis-EU-Efro meetings via Skype (Sept 2019);
-- management EU-Efro Sept-Oct 2019.
+- management EU-Efro (Sept-Oct 2019).
 
 Future plans:
 - Making a groundwater Wetropolis concerning groundwater below Enschede;
