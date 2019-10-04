@@ -47,7 +47,7 @@ The Natural Flood Management Wetropolis flood demonstrator, in short Wetropolis 
 
 The latest funding stems from the current EU-Efro-project (2018-2021) "Wetropolis Interactive, tangible models for education and watermanagement": https://www.wetropolis.nl/ 
 
-Stichting Free Flow Foundation (with Bokhove): "Levert in dit project consultancy rondom schaalmodellen en lesconcepten voor waterbeheer in specifieke regio’s. **Prof. Bokhove zal contact houden over de projectvoortgang. (Prof Bokhove keeps in contact regarding progress of the project.** Prof. Bokhove zal als wetenschappelijk
+Stichting Free Flow Foundation (with Bokhove): "Levert in dit project consultancy rondom schaalmodellen en lesconcepten voor waterbeheer in specifieke regio’s. **Prof. Bokhove zal contact houden over de projectvoortgang. (Prof Bokhove keeps in contact regarding progress of the project.)** Prof. Bokhove zal als wetenschappelijk
 consultant betrokken zijn bij het ontwerp en de bouw van de schaalmodellen en is betrokken bij de disseminatie. De doelstelling van Free Flow foundation is popularisatie van hydrologische fenomenen."
 
 (i) The 1st batch of work for EU-Efro done includes (Jan-June 2019, ca. 100hrs):
@@ -61,7 +61,7 @@ consultant betrokken zijn bij het ontwerp en de bouw van de schaalmodellen en is
 - work with Wainfleet Flood Action Group, invitation & report --see report below (Aug 2019);
 - visit to Enschede for communication & knowledge exchange with Wout Zweers (Wowlab) & JanJaap Wietsma (UTwente) (Aug 2019);
 - attendance at 2 Wetropolis-EU-Efro meetings via Skype (Sept 2019);
-- management EU-Efro pertaining to task **Prof Bokhove keeps in contact regarding progess of the project** (Sept-Oct 2019).
+- management EU-Efro pertaining to task **(Prof Bokhove keeps in contact regarding progess of the project)** (Sept-Oct 2019).
 
 Future plans:
 - Making a groundwater Wetropolis concerning groundwater flow below Enschede;
