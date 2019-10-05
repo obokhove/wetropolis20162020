@@ -64,7 +64,7 @@ consultant betrokken zijn bij het ontwerp en de bouw van de schaalmodellen en is
 - management EU-Efro pertaining to task **(Prof Bokhove keeps in contact regarding progess of the project)** (Sept-Oct 2019).
 
 Future plans:
-- Making a groundwater Wetropolis concerning groundwater flow below Enschede;
+- Making a groundwater Wetropolis with Galton boards & (two) conceptual groundwater cells, concerning groundwater flow below Enschede;
 - promoting & refining the Galton boards further; and,
 - further mathematical & numerical modelling.
 
