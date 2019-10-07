@@ -47,13 +47,13 @@ The Natural Flood Management Wetropolis flood demonstrator, in short Wetropolis 
 
 The latest funding stems from the current EU-Efro-project (2018-2021) "Wetropolis Interactive, tangible models for education and watermanagement": https://www.wetropolis.nl/ 
 
-Stichting Free Flow Foundation (with Bokhove): "Levert in dit project consultancy rondom schaalmodellen en lesconcepten voor waterbeheer in specifieke regio’s. **Prof. Bokhove zal contact houden over de projectvoortgang. (Prof Bokhove keeps in contact regarding progress of the project.)** Prof. Bokhove zal als wetenschappelijk
+Stichting Free Flow Foundation (with Bokhove) task: "Levert in dit project consultancy rondom schaalmodellen en lesconcepten voor waterbeheer in specifieke regio’s. **Prof. Bokhove zal contact houden over de projectvoortgang. (Prof Bokhove keeps in contact regarding progress of the project.)** Prof. Bokhove zal als wetenschappelijk
 consultant betrokken zijn bij het ontwerp en de bouw van de schaalmodellen en is betrokken bij de disseminatie. De doelstelling van Free Flow foundation is popularisatie van hydrologische fenomenen."
 
-(i) The 1st batch of work for EU-Efro done includes (Jan-June 2019, ca. 100hrs):
-- establishing this GitHub-site such that the Wetropolis flood demonstrator design is a) reported & b) can be used by others for modification & inspiration (done Jan-March 2019);
-- write-up & submission of a scientific article on Wetropolis (outreach & education), presently submitted to HESS, on which article co-authors Bokhove and Zweers are partners in the Wetropolis-EU-Efro project; see link below (Jan-March 2019)
-- creation of a poster for presentation at EGU2019 in Vienna with Bokhove, Kent, Zweers and De Poot, all partners in Wetropolis-EU-Efro project except for Tom Kent, see link below (done March-April 2019); and,
+(i) The 1st batch of work for EU-Efro included (Jan-June 2019, ca. 100hrs):
+- establishing this GitHub-site such that the Wetropolis flood demonstrator design is a) reported & b) can be used by others for modification & inspiration (Jan-March 2019);
+- write-up & submission of scientific article on Wetropolis (outreach & education), presently submitted to HESS, on which article co-authors Bokhove and Zweers are partners in the Wetropolis-EU-Efro project; see link below under references (Jan-March 2019)
+- creation ofposter for presentation at EGU2019 in Vienna with Bokhove, Kent, Zweers and De Poot, all partners in Wetropolis-EU-Efro project except for Tom Kent, see link below under selected presentations (March-April 2019); and,
 - visit to Enschede for communication & knowledge exchange (April 2019).
 
 (ii) The 2nd batch of work for EU-Efro includes (Aug-Oct 2019):
@@ -87,9 +87,10 @@ schemes using flood-excess volume. River Research and Applications. In press. Pr
 ## Wetropolis spin-off projects, including Wainfleet
 - Cost-effectiveness analysis of flood-mitigation plans: see the work of Bokhove, Kelmanson, Kent, Piton and Tacnet in References and Selected presentations above.
 - Advisory work for Wainfleet Flood Action Group (W-FLAG) based on 19-08-2019 visit to Wainfleet in Lincolnshire: (```wfag2019```) ![wfag2019](ObservationssuggestionsWainfleetfloodprotection4.pdf) Will be updated/under construction.
-*Figure.* Overview map of the area, River Steeping and alleviation/relief canal around Wainfleet All Saints. North is upward. A distance scale is found bottom-right:
-![overview](overview.jpg
-We may be able to illustrate effect of dynamic weirs and "natural dredging" in a model set-up, invented by Wout Zweers and Jan-Jaap, and further enhanced by me.
+
+![](overview.jpg)
+
+*Figure.* Overview map of the area, River Steeping and alleviation/relief canal around Wainfleet All Saints. North is upward. A distance scale is found bottom-right. We may be able to illustrate effect of dynamic weirs and "natural dredging" in a model set-up, invented by Wout Zweers and Jan-Jaap, and further enhanced by me.
 
 ----
 
