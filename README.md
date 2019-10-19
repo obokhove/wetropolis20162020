@@ -45,25 +45,16 @@ A summary report from May 2018 is found under outreach projects here: http://www
 The writing of the journal paper and the creation of this github in 2019 falls under the EU project "Wetropolis: tangible education and watermanagement", see https://www.wetropolis.nl
 The Natural Flood Management Wetropolis flood demonstrator, in short Wetropolis NFM, is to date (March 2019) under construction, and received funding from the CDT in Fluid Dynamics (Leeds), JBA Trust, the School of Mathematics and the School of Civil Engineering from the University of Leeds. Wetropolis NFM contains different elements: foam plates, FisherTechnique marble run and Arduino by Wowlab (Ir. Wout Zweers), Hydrotec Consultants Ltd (Leeds-Bradford), with assistance and direction by OB. More on Wetropolis NFM below.
 
-The latest funding stems from the current EU-Efro-project (2018-2021) "Wetropolis Interactive, tangible models for education and watermanagement": https://www.wetropolis.nl/ 
-
-Stichting Free Flow Foundation (with Bokhove) task: "Levert in dit project consultancy rondom schaalmodellen en lesconcepten voor waterbeheer in specifieke regio’s. **Prof. Bokhove zal contact houden over de projectvoortgang. (Prof Bokhove keeps in contact regarding progress of the project.)** Prof. Bokhove zal als wetenschappelijk
-consultant betrokken zijn bij het ontwerp en de bouw van de schaalmodellen en is betrokken bij de disseminatie. De doelstelling van Free Flow foundation is popularisatie van hydrologische fenomenen."
-
-(i) The 1st batch of work for EU-Efro included (delivered Jan-June 2019, ca. 100hrs):
+Work Jan-June 2019:
 - establishing this GitHub-site such that the Wetropolis flood demonstrator design is a) reported & b) can be used by others for modification & inspiration with Wout Zweers (Jan-March 2019);
-- write-up & submission of scientific article on Wetropolis (outreach & education), presently submitted to HESS, on which article co-authors Bokhove and Zweers are partners in the Wetropolis-EU-Efro project; see link below under references (Jan-March 2019)
-- creation ofposter for presentation at EGU2019 in Vienna with Bokhove, Kent, Zweers and De Poot, all partners in Wetropolis-EU-Efro project except for Tom Kent, see link below under selected presentations (March-April 2019); and,
-- visit to Enschede for communication & knowledge exchange (April 2019).
+- write-up & submission of scientific article on Wetropolis (outreach & education), presently submitted to HESS; see link below under references (Jan-March 2019)
+- creation of poster for presentation at EGU2019 in Vienna with Bokhove, Kent, Zweers and De Poot (March-April 2019); and,
 
-(ii) The 2nd batch of work for EU-Efro includes (Aug-Oct 2019):
+(ii) Work Aug-Oct 2019:
 - further work on Wetropolis NFM modification & improving the Galton boards with Wout Zweers (continued till Sept 2019);
 - work with Wainfleet Flood Action Group, invitation & report --see report below with input from Wout Zweers (Aug 2019);
-- visit to Enschede for communication & knowledge exchange with Wout Zweers (Wowlab) & JanJaap Wietsma (UTwente) (Aug 2019);
-- attendance at 2 Wetropolis-EU-Efro meetings via Skype (Sept 2019);
-- management EU-Efro pertaining to task **(Prof Bokhove keeps in contact regarding progess of the project)** (Sept-Oct 2019).
 
-Future plans:
+Future possible plans:
 - Making a groundwater Wetropolis with Galton boards & (two) conceptual groundwater cells, concerning groundwater flow below Enschede;
 - promoting & refining the Galton boards further; and,
 - further mathematical & numerical modelling.
