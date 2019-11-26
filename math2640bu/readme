@@ -4,3 +4,8 @@ since multiplying the first m rows and the first m columns by -1 is an even 2m- 
 the Lagrangian do not change. The properties of the Hessian also do not change,
 at least for linear constraints, when they are multiplied by a factor 2 or 1/2, or vice versa if (elements) H are multiplied
 by 2 or 1/2.
+
+Updated note set 2 
+Extra sketch.
+
+New notes set 5
