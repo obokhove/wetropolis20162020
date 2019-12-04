@@ -42,7 +42,7 @@ The print designs for the Arduino boards are found as pdf and dxf files dated 12
 ## Funding
 The first version of Wetropolis was an outreach project within the EPSRC Network Maths Foresees EP/M008525/1 (2015-2016); the outreach project funded Tom Kent and Wout Zweers, circa 10k plus travel and transport and 2.5k for an update of the Galton boards (2017/2018).
 A summary report from May 2018 is found under outreach projects here: http://www1.maths.leeds.ac.uk/mathsforesees/projects.html and here: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
-The writing of the journal paper and the creation of this github in 2019 falls under the EU project "Wetropolis: tangible education and watermanagement", see https://www.wetropolis.nl
+<!-- The writing of the journal paper and the creation of this github in 2019 falls under the EU project "Wetropolis: tangible education and watermanagement", see https://www.wetropolis.nl
 The Natural Flood Management Wetropolis flood demonstrator, in short Wetropolis NFM, is to date (March 2019) under construction, and received funding from the CDT in Fluid Dynamics (Leeds), JBA Trust, the School of Mathematics and the School of Civil Engineering from the University of Leeds. Wetropolis NFM contains different elements: foam plates, FisherTechnique marble run and Arduino by Wowlab (Ir. Wout Zweers), Hydrotec Consultants Ltd (Leeds-Bradford), with assistance and direction by OB. More on Wetropolis NFM below.
 
 Work Jan-June 2019:
@@ -52,12 +52,13 @@ Work Jan-June 2019:
 
 (ii) Work Aug-Oct 2019:
 - further work on Wetropolis NFM modification & improving the Galton boards with Wout Zweers (continued till Sept 2019);
-- work with Wainfleet Flood Action Group, invitation & report --see report below with input from Wout Zweers (Aug 2019);
+- work with Wainfleet Flood Action Group, invitation & report --see report below with input from Wout Zweers (Aug 2019); -->
 
 Future possible plans:
 - Making a groundwater Wetropolis with Galton boards & (two) conceptual groundwater cells, concerning groundwater flow below Enschede;
 - promoting & refining the Galton boards further; and,
-- further mathematical & numerical modelling.
+- further mathematical & numerical modelling;
+- work with Wainfleet Flood Action Group, invitation & report --see report below with input from Wout Zweers (Aug 2019).
 
 ## References
 - O. Bokhove, T. Hicks, W. Zweers and T. Kent (2019) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. Submitted to *Hydrology and Earth System Sciences*. (```wetroarticle```)
