@@ -13,7 +13,7 @@ Regards, Siriol" (Vice Chairman of Churchtown Flood Action Group. Administrator 
 
 Video on Churchtown flooding: https://www.youtube.com/watch?v=il84G9XlS94
 
-Reaction:
+*Reaction*:
 - Modelling is a(n exact) science. However, due to the chaotic nature of weather prediction and lack of uncertainty in the input parameters, as well as insuffucient measurements and measurement erors, predictions have (a large) uncertainty, certainly long-term and climate predictions. Modelling is the science that includes dealing with uncertainty.
 - Publication in journals is an iterative process and in revisions one can address comments of the reviewers.
 
