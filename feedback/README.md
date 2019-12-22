@@ -8,7 +8,7 @@ Obviously I would like to help you in any way that I can. When  you gave your ta
 The feedback that I have had from lay people is that your talk was enjoyable and the  Wetropolis demonstration was interesting and informative. 
 Regards, Siriol" 
 
-(```PhotoCT```) ![PhotoCT](figs/image0.jpeg)
+(```PhotoCT```) ![PhotoCT](image0.jpeg)
 
 ## Armley Museum TBC
 
