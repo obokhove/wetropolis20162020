@@ -22,4 +22,7 @@ Video on Churchtown flooding: https://www.youtube.com/watch?v=il84G9XlS94
 
 ## Feedback from Armley Museum TBC
 
-## Feedback Turing Gateway TBC
+## Feedback Turing Gateway
+Wetropolis was displayed during the Study Group https://gateway.newton.ac.uk/event/tgmw41: “... the addition of the Wetropolis flood demonstrator on Wednesday attracted a lot of attention and interaction”.
+
+(```Photo via Turing Gateway```) ![PhotoTG](image1.jpeg)
