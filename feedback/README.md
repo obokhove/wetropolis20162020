@@ -20,10 +20,11 @@ Video on Churchtown flooding: https://www.youtube.com/watch?v=il84G9XlS94
 - Modelling is a(n exact) science. However, due to the chaotic nature of weather prediction and lack of uncertainty in the input parameters, as well as insufficient measurements and measurement erors, predictions have (a large) uncertainty, certainly long-term and climate predictions. Modelling is the science that includes dealing with such uncertainty.
 - Indeed, publication in journals is an iterative process and in revisions one can address comments of the reviewers.
 
-## Feedback from Armley Museum TBC
+## Feedback from Armley Museum 03-01-2020
+“Wetropolis was utilised at a science event at Leeds Industrial Museum to complement an exhibition reflecting the community’s experience of the 2015 floods in the city. Being able to show the public how the flood occurred through the Wetropolis model certainly assisted the layperson’s  understanding of how the flooding occurred, making the mathematics of flooding accessible to a wider audience.”
+Chris Sharp, Assistant Community Curator, Leeds Industrial Museum.
 
 
-## Feedback from Turing Gateway
-Wetropolis was displayed during the Environmental Modelling in Industry Study Group (April 2017 at the Isaac Newton Gateway to Mathematics in Cambridge) https://gateway.newton.ac.uk/event/tgmw41 with the following feedback “... the addition of the Wetropolis flood demonstrator on Wednesday attracted a lot of attention and interaction” (via Jane Leeks).
-
+## Feedback from Turing Gateway 28-12-2019
+Wetropolis was displayed during the Environmental Modelling in Industry Study Group (April 2017 at the Isaac Newton Gateway to Mathematics in Cambridge) https://gateway.newton.ac.uk/event/tgmw41 with the following feedback “... the addition of the Wetropolis flood demonstrator on Wednesday attracted a lot of attention and interaction”. Jane Leeks from INI Gateway.
 (```Photo via Turing Gateway```) ![PhotoTG](TuringwetropolisScreenShot20170407at085520.png)
