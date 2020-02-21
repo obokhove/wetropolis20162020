@@ -41,9 +41,9 @@ Pending ...
 
 Comment board and photos set-up:
 
-<img src="thumb_IMG_0557_1024.jpg" width="1000">
-<img src="thumb_IMG_0558_1024.jpg" width="1000">
-<img src="thumb_IMG_0561_1024.jpg" width="1000">
+<img src="thumb_IMG_0557_1024.jpg" width="500">
+<img src="thumb_IMG_0558_1024.jpg" width="500">
+<img src="thumb_IMG_0561_1024.jpg" width="500">
 ![PhotoC1](thumb_IMG_0557_1024.jpg)
 ![PhotoC2](thumb_IMG_0558_1024.jpg)
 ![PhotoC3](thumb_IMG_0561_1024.jpg)
