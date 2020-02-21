@@ -34,9 +34,13 @@ Wetropolis was displayed during the Environmental Modelling in Industry Study Gr
 Pending ...
 
 14-02: Big pump breaks down. Works intermittently. Replaced on 21-02.
+
 17-02: Small old pump breaks down; replaced on 19-02.
+
 21-02: Replacement small pump breaks down; not yet replaced but reserve pump is providing water in upstream reservoir in sinc with the random supply of water in the moor. Galton board pretty level.
+
 22-02: ...
+
 23-02: ...
 
 Comment board and photos set-up:
