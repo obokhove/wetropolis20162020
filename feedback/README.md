@@ -52,8 +52,8 @@ Comment board (click to enlagre) and photos set-up:
 <img src="thumb_IMG_0557_1024.jpg" width="380">
 <img src="thumb_IMG_0558_1024.jpg" width="380">
 <img src="thumb_IMG_0561_1024.jpg" width="380">
-![PhotoC1](thumb_IMG_0557_1024.jpg) ![PhotoC2](thumb_IMG_0558_1024.jpg)
-![PhotoC3](thumb_IMG_0561_1024.jpg)
+<!-- ![PhotoC1](thumb_IMG_0557_1024.jpg) ![PhotoC2](thumb_IMG_0558_1024.jpg)
+![PhotoC3](thumb_IMG_0561_1024.jpg)-->
 
 Comments and feedback, where apt:
 TBD
