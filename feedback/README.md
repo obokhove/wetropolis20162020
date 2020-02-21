@@ -35,8 +35,8 @@ Pending ...
 
 ## Instructions on how to run Wetropolis
 
-# Pointers for its smooth running on site for "wardens":
-- Use the Raspberry Pi to run the serial monitor, on which one can check the collected outcomes of the two Galtonboards; if to far of and/or out of phase please check the levelness of the board with the water level. By closing and opening the serial monitor, the count starts again.
+Pointers for its smooth running on site for "wardens":
+- Use the Raspberry Pi to run the serial monitor, on which one can check the collected outcomes of the two Galtonboards; if to far of and/or out of phase please check the levelness of the board with the water level. By closing and opening the serial monitor, the count starts again. Open folder on desktop (top, second/last one on right, click on Arduino file; when open click on tools and then in menu on serial monitor), 
 - Check at times whether the water level in the main reservoir is submerging the pumps; the water also cools the pumps, which otherwise burn out. Use the bucket to refill.
 - Check at times whether the city-overflow collection bin is full, or not, and empty when full into the main reservoir.
 - A pump to the upstream reservoir can be sinced with  the moor for extra peak flow, say under climate change, this option can be turned on or off; in either case check whether 9s of rain in both moor and city reservoir leads to a flood. If not or if too much water, turn the main water supply in the top of the river down or up. Then check again.
