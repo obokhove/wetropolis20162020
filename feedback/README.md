@@ -27,6 +27,7 @@ Chris Sharp, Assistant Community Curator, Leeds Industrial Museum.
 
 ## Feedback from Turing Gateway 28-12-2019
 Wetropolis was displayed during the Environmental Modelling in Industry Study Group (April 2017 at the Isaac Newton Gateway to Mathematics in Cambridge) https://gateway.newton.ac.uk/event/tgmw41 with the following feedback “... the addition of the Wetropolis flood demonstrator on Wednesday attracted a lot of attention and interaction”. Jane Leeks from INI Gateway.
+<img src="TuringwetropolisScreenShot20170407at085520.png" width="480">
 (```Photo via Turing Gateway```) ![PhotoTG](TuringwetropolisScreenShot20170407at085520.png)
 
 ## Feedback Mathematics of Planet Earth Exhibition 15-02 to 23-02 2020
@@ -43,7 +44,7 @@ Pending ...
 
 23-02: ...
 
-Comment board and photos set-up:
+Comment board (click to enlagre) and photos set-up:
 
 <img src="thumb_IMG_0557_1024.jpg" width="380">
 <img src="thumb_IMG_0558_1024.jpg" width="380">
