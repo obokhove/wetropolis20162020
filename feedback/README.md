@@ -39,7 +39,13 @@ Pending ...
 22-02: ...
 23-02: ...
 
-(```Comment board```) ![PhotoC1](thumb_IMG_0557_1024.jpg)
+Comment board and photos set-up:
+![PhotoC1](thumb_IMG_0557_1024.jpg)
+![PhotoC2](thumb_IMG_0557_1024.jpg)
+![PhotoC3](thumb_IMG_0557_1061.jpg)
+
+Comments and feedback, where apt:
+TBD
 
 ## Instructions on how to run Wetropolis
 
