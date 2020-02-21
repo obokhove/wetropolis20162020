@@ -40,7 +40,7 @@ Pending ...
 23-02: ...
 
 Comment board and photos set-up:
-![PhotoC1](thumb_IMG_0557_1024.jpg)
+![PhotoC1](thumb_IMG_0557_1024.jpg height="24" width="36")
 ![PhotoC2](thumb_IMG_0558_1024.jpg)
 ![PhotoC3](thumb_IMG_0561_1024.jpg)
 
