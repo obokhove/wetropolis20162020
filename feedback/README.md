@@ -36,17 +36,28 @@ Pending ...
 ## Instructions on how to run Wetropolis
 
 Pointers for its smooth running on site for "wardens":
-- Use the Raspberry Pi to run the serial monitor, on which one can check the collected outcomes of the two Galtonboards; if to far of and/or out of phase please check the levelness of the board with the water level. By closing and opening the serial monitor, the count starts again. Open folder on desktop (top, second/last one on right, click on Arduino file; when open click on tools and then in menu on serial monitor), 
-- Check at times whether the water level in the main reservoir is submerging the pumps; the water also cools the pumps, which otherwise burn out. Use the bucket to refill.
+- Use the Raspberry Pi to run the serial monitor, on which one can check the collected outcomes of the two Galtonboards; if to far of and/or out of phase please check the levelness of the board with the water level. By closing and opening the serial monitor, the count starts again. Open folder on desktop (top, second/last one on right), click on Arduino file; when open click on tools and then in menu on serial monitor. E.g., on 21-02-2020 the 4th channels on (Galton Board 1) GB1 had 60 counts and GB2 had 120, while they should roughly be the same; after using the water level I saw the board was not level; I took a peg aay, restarted the Raspberry Pi and teh count after a while was 32-32.
+- Check at times whether the water level in the main reservoir is submerging the pumps; the water also cools the pumps, which otherwise burn out. Use the bucket to refill (usually half a bucket suffices).
 - Check at times whether the city-overflow collection bin is full, or not, and empty when full into the main reservoir.
 - A pump to the upstream reservoir can be sinced with  the moor for extra peak flow, say under climate change, this option can be turned on or off; in either case check whether 9s of rain in both moor and city reservoir leads to a flood. If not or if too much water, turn the main water supply in the top of the river down or up. Then check again.
 - Check whether 9s in moor and city reservoir gives a city flood: further fine tuning is possible by loosening the clamp near the city and putting a wooden peg underneath!
 - When a duck floats in the drain to the reservoir at the end of the river it may block the pipe. So please unplug when that happens.
 - There need to be four steel balls in the running; there are extra smaller ball in the grey tool bag.
+- All attendants/wardens: well done, good luck and enjoy.
 
 Extra pointers:
-- Grey tool back (in boxes behind the scenes) contains tools.
+- Grey tool back (in one of boxes behind the scenes) contains tools.
 - When an exhibition goes on longer than one (half) day, then please cover the river set-up with the blanket and the sockets and raspberry pi associated with the Galton board with the bubble wrap provided.
 - Bring extra replacement pumps.
 - Packing up: the entire set-up fits into the back of Kia with back seats folded down.
 - Make a feedback board; collect feedback given directly.
+
+Notes, future work:
+- sockets should be in one shielded box.
+- extra cover on back of Galton-board set-up/marble run.
+- fix drainage city, use screw fittings and water collection box, with two valves (one in measurment device and one into reservoir) 
+- secure drain pipes (one below seam and one at end of river).
+- buy small toy houses.
+- add switch board with several cases: normal one, climate one, extra flooding one, drought one, climate and drought and let audience analyse by observation which one is on. Do maths and progam options in Arduino.
+- make Arduino graphs
+- make matching simulations and DA etc, with associated display.
