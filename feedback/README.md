@@ -28,3 +28,25 @@ Chris Sharp, Assistant Community Curator, Leeds Industrial Museum.
 ## Feedback from Turing Gateway 28-12-2019
 Wetropolis was displayed during the Environmental Modelling in Industry Study Group (April 2017 at the Isaac Newton Gateway to Mathematics in Cambridge) https://gateway.newton.ac.uk/event/tgmw41 with the following feedback “... the addition of the Wetropolis flood demonstrator on Wednesday attracted a lot of attention and interaction”. Jane Leeks from INI Gateway.
 (```Photo via Turing Gateway```) ![PhotoTG](TuringwetropolisScreenShot20170407at085520.png)
+
+## Feedback Mathematics of Planet Earth Exhibition 15-02 to 23-02 2020
+
+Pending ...
+
+## Instructions on how to run Wetropolis
+
+# Pointers for its smooth running on site for "wardens":
+- Use the Raspberry Pi to run the serial monitor, on which one can check the collected outcomes of the two Galtonboards; if to far of and/or out of phase please check the levelness of the board with the water level. By closing and opening the serial monitor, the count starts again.
+- Check at times whether the water level in the main reservoir is submerging the pumps; the water also cools the pumps, which otherwise burn out. Use the bucket to refill.
+- Check at times whether the city-overflow collection bin is full, or not, and empty when full into the main reservoir.
+- A pump to the upstream reservoir can be sinced with  the moor for extra peak flow, say under climate change, this option can be turned on or off; in either case check whether 9s of rain in both moor and city reservoir leads to a flood. If not or if too much water, turn the main water supply in the top of the river down or up. Then check again.
+- Check whether 9s in moor and city reservoir gives a city flood: further fine tuning is possible by loosening the clamp near the city and putting a wooden peg underneath!
+- When a duck floats in the drain to the reservoir at the end of the river it may block the pipe. So please unplug when that happens.
+- There need to be four steel balls in the running; there are extra smaller ball in the grey tool bag.
+
+Extra pointers:
+- Grey tool back (in boxes behind the scenes) contains tools.
+- When an exhibition goes on longer than one (half) day, then please cover the river set-up with the blanket and the sockets and raspberry pi associated with the Galton board with the bubble wrap provided.
+- Bring extra replacement pumps.
+- Packing up: the entire set-up fits into the back of Kia with back seats folded down.
+- Make a feedback board; collect feedback given directly.
