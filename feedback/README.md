@@ -35,7 +35,8 @@ Wetropolis was displayed during the Environmental Modelling in Industry Study Gr
 
 ## Feedback Mathematics of Planet Earth Exhibition 15-02 to 23-02 2020
 
-<img src="feedbacknote.jpg" width="480">
+<img src="IMG_0572.jpg" width="480">
+
 - Just awesome. Smart. Intuitive. Fun.
 - I love Wetropolis. (See drawing by someone who played fro an hour with Wetropolis and took 5 videos.)
 - I think this exhibit is great. Could you add a way to force a flood made with difffently weighted arbles/blocks in the marble path?! Would be funny to see -flood.
