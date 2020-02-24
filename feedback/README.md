@@ -35,7 +35,17 @@ Wetropolis was displayed during the Environmental Modelling in Industry Study Gr
 
 ## Feedback Mathematics of Planet Earth Exhibition 15-02 to 23-02 2020
 
-Pending ...
+<img src="feedbacknote.jpg" width="480">
+- Just awesome. Smart. Intuitive. Fun.
+- I love Wetropolis. (See drawing by someone who played fro an hour with Wetropolis and took 5 videos.)
+- I think this exhibit is great. Could you add a way to force a flood made with difffently weighted arbles/blocks in the marble path?! Would be funny to see -flood.
+- This exhibit is very coool but could also simulate tsunamis? 9 second moor/res for the win.
+- Brilliant visual & practical demo of flooding. Thank you.
+- Really nice model of flood control, I like how everything is presented and I learned some new things too.
+- Brilliant! So claer & capyures the concept of chance in weather systems.Please construct more. 
+- Wondering is bringing back the population of beavers is the most effective! Living in Dartmoor -the moor has it.
+- Fantastic flood demo!! Great to show the different mesures to combat floods -for the perolation could you have two different"sands" with different percolation rates? Very well demonstrated and explained (smiley face).
+- More beavers please. 
 
 14-02: Big pump breaks down. Works intermittently. Replaced on 21-02.
 
