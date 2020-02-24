@@ -40,7 +40,7 @@ Comments made on the feedback board; a big thank you to all feedback providers f
 - Just awesome. Smart. Intuitive. Fun.
 - I love Wetropolis. (See photo of drawing above by someone who played for an hour with Wetropolis and took 5 videos.)
 - I think this exhibit is great. Could you add a way to force a flood made with difffently weighted arbles/blocks in the marble path?! Would be funny to see -flood.
-- This exhibit is very coool but could also simulate tsunamis? 9 second moor/res for the win. [*OB reply: Our coastal wave-tank in Leeds can illustrate overtopping by coastal waves and inundation by tsunamis.*]
+- This exhibit is very cool but could (you) also simulate tsunamis? 9 second moor/res for the win. [*OB reply: Our coastal wave-tank in Leeds can illustrate overtopping by coastal waves and inundation by tsunamis.*]
 - Brilliant visual & practical demo of flooding. Thank you.
 - Really nice model of flood control, I like how everything is presented and I learned some new things too.
 - Brilliant! So claer & captures the concept of chance in weather systems.Please construct more. [*Reply OB: the full and open design is found on this GitHub site and anyone is free to build a bespoke Wetropolis. Given lack of funding of outreach by UK funding agencies and universities, we are unable to build more ourselves.*]
