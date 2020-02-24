@@ -36,7 +36,7 @@ Wetropolis was displayed during the Environmental Modelling in Industry Study Gr
 
 <img src="IMG_0572.jpg" width="480">
 
-Comments made on the feedback board; a big thank you to all feedback providers for the feedback below:
+Comments made on the feedback board; a big thank you to all feedback providers for the feedback below [*reply by OB=Onno Bokhove*]:
 - Just awesome. Smart. Intuitive. Fun.
 - I love Wetropolis. (See photo of drawing above by someone who played for an hour with Wetropolis and took 5 videos.)
 - I think this exhibit is great. Could you add a way to force a flood made with difffently weighted arbles/blocks in the marble path?! Would be funny to see -flood.
@@ -44,7 +44,7 @@ Comments made on the feedback board; a big thank you to all feedback providers f
 - Brilliant visual & practical demo of flooding. Thank you.
 - Really nice model of flood control, I like how everything is presented and I learned some new things too.
 - Brilliant! So claer & captures the concept of chance in weather systems.Please construct more. [*Reply OB: the full and open design is found on this GitHub site and anyone is free to build a bespoke Wetropolis. Given lack of funding of outreach by UK funding agencies and universities, we are unable to build more ourselves.*]
-- Wondering if bringing back the population of beavers is the most effective! Living in Dartmoor -the moor has it. [*OB reply: alas, no, their effect is much too small; see "Using flood-excess volume to show that upscaling beaver dams for protection against extreme floods proves unrealistic". https://eartharxiv.org/w9evx/ *]
+- Wondering if bringing back the population of beavers is the most effective! Living in Dartmoor -the moor has it. [*OB reply: alas, no, their effect is much too small; see "Using flood-excess volume to show that upscaling beaver dams for protection against extreme floods proves unrealistic".* https://eartharxiv.org/w9evx/ ]
 - Fantastic flood demo!! Great to show the different mesures to combat floods -for the perolation could you have two different"sands" with different percolation rates? Very well demonstrated and explained (smiley face). [*OB reply: yes, that can be readily arranged but we did the simple and more transportable case first.*]
 - More beavers please. [*OB reply: see comment and link above.*]
 
