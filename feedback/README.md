@@ -32,7 +32,6 @@ Wetropolis was displayed during the Environmental Modelling in Industry Study Gr
 
 (```Photo via Turing Gateway```) <!--![PhotoTG](TuringwetropolisScreenShot20170407at085520.png)-->
 
-
 ## Feedback Mathematics of Planet Earth Exhibition 15-02 to 23-02 2020
 
 <img src="IMG_0572.jpg" width="480">
