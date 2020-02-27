@@ -36,6 +36,8 @@ Wetropolis was displayed during the Environmental Modelling in Industry Study Gr
 
 <img src="IMG_0572.jpg" width="480">
 
+Learn more about "Planet Earth is alive: using mathematics to understand and protect our world" by Claudia Cannon: www.imperial.ac.uk/news/195539/planet-earth-alive-using-mathematics-understand/
+
 Comments made on the feedback board; a big thank you to all feedback providers for the feedback below [*reply by OB=Onno Bokhove*]:
 - Just awesome. Smart. Intuitive. Fun.
 - I love Wetropolis. (See photo of drawing above by someone who played for an hour with Wetropolis and took 5 videos.)
@@ -54,9 +56,9 @@ Comments made on the feedback board; a big thank you to all feedback providers f
 
 21-02: Replacement small pump breaks down; not yet replaced but reserve pump is providing water in upstream reservoir in sinc with the random supply of water in the moor. Galton board pretty level.
 
-22-02: ...
+22-02: All is well but some fine-tuning.
 
-23-02: ...
+23-02: Some fine-tuning.
 
 Comment board (click to enlagre) and photos set-up:
 
@@ -65,8 +67,7 @@ Comment board (click to enlagre) and photos set-up:
 <!-- ![PhotoC1](thumb_IMG_0557_1024.jpg) ![PhotoC2](thumb_IMG_0558_1024.jpg)
 ![PhotoC3](thumb_IMG_0561_1024.jpg)-->
 
-Comments and feedback, where apt:
-TBD
+
 
 ## Instructions on how to run Wetropolis
 
