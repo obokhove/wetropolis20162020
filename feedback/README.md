@@ -38,7 +38,8 @@ Wetropolis was displayed during the Environmental Modelling in Industry Study Gr
 
 <img src="IMG_0572.jpg" width="480">
 
-Learn more about "Planet Earth is alive: using mathematics to understand and protect our world" by Claudia Cannon: www.imperial.ac.uk/news/195539/planet-earth-alive-using-mathematics-understand/
+Learn more about "Planet Earth is alive: using mathematics to understand and protect our world", including "A day in the world of *Wetropolis*", written by Claudia Cannon: www.imperial.ac.uk/news/195539/planet-earth-alive-using-mathematics-understand/
+There were on average more than 40 visitors per day, so over 9 days, circa 360 visitors.
 
 Comments made on the feedback board; a big thank you to all feedback providers for the feedback below [*reply by OB=Onno Bokhove*]:
 - Just awesome. Smart. Intuitive. Fun.
