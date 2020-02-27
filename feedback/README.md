@@ -58,11 +58,11 @@ Comments made on the feedback board; a big thank you to all feedback providers f
 
 21-02: Replacement small pump breaks down; not yet replaced but reserve pump is providing water in upstream reservoir in sinc with the random supply of water in the moor. Galton board pretty level.
 
-22-02: All is well but some fine-tuning.
+22-02: All is well but some fine-tuning, see further down for instructions.
 
-23-02: Some fine-tuning.
+23-02: Some fine-tuning, see further down for instructions.
 
-Comment board (click to enlagre) and photos set-up:
+Comment board (click to enlarge) and photos set-up:
 
 <img src="thumb_IMG_0557_1024.jpg" width="380"> <img src="thumb_IMG_0558_1024.jpg" width="380">
 <img src="thumb_IMG_0561_1024.jpg" width="380">
@@ -85,10 +85,14 @@ Pointers for its smooth running on site for "wardens":
 
 Extra pointers:
 - Grey tool back (in one of boxes behind the scenes) contains tools.
-- When an exhibition goes on longer than one (half) day, then please cover the river set-up with the blanket and the sockets and raspberry pi associated with the Galton board with the bubble wrap provided.
+- When an exhibition goes on longer than one (half) day, then please cover the river set-up with the blanket and the sockets and Raspberry-Pi associated with the Galton board with the bubble wrap provided.
 - Bring extra replacement pumps.
 - Packing up: the entire set-up fits into the back of Kia with back seats folded down.
 - Make a feedback board; collect feedback given directly.
+
+Fine tuning:
+- To obtain flooding evenly in the city one needs to observe the extreme case with 9s out of 0s rain in both moor and reservoir(s); to have flow over the dike evenly, one may need to level the last bit of the set-up by loosening the clamp near the city and if nbeed be put a small wooden bit or peg between support and the Wetropolis wooden frame. This requires "Fingerspitzengefuhl" i.e. some intuition and trial-and-error.
+- When the above does not work, more water is needed, so turn up the flow with the anlogue valves, and when there is too much flow turn them down, till you observe that it works. There is a climate-change setting, in which both more and a far-upstream reservoir are both peratig in since and a normal set-up with the upstream-reservoir not in operation, via simple swictch.
 
 Notes, future work:
 - sockets should be in one shielded box.
@@ -99,3 +103,4 @@ Notes, future work:
 - add switch board with several cases: normal one, climate one, extra flooding one, drought one, climate and drought and let audience analyse by observation which one is on. Do maths and progam options in Arduino.
 - make Arduino graphs
 - make matching simulations and DA etc, with associated display.
+- Buy small houses for display in the city. Make/buy houses on stilts with a gangplank to higher grounds in the flood plains.
