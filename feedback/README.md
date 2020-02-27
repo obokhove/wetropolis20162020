@@ -70,7 +70,6 @@ Comment board (click to enlarge) and photos set-up:
 ![PhotoC3](thumb_IMG_0561_1024.jpg)-->
 
 
-
 ## Instructions on how to run Wetropolis
 
 Pointers for its smooth running on site for "wardens":
@@ -78,7 +77,7 @@ Pointers for its smooth running on site for "wardens":
 - Check at times whether the water level in the main reservoir is submerging the pumps; the water also cools the pumps, which otherwise burn out. Use the bucket to refill (usually half a bucket suffices).
 - Check at times whether the city-overflow collection bin is full, or not, and empty when full into the main reservoir.
 - A pump to the upstream reservoir can be sinced with  the moor for extra peak flow, say under climate change, this option can be turned on or off; in either case check whether 9s of rain in both moor and city reservoir leads to a flood. If not or if too much water, turn the main water supply in the top of the river down or up. Then check again.
-- Check whether 9s in moor and city reservoir gives a city flood: further fine tuning is possible by loosening the clamp near the city and putting a wooden peg underneath!
+- Check whether 9s in moor and city reservoir gives a city flood: further fine tuning is possible by loosening the clamp near the city and putting a wooden peg underneath! See fine-tuning below.
 - When a duck floats in the drain to the reservoir at the end of the river it may block the pipe. So please unplug when that happens.
 - There need to be four steel balls in the running; there are extra smaller ball in the grey tool bag.
 - All attendants/wardens: well done, good luck and enjoy.
@@ -91,8 +90,9 @@ Extra pointers:
 - Make a feedback board; collect feedback given directly.
 
 Fine tuning:
-- To obtain flooding evenly in the city one needs to observe the extreme case with 9s out of 0s rain in both moor and reservoir(s); to have flow over the dike evenly, one may need to level the last bit of the set-up by loosening the clamp near the city and if nbeed be put a small wooden bit or peg between support and the Wetropolis wooden frame. This requires "Fingerspitzengefuhl" i.e. some intuition and trial-and-error.
+- To obtain flooding evenly in the city one needs to observe the extreme case with 9s out of 0s rain in both moor and reservoir(s); to have flow over the dike evenly, one may need to level the last bit of the set-up by loosening the clamp near the city and if nbeed be put a small wooden bit or peg between support and the Wetropolis wooden frame. See photos below. This requires "Fingerspitzengefuhl" i.e. some intuition and trial-and-error. 
 - When the above does not work, more water is needed, so turn up the flow with the anlogue valves, and when there is too much flow turn them down, till you observe that it works. There is a climate-change setting, in which both more and a far-upstream reservoir are both peratig in since and a normal set-up with the upstream-reservoir not in operation, via simple swictch.
+<img src="IMG_0568.jpg" width="380"> <img src="IMG_0569.jpg" width="380">
 
 Notes, future work:
 - sockets should be in one shielded box.
