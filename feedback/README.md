@@ -96,12 +96,12 @@ Fine tuning:
 <img src="IMG_0568.jpg" width="380"> <img src="IMG_0569.jpg" width="380">
 
 Notes, future work:
-- sockets should be in one shielded box.
-- extra cover on back of Galton-board set-up/marble run.
+- sockets should be in one shielded box;
+- extra cover on back of Galton-board set-up/marble run;
 - fix drainage city, use screw fittings and water collection box, with two valves (one in measurment device and one into reservoir) 
-- secure drain pipes (one below seam and one at end of river).
-- buy small toy houses.
-- add switch board with several cases: normal one, climate one, extra flooding one, drought one, climate and drought and let audience analyse by observation which one is on. Do maths and progam options in Arduino.
-- make Arduino graphs
-- make matching simulations and DA etc, with associated display.
-- Buy small houses for display in the city. Make/buy houses on stilts with a gangplank to higher grounds in the flood plains.
+- secure drain pipes (one below seam and one at end of river);
+- buy small toy houses;
+- add switch board with several cases: normal one, climate one, extra flooding one, drought one, climate and drought and let audience analyse by observation which one is on. Do maths and progam options in Arduino;
+- make Arduino graphs;
+- make matching simulations and DA etc, with associated display; and,
+- buy small houses for display in the city; make/buy houses on stilts with a gangplank to higher grounds in the flood plains.
