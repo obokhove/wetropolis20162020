@@ -1,6 +1,6 @@
 # Wetropolis feedback
 
-Scroll down for showcasings at 1) Churchtown, 2) Leeds' Armley Museum, 3) Cambridge, and 4) Imperial College.
+Scroll down for showcasings at: 1) Churchtown, 2) Leeds' Armley Museum, 3) Cambridge, and 4) Imperial College.
 
 ## 1. Feedback from Churchtown Flood Action Group 21-12-2019
 The Churchtown Flood Action Group won the Environment Agency Project Excellence Award in 2018 and is the foremost Flood Action Group in Lancashire.
@@ -92,6 +92,7 @@ Extra pointers:
 Fine tuning:
 - To obtain flooding evenly in the city one needs to observe the extreme case with 9s out of 0s rain in both moor and reservoir(s); to have flow over the dike evenly, one may need to level the last bit of the set-up by loosening the clamp near the city and if nbeed be put a small wooden bit or peg between support and the Wetropolis wooden frame. See photos below. This requires "Fingerspitzengefuhl" i.e. some intuition and trial-and-error. 
 - When the above does not work, more water is needed, so turn up the flow with the anlogue valves, and when there is too much flow turn them down, till you observe that it works. There is a climate-change setting, in which both more and a far-upstream reservoir are both peratig in since and a normal set-up with the upstream-reservoir not in operation, via simple swictch.
+
 <img src="IMG_0568.jpg" width="380"> <img src="IMG_0569.jpg" width="380">
 
 Notes, future work:
