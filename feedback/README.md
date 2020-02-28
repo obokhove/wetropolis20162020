@@ -43,7 +43,7 @@ There were on average more than 40 visitors per day, so over 9 days, circa 360 v
 
 Comments made on the feedback board; a big thank you to all feedback providers for the feedback below [*reply by OB=Onno Bokhove*]:
 - Just awesome. Smart. Intuitive. Fun.
-- I love Wetropolis. (See photo of drawing above by someone who played for an hour with Wetropolis and took 5 videos.)
+- I love Wetropolis. [*OB: See photo of drawing above by someone who played for an hour with Wetropolis and took 5 videos.*]
 - I think this exhibit is great. Could you add a way to force a flood made with difffently weighted arbles/blocks in the marble path?! Would be funny to see -flood.
 - This exhibit is very cool but could (you) also simulate tsunamis? 9 second moor/res for the win. [*OB reply: Our coastal wave-tank in Leeds can illustrate overtopping by coastal waves and inundation by tsunamis.*]
 - Brilliant visual & practical demo of flooding. Thank you.
