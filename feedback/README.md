@@ -1,6 +1,6 @@
 # Wetropolis I & II feedback
 
-Scroll down for showcasings at: 1) Churchtown, 2) Leeds' Armley Museum, 3) Cambridge, and 4) Imperial College (and upcoming showcase at Sheffield "Flood modelling and forecasting challenges in industry workshop" 11/12-06-2020).
+Scroll down for showcasings at: 1) Churchtown, 2) Leeds' Armley Museum, 3) Cambridge, and 4) Imperial College (and upcoming showcase at Sheffield "Flood modelling and forecasting challenges in industry workshop" 11/12-06-2020). Over 600 people have now seen Wetropolis.
 
 ## 1. Wetropolis I: Feedback from Churchtown Flood Action Group 21-12-2019
 The Churchtown Flood Action Group won the Environment Agency Project Excellence Award in 2018 and is the foremost Flood Action Group in Lancashire.
