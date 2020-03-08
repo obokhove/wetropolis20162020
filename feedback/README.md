@@ -1,6 +1,6 @@
 # Wetropolis I & II feedback
 
-Scroll down for showcasings at: 1) Churchtown, 2) Leeds' Armley Museum, 3) Cambridge, and 4) Imperial College (and upcoming showcase at Sheffield "Flood modelling and forecasting challenges in industry workshop" 11/12-06-2020). Over 600 people have now experienced what a return period is for an extreme flood with Wetropolis.
+Scroll down for showcasings at: 1) Churchtown, 2) Leeds' Armley Museum, 3) Cambridge, and 4) Imperial College (and upcoming showcase at Sheffield "Flood modelling and forecasting challenges in industry workshop" 11/12-06-2020). Well over 700 people have now experienced what a return period is for an extreme flood with Wetropolis.
 
 ## 1. Wetropolis I: Feedback from Churchtown Flood Action Group 21-12-2019
 The Churchtown Flood Action Group won the Environment Agency Project Excellence Award in 2018 and is the foremost Flood Action Group in Lancashire.
@@ -39,7 +39,7 @@ Wetropolis was displayed during the Environmental Modelling in Industry Study Gr
 <img src="IMG_0572.jpg" width="480">
 
 Learn more about "Planet Earth is alive: using mathematics to understand and protect our world", including "A day in the world of *Wetropolis*", written by Claudia Cannon: www.imperial.ac.uk/news/195539/planet-earth-alive-using-mathematics-understand/
-There were on average more than 40 visitors per day, so over 9 days, circa 360 visitors.
+There were on average more than 50 visitors per day, and often many more, so over 9 days circa 450 to 1000 visitors came to the exhibition.
 
 Comments made on the feedback board; a big thank you to all feedback providers for the feedback below [*reply by OB=Onno Bokhove*]:
 - Just awesome. Smart. Intuitive. Fun.
