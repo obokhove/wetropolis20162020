@@ -34,6 +34,8 @@ Wetropolis was displayed during the Environmental Modelling in Industry Study Gr
 
 (```Photo via Turing Gateway```) <!--![PhotoTG](TuringwetropolisScreenShot20170407at085520.png)-->
 
+## 3b Wetropolis I: showcasing as iCASP confluence Leeds, June 2018
+
 ## 4. Wetropolis II: Feedback Mathematics of Planet Earth Exhibition 15-02 to 23-02 2020
 
 <img src="IMG_0572.jpg" width="480">
@@ -107,7 +109,8 @@ Notes, future work:
 - make matching simulations and DA etc, with associated display; and,
 - buy small houses for display in the city; make/buy houses on stilts with a gangplank to higher grounds in the flood plains.
 
-## 5) Wetropolis II:  Flood modelling and forecasting challenges in industry workshop 11/12-06-2020 upcoming
+## 5. Wetropolis II:  Flood modelling and forecasting challenges in industry workshop 11/12-06-2020 upcoming
 
 Flood modelling and forecasting challenges in industry workshop https://twenty65.ac.uk/events/flood
 
+## 6. Wetropolis II: showcasing as part of 6th form conference, 40 students, 02-07-2020 upcoming
