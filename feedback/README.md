@@ -52,7 +52,7 @@ Comments made on the feedback board; a big thank you to all feedback providers f
 - Really nice model of flood control, I like how everything is presented and I learned some new things too.
 - Brilliant! So clear & captures the concept of chance in weather systems.Please construct more. [*Reply OB: the full and open design is found on this GitHub site and anyone is free to build a bespoke Wetropolis. Given lack of funding of outreach by UK funding agencies and universities, we are unable to build more ourselves.*]
 - Wondering if bringing back the population of beavers is the most effective! Living in Dartmoor -the moor has it. [*OB reply: alas, no, their effect is much too small; see "Using flood-excess volume to show that upscaling beaver dams for protection against extreme floods proves unrealistic".* https://eartharxiv.org/w9evx/ ]
-- Fantastic flood demo!! Great to show the different mesures to combat floods -for the perolation could you have two different"sands" with different percolation rates? Very well demonstrated and explained (smiley face). [*OB reply: yes, that can be readily arranged but we did the simple and more transportable case first.*]
+- Fantastic flood demo!! Great to show the different measures to combat floods -for the percolation could you have two different "sands" with different percolation rates? Very well demonstrated and explained (smiley face). [*OB reply: yes, that can be readily arranged but we did the simple and more transportable case first.*]
 - More beavers please. [*OB reply: see comment and link above.*]
 
 14-02: Big pump breaks down. Works intermittently. Replaced on 21-02.
