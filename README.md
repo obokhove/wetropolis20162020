@@ -1,4 +1,4 @@
-# Wetropolis Design 2016-2019 & Wetropolis spin-off projects (scroll down)
+# Wetropolis Design 2016-present & Wetropolis spin-off projects (scroll down)
 
 ## Introduction
 The Wetropolis flood demonstrator is a conceptual, physical installation showcasing what an extreme rainfall event is and how such an event can lead to extreme flooding of a city. A layman's introduction to Wetropolis is found in the following blog:
@@ -62,7 +62,7 @@ Future possible plans:
 
 ## References
 - O. Bokhove, T. Hicks, W. Zweers and T. Kent (2020) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. Submitted to *Hydrology and Earth System Sciences*. (```wetroarticle```) ![wetroarticle](wetropolis2018.pdf) See also 2019: https://eartharxiv.org/59ymk/ and accepted/in press on 31-03-2020: https://www.hydrol-earth-syst-sci-discuss.net/hess-2019-191/
-Revised version found above as: (```wetroarticlerevised```) ![wetroarticlerevised](wetropolis2019_2020.pdf) and (```wetroarticlerevisedno2```) ![wetroarticlerevised](wetropolis2020.pdf)
+Revised version found above as: (```wetroarticlerevised```) ![wetroarticlerevised](wetropolis2019_2020.pdf) and (```wetroarticlerevisedno2```) ![wetroarticlerevisedno2](wetropolis2020.pdf)
 
 - O. Bokhove (2018) Wetropolis flood demonstrator. Final report EPSRC Maths Foresees network outreach project: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
 - O. Bokhove (2017) Wetropolis flood demonstrator. Blog in Data Assimilation of the Resilient city -DARE- project: http://blogs.reading.ac.uk/dare/2017/07/25/wetropolis-flood-demonstrator/
