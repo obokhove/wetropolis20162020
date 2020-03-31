@@ -61,8 +61,8 @@ Future possible plans:
 - work with Wainfleet Flood Action Group, invitation & report --see report below with input from Wout Zweers (Aug 2019).
 
 ## References
-- O. Bokhove, T. Hicks, W. Zweers and T. Kent (2019) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. Submitted to *Hydrology and Earth System Sciences*. (```wetroarticle```) ![wetroarticle](wetropolis2018.pdf) See also: https://eartharxiv.org/59ymk/ and submitted version online for review: https://www.hydrol-earth-syst-sci-discuss.net/hess-2019-191/
-Revised version found above as: (```wetroarticlerevised```) ![wetroarticlerevised](wetropolis2019_2020.pdf)
+- O. Bokhove, T. Hicks, W. Zweers and T. Kent (2020) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. Submitted to *Hydrology and Earth System Sciences*. (```wetroarticle```) ![wetroarticle](wetropolis2018.pdf) See also 2019: https://eartharxiv.org/59ymk/ and accepted/in press on 31-03-2020: https://www.hydrol-earth-syst-sci-discuss.net/hess-2019-191/
+Revised version found above as: (```wetroarticlerevised```) ![wetroarticlerevised](wetropolis2019_2020.pdf) and (```wetroarticlerevisedno2```) ![wetroarticlerevised](wetropolis2020.pdf)
 
 - O. Bokhove (2018) Wetropolis flood demonstrator. Final report EPSRC Maths Foresees network outreach project: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
 - O. Bokhove (2017) Wetropolis flood demonstrator. Blog in Data Assimilation of the Resilient city -DARE- project: http://blogs.reading.ac.uk/dare/2017/07/25/wetropolis-flood-demonstrator/
