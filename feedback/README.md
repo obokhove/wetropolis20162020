@@ -112,5 +112,7 @@ Notes, future work:
 ## 5. Wetropolis II:  Flood modelling and forecasting challenges in industry workshop 11/12-06-2020 upcoming
 
 Flood modelling and forecasting challenges in industry workshop https://twenty65.ac.uk/events/flood
+Due to the Covid-19 pandemic, this showcasing is cancelled/deferred.
 
 ## 6. Wetropolis II: showcasing as part of 6th form conference, 40 students, 02-07-2020 upcoming
+Due to the Covid-19 pandemic, this showcasing is cancelled/deferred or will become a virtual showcasing, to-be-determined.
