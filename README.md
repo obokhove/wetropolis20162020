@@ -8,6 +8,7 @@ Please read the blog first. Wetropolis is best experienced in person but, second
 - the equivalent of the River Aire Boxing Day flood of 2015 with city flooding resulting from two wd's (10s) of consecutive extreme 90% rainfall (so 18s of rainfall in 20s) https://youtu.be/N4Sp5gHXcz4
 - EGU highligh article, peer-reviewed in international scientific journal (under education & communication): https://www.hydrol-earth-syst-sci.net/24/2483/2020/ (also read the interesting discussions under "Peer review")
 - Feedback from showcasings is found in the feedback folder: https://github.com/obokhove/wetropolis20162020/tree/master/feedback
+- We travel around and showcase Wetropolis upon request and, these days, with adequate social distancing. Just contact us: o.bokhove@leeds.ac.uk (UK) & zweers@dds.nl (NL)
 
 ![](figs/20161707CIMG2121copy.jpg)
 
