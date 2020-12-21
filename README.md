@@ -75,6 +75,7 @@ schemes using flood-excess volume. River Research and Applications 35, 1402-1414
 - Hydraulic modelling and data assimilation for Wetropolis (1st link July 2020) https://github.com/tkent198/hydraulic_wetro
 - Bokhove, O., Kelmanson, M., Kent, T. 2020: A new tool for communicating cost-effectiveness of flood-mitigation schemes. August 2020 evidence for the UK Government, parliamentary Environment, Food and Rural Affairs Committee inquiry into flooding; inquiry link: https://committees.parliament.uk/work/107/flooding evidence link: https://committees.parliament.uk/writtenevidence/9641/pdf/
 After two years, so two years after our 2018 archived report analysing LCC's 2017 flood-mitigation plans, we receivd in Septmber 2020 some critique of LCC; our response us foound here, basically a beautiful rehasing of the 2018 material (https://eartharxiv.org/repository/view/1283/) and the above e b2019/2020 articles (with authors BKMPT) of the 2018 report: see (```UKGovLCCcombo```) ![UKGovLCCcombo](UKGovfloodinquiryplus.pdf)
+* GitHub site with Excel/Python/Matlab and R codes for river flood data analysis (all freeware): https://github.com/Flood-Excess-Volume * 
 - Evidence in: https://www.newscientist.com/letter/mg24132131-000-youd-need-wall-to-wall-beavers-to-dam-floods/ Letter by J. Rand on 16-01-2019 in New Scientist. 
 Podcast (mathematical argument raised in interview by OB at 3:30min ff.; MP3 file 5D3C020E_2_dwdownload.mp3 saved): https://www.dw.com/en/living-planet-beavers-triumphant-return-to-yorkshire/av-54025402
 
