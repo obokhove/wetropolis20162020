@@ -10,7 +10,7 @@ Please read the blog first. Wetropolis is best experienced in person but, second
 - Feedback from showcasings is found in the feedback folder: https://github.com/obokhove/wetropolis20162020/tree/master/feedback
 - We travel around and showcase Wetropolis upon request and, these days, with adequate social distancing. Just contact us: o.bokhove@leeds.ac.uk (UK) & zweers@dds.nl (NL)
 
-![](figs/20161707CIMG2121copy.jpg)
+<img src="figs/20161707CIMG2121copy.jpg" width="480">
 
 Wetropolis-I consists of several elements which we describe next:
 - The topographic landscape with a winding river channel, one-sided flood plain, canals and the city-plain has been routed out of two standard polystyrene foam plates each of dimension 5x60x120xcm<sup>3</sup> (plus a small extra foam plate) with an overlay to fit two plates together. A smaller third piece was added to extend the river length after the city which enhanced flooding in the city plain. Drawings have been made in the CAD programs Rhino/Grasshopper and used to steer the router. Routing precision is circa 0.8mm. After the routing, the river channel and its flood plain have been roughened by gluing fine sand to the base, after which it has been varnished with yacht varnish. Specs: https://www.gamma.nl/assortiment/isolatieplaat-polystyreen-xps-120x60x5-cm-4-stuks/p/B133540 Isolatieplaat polystyreen XPS 120x60x5cm<sup>3</sup>
