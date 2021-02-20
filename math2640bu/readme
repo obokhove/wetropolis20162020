@@ -1,12 +1,1 @@
-Safeguard folder with content for course, not part of Wetropolis!
-(UoL Minerva site had troubles so this was used as back-up in case university site was down)
-
-## Solutions tutorials 4
-Note that that the bordered Hessian with positive B and B^T has the same properties as the one derived from the Lagrangian
-since multiplying the first m rows and the first m columns by -1 is an even 2m- operation such that the properties of
-the Lagrangian do not change. The properties of the Hessian also do not change,
-at least for linear constraints, when they are multiplied by a factor 2 or 1/2, or vice versa if (elements) H are multiplied
-by 2 or 1/2.
-
-## Updated notes set 2, 4 and 5. 
-Extra sketches, new 4B(iii), new last example in 4B(iv), notes 5 have more examples and sketches.
+Safeguard folder with content, not part of Wetropolis!
