@@ -112,7 +112,7 @@ Podcast (mathematical argument raised in interview by OB at 3:30min ff.; MP3 fil
 Hi Colin, Would the following work for the June 1st seminar for MPE? (The abstract is a) Bit "experimental/preliminary" but I think I have enough for a good overview and discussion. Besides it coincides with the writing of the outline. Let me know your comments before I send it in, please. -Onno
 
 Title: On the Science of Floods: Rainfall, Flooding, and Flood Control revisited in the Design of a Table-Top Model
-By Onno Bokhove, School of Mathematics, University of Leeds
+By Onno Bokhove
 Abstract: In a recent public event in Hebden Bridge, a town in Yorkshire that has seen a lot of sustained and flash floods over the last decade, I addressed the following questions:
 - Is it going to rain more in the future?
 - Can we define extreme precipitation and flooding events?
