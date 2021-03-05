@@ -116,3 +116,7 @@ Due to the Covid-19 pandemic, this showcasing is cancelled/deferred.
 
 ## 6. Wetropolis II: showcasing as part of 6th form conference, 40 students, 02-07-2020 upcoming
 Due to the Covid-19 pandemic, this showcasing is cancelled/deferred or will become a virtual showcasing, to-be-determined.
+
+## 7. Wetropolis II: Invitation Mathematics of Planet Earth Exhibition 11-02 to 20-02 2022
+
+Imperial College, London.
