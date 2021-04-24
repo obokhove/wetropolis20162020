@@ -92,6 +92,7 @@ Podcast (mathematical argument raised in interview by OB at 3:30min ff.; MP3 fil
 ## Wetropolis spin-off projects, including Wainfleet
 - Cost-effectiveness analysis of flood-mitigation plans: see the work of Bokhove, Kelmanson, Kent, Piton and Tacnet in References and Selected presentations above.
 - Advisory work for Wainfleet Flood Action Group (W-FLAG) based on 19-08-2019 visit to Wainfleet in Lincolnshire: (```wfag2019```) ![wfag2019](ObservationssuggestionsWainfleetfloodprotection4.pdf) Will be updated/under construction.
+- Representation, i.e. comments, on flood-easing proposal for Apperley Bridge (item SFFF 20-04-2021): https://publicaccess.leeds.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QN9VJ1JBL3Q00&fbclid=IwAR3Gt5ICPhWtbUHHpIXcePDKz9lXh-mx4Yuhiqc6ccbzrBMtSYH3V8j_6Xo
 
 ![](overview.jpg)
 
