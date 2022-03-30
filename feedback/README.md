@@ -135,4 +135,4 @@ Due to the Covid-19 pandemic, this showcasing was cancelled and, instead, Dr Tom
 Imperial College, London. https://mpecdt.ac.uk/mathematics-of-planet-earth-exhibition-2022-2/
 
 ## 7. Wetropolis II: showcasing as part of 6th form conference, 40 students, 2022 upcoming
-Likely in our School of Mathematics labs, shown by PhD students who use the lab.
+Likely in our School of Mathematics labs, demonstration of Wetropolis by PhD students who use the lab.
