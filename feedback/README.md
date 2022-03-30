@@ -124,14 +124,14 @@ Notes, future work:
 - make matching simulations and DA etc, with associated display; and,
 - buy small houses for display in the city; make/buy houses on stilts with a gangplank to higher grounds in the flood plains.
 
-## 5. Wetropolis II:  Flood modelling and forecasting challenges in industry workshop 11/12-06-2020 upcoming
+## 5. Wetropolis II:  Flood modelling and forecasting challenges in industry workshop 11/12-06-2020 moved to 16009-2021
 
 Flood modelling and forecasting challenges in industry workshop https://twenty65.ac.uk/events/flood
-Due to the Covid-19 pandemic, this showcasing is cancelled/deferred.
+Due to the Covid-19 pandemic, this showcasing is was cancelled and instead, Dr Tom Kent, was kind enough to give a presentation, found here (I wqs preparing kayaking across Scotland):
 
-## 6. Wetropolis II: showcasing as part of 6th form conference, 40 students, 02-07-2020 upcoming
-Due to the Covid-19 pandemic, this showcasing is cancelled/deferred or will become a virtual showcasing, to-be-determined.
-
-## 7. Wetropolis II: Invitation Mathematics of Planet Earth Exhibition 28-05-2022 to 05-06 2022
+## 6. Wetropolis II: Invitation Mathematics of Planet Earth Exhibition 28-05-2022 to 05-06 2022
 
 Imperial College, London. https://mpecdt.ac.uk/mathematics-of-planet-earth-exhibition-2022-2/
+
+## 7. Wetropolis II: showcasing as part of 6th form conference, 40 students, 2022 upcoming
+Likely in our School of Mathematics labs, shown by PhD students who use the lab.
