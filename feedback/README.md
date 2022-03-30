@@ -5,23 +5,19 @@ Scroll down for showcasings at: 1) Churchtown, 2) Leeds' Armley Museum, 3) Cambr
 
 ## Wetropolis showcasings
 - 5/7-09-2016, Edinburgh, General Assembly of Maths Foresees Living with Environmental Change (LWEC) Network. Presentation on Wetropolis and public engagement: http://www1.maths.leeds.ac.uk/mathsforesees/edin/MFEdinb2016s.pdf
+- Two (September 2016 and 2017) induction days of the Leeds’ fluid Dynamics CDT (Onno Bokhove & Tom Kent; Robert Long, Craigh Duguid and Duncan Livesey); post 22-09-2016 at https://www.facebook.com/resurging.flows
+- Two afternoons as part of the public exhibition on the Boxing Day 2015 floods in the Leeds’ Armley Musuem (Dec. 8th 2016 and March 26th 2017), with Tom Kent, Tiffany Hicks and Onno Bokhove and asistance of CDT Fluid Dynamics’ Leeds PhD students Thomas Goodfellow, Robert Long, Craigh Duguid and Duncan Livesey. Post 05-12-2016 at https://www.facebook.com/resurging.flows
 - Presentation on Mathematics of extreme events and showing of Wetropolis the public flood conference by the Churchtown flood action group on 29-01-20217 with Valerie Zwart, Tom Kent and Onno Bokhove; in front of 140 flood victims and some experts on flooding https://www.facebook.com/Churchtown.flood.action.group/ & post 16-01-2017 at https://www.facebook.com/resurging.flows See announcement in: https://www.thewestmorlandgazette.co.uk/news/14975893.list-of-post-floods-work-to-becarried-out-in-cumbria-this-week/
-- Workshop Liverpool flood professionals, demonstration by CDT students.
-- Two afternoons as part of the public exhibition on the Boxing Day 2015 floods in the Leeds’ Armley Musuem
-(Dec. 8th 2016 and March 26th 2017), with Tom Kent, Tiffany Hicks and Onno Bokhove and asistance of
-CDT Fluid Dynamics’ Leeds PhD students Thomas Goodfellow, Robert Long, Craigh Duguid and Duncan
-Livesey. Post 05-12-2016 at https://www.facebook.com/resurging.flows
-- Canal and River Trust workshop; by Robert Long, Craigh Duguid and Duncan Livesey, Liverpool.
-- Be Curious Science festival Leeds; with Wetropolis mentioned in the call.
-- Second Study Group of our network Maths Foresees at Turing Gateway of Mathematics, Cambridge by
-Robert Long, Craigh Duguid and Duncan Livesey; see below and post 07-04-2017 https://www.facebook.com/resurging.flows
-- Two (in September 2016 and 2017) induction days of the Leeds’ fluid Dynamics CDT (Onno Bokhove & Tom Kent; Robert
-Long, Craigh Duguid and Duncan Livesey); post 22-09-2016 at https://www.facebook.com/resurging.
-flows
+- CDT students Robert Long, Craigh Duguid and Duncan Livesey, Liverpool at: The Merseyside Flood and Coastal Erosion Risk Management (FCERM) Partnership Workshop on: Collaborative Natural Flood Risk Targeting Maps. 08-03-2017.
+- Be Curious Science festival Leeds 2017; with Wetropolis mentioned in the call.
+- Second Study Group of our network Maths Foresees at Turing Gateway of Mathematics, Cambridge by Robert Long, Craigh Duguid and Duncan Livesey; post 07-04-2017 https://www.facebook.com/resurging.flows More below.
+- Showcasing as iCASP confluence Leeds, June 2018.
+- Wetropolis II at Mathematics of Planet Earth Exhibition 15-02 to 23-02 2020 www.imperial.ac.uk/news/195539/planet-earth-alive-using-mathematics-understand/ More below.
+- Wetropolis II at Mathematics of Planet Earth Exhibition 28-05 to 05-06 2022. Coming up: https://mpecdt.ac.uk/mathematics-of-planet-earth-exhibition-2022-2/
 - See also below.
 
 
-## 1. Wetropolis I: Feedback from Churchtown Flood Action Group 21-12-2019
+## 1. Wetropolis I: Feedback (21-12-2019) from Churchtown Flood Action Group 
 The Churchtown Flood Action Group won the Environment Agency Project Excellence Award in 2018 and is the foremost Flood Action Group in Lancashire.
 
 "Dear Onno, 
