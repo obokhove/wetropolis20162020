@@ -116,7 +116,7 @@ Fine tuning:
 Notes, future work:
 - sockets should be in one shielded box;
 - extra cover on back of Galton-board set-up/marble run;
-- fix drainage city, use screw fittings and water collection box, with two valves (one in measurment device and one into reservoir) 
+- fix drainage city, use screw fittings and water collection box, with two valves (one in measurment device and one into reservoir); done 28-03 with 1 valve; balancing of drain pipe such that it is horizontal using a piece of woods is a bit sketchy;
 - secure drain pipes (one below seam and one at end of river);
 - buy small toy houses;
 - add switch board with several cases: normal one, climate one, extra flooding one, drought one, climate and drought and let audience analyse by observation which one is on. Do maths and progam options in Arduino;
@@ -128,7 +128,7 @@ Notes, future work:
 
 Flood modelling and forecasting challenges in industry workshop https://twenty65.ac.uk/events/flood
 Due to the Covid-19 pandemic, this showcasing was cancelled and, instead, Dr Tom Kent was kind enough to make and give a presentation, found here (I was preparing to and did kayak across Scotland): https://www1.maths.leeds.ac.uk/~obokhove/Wetropolis_talk_Sheffield_2021.pdf
-(OB is on teh committee of the EPSRC fellowship of Dr Georges Kesserwani who organised this event.)
+(OB is on the committee of the EPSRC fellowship of Dr Georges Kesserwani who organised this event.)
 
 ## 6. Wetropolis II: Invitation Mathematics of Planet Earth Exhibition 28-05-2022 to 05-06 2022
 
