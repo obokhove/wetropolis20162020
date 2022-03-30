@@ -1,4 +1,4 @@
-# Wetropolis I & II feedback
+# Wetropolis I & II Showcasings and Feedback
 
 Well over 1000 people have now experienced in person what a return period (or ``Annual'' Event Probability) is for an extreme flood by viewing the Wetropolis Flood Demonstrator in action.
 
