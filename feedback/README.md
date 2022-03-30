@@ -128,6 +128,7 @@ Notes, future work:
 
 Flood modelling and forecasting challenges in industry workshop https://twenty65.ac.uk/events/flood
 Due to the Covid-19 pandemic, this showcasing was cancelled and, instead, Dr Tom Kent was kind enough to make and give a presentation, found here (I was preparing to and did kayak across Scotland): https://www1.maths.leeds.ac.uk/~obokhove/Wetropolis_talk_Sheffield_2021.pdf
+(OB is on teh committee of the EPSRC fellowship of Dr Georges Kesserwani who organised this event.)
 
 ## 6. Wetropolis II: Invitation Mathematics of Planet Earth Exhibition 28-05-2022 to 05-06 2022
 
