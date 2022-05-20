@@ -114,13 +114,13 @@ Fine tuning:
 <img src="IMG_0568.jpg" width="380"> <img src="IMG_0569.jpg" width="380">
 
 Notes, future work:
-- sockets should be in one shielded box (05-2022: done/in progress);
+- sockets should be in one shielded box (05-2022: dones);
 - extra cover on back of Galton-board set-up/marble run (05-2022 done);
 - fix drainage city, use screw fittings and water collection box, with two valves (one in measurment device and one into reservoir); done 28-03 with 1 valve; balancing of drain pipe such that it is horizontal using a piece of woods is a bit sketchy; done 05-2022: added syringe with exit vcalve and drianage into reservoir
 - secure drain pipes (one below seam and one at end of river); 05-2022: partially done.
 - buy small toy houses;
 - add switch board with several cases: normal one, climate one, extra flooding one, drought one, climate and drought and let audience analyse by observation which one is on. Do maths and progam options in Arduino (not done).
-- make Arduino graphs (not done).
+- make Arduino graphs (not done yet; see https://www.circuitbasics.com/logging-arduino-data-to-files-on-a-computer/).
 - make matching simulations and DA etc, with associated display (in progress); and,
 - buy small houses for display in the city; make/buy houses on stilts with a gangplank to higher grounds in the flood plains.
 
