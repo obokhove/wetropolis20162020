@@ -120,7 +120,7 @@ Notes, future work:
 - secure drain pipes (one below seam and one at end of river); 05-2022: partially done.
 - buy small toy houses;
 - add switch board with several cases: normal one, climate one, extra flooding one, drought one, climate and drought and let audience analyse by observation which one is on. Do maths and progam options in Arduino (not done).
-- make Arduino graphs (not done yet; see 'Just connect to your Arduino, and then go to the 'Transfer->Capture Text' menu option. Select a file to save your data and away you go! All incoming serial data will then be automatically saved for you' and https://www.circuitbasics.com/logging-arduino-data-to-files-on-a-computer/).
+- make Arduino graphs (not done yet; see 'Just connect to your Arduino, and then go to the 'Transfer->Capture Text' menu option. Select a file to save your data and away you go! All incoming serial data will then be automatically saved for you' and https://www.circuitbasics.com/logging-arduino-data-to-files-on-a-computer/). or: https://forum.arduino.cc/t/copy-paste-problem-from-serial-monitor/694354
 - make matching simulations and DA etc, with associated display (in progress); and,
 - buy small houses for display in the city; make/buy houses on stilts with a gangplank to higher grounds in the flood plains.
 
