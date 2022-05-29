@@ -76,5 +76,9 @@ Q10: How do the two Galtonboard distributions approximate their ideal distributi
 
 Answer: see the outcome (updates) on the Raspberry Pi (move the mouse and look at the serial monitor; printed lines with numbers per channel, normalised and ideal outcomes). What can we do to improve the outcomes?
 
+Q11 (bonus question): What is the chance that a Wetropolis superflood occurs, i.e. what is the chance of 2 wd’s of extreme rainfall?
+
+ANSWER:  (7/256)*(7/256)=0.075% or after on average 1337wd's, which is 3:43hrs, a long time to wait (on average). We saw 2 superfloods on 29-05 in an 8hrs period. See movie: https://www.youtube.com/shorts/pgQMljCGl6o
+
 Poster: https://github.com/obokhove/wetropolis20162020/blob/master/WetropolisQuizanswers/WetropolisposterMPEIC2022.pdf
 
