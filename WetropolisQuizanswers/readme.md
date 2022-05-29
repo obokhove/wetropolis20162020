@@ -1,17 +1,17 @@
 # Wetropolis Flood Demonstrator Quiz: questions and answers
 
-## Welcome to the Wetropolis Quiz on extreme rainfall and river flooding! Work together.
+## Welcome to the Wetropolis Quiz on extreme rainfall and river flooding! Work together?
 
-Q1: How long does it (approx.) take for the steel ball to fall through the Galtonboard?
+Q1: How long does it (approximately) take for the steel ball to fall through the Galtonboard?
 
 a) 1 second;	b) 10 seconds; c) 100 seconds?
 
-That is the length of a day in Wetropolis, a Wetropolis day —wd (new SI unit).
+That is the length of a day in Wetropolis, a Wetropolis day —with new SI unit wd.
 
 ANSWER: b) Wetropolis day or wd is 10 seconds.
 
 
-Q2: Notice which two lights lit up during a wd (Wetropolis day) and notice what happens in the river set-up with rain falling into the moor and reservoir. 
+Q2: Notice which two lights light up during a wd (Wetropolis day) and notice what happens in the river set-up with rain falling into the moor and reservoir.
 
 When the lights in channels “2 seconds” and “moor” lit up, what happens in the set-up?
 
@@ -20,20 +20,20 @@ a) rain falls for 4s in the reservoir; b) there is no rain; c) rain falls for 2s
 ANSWER: c) rain falls for 2 seconds in the moor (the box with the porous particles representing a porous peat moor, say).
 
 
-Q3: There are 4 rain duration outcomes (that is 1s,2s,4s,9s of rainfall per wd) and 4 rain location outcomes (rainfall in reservoir, in reservoir & moor, in moor, no rain).
+Q3: There are 4 rain duration outcomes (that is: 1s,2s,4s,9s of rainfall per wd) and 4 rain location outcomes (that is: rainfall in reservoir, in reservoir & moor, in moor, no rain).
 
-What is the most extreme rainfall event possible on one Wetropolis day?
+What is the most extreme rainfall event possible during one Wetropolis day?
 
 a) No rainfall; b) 9s in moor; c) 9s in reservoir & moor; d) 9s in reservoir.
 
-Locate the city in the set-up. Next observe Wetropolis over several Wetropolis days and notice that the city starts to flood after such an extreme rainfall events —unless you have applied flood control. On average you will have to wait for a certain number of Wetropolis days, the return period, for extreme rainfall and extreme flooding of the city to occur.
+Locate the city in the set-up. Next observe Wetropolis over several Wetropolis days and notice that the city (only) starts to flood after such an extreme rainfall event. On average you will have to wait for a certain number of Wetropolis days, the return period, for flooding to occur.
 
 ANSWER: c) 9s of rainfall in both the reservoir and moor.
 
 
-Q4: In the ideal case of 50%-50% splits on the Galtonboard, in 16 what is the average number of balls collected in the 4 Galtonboard channels?
+Q4: In the ideal case of 50%-50% splits on the Galtonboard, in 16 what is distribution in the 4 Galtonboard channels?
 
-Hint: first split 1/2 & 1/2; 2nd split: 3/4 & 1/4; 3rd split: 3/8 & 1/2 & 1/8; final split: … & 7/16 & … & 1/16.
+Hint: first split 1/2 & 1/2; 2nd split: 3/4 & 1/4; 3rd split: 3/8 & 1/2 & 1/8; final split and answer: … & 7/16 & … & 1/16.
 
 Answer (see poster): … & 7 & … & 1 times (average over 16 perfect outcomes).
 
