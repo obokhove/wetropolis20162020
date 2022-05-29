@@ -51,16 +51,21 @@ Q6: Extreme rainfall occurs circa 3% (2.73% to be more precise) of the time on a
 What is then the return period for such an extreme flood event?
 
 a) 256/7~36wd’s or 6:06min; b) 120wd’s or 20min; c) 16wd’s or 160s. (See poster.)
+
 The Wetropolis Event Probability (WEP) is thus circa 2.73%, the analog of the Annual Event Probability (AEP used by the Environment Agency in flood-risk maps for your house. The EA uses 1/30=3.3%, 1/100=1% and 1/1000=0.1% flood risk thresholds -see https://check-long-term-flood-risk.service.gov.uk/postcode
 
+ANSWER: a) 256/7~36wd’s or 6:06min. 36x10s=6min.
 
 Q7: When an extreme event is seen to occur from the Galtonboard outcome, what can you do the lessen or prevent the city from flooding?
 
 a) Hold back water in reservoir by using its lock gates; b) nothing; c) hold back water in reservoir by using lock gates after first (slowly, why?) emptying it during “dry” times.
 
+ANSWER: c) By first emptying the reservoir without flooding the city during sufficiently dry Wetropolis days one can create more volume in the reservoir to store rainfall, but only till the reservoir is full. So answer c) is better than answer a).
+
 
 Q8) During climate change more (annual or Wetropolis) rainfall is predicted. Find the climate-change rainfall switch; turn it on and observe what happens.
 
+ANSWER: See the red switch sticking out of the wooden lid.
 
 Q9: The water volume that floods the city is the flood-excess volume: collect and measure it underneath the city by turning the valve off on under the city (and play!)
 
