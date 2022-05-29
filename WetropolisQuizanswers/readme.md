@@ -2,22 +2,22 @@
 
 ## Welcome to the Wetropolis Quiz on extreme rainfall and river flooding! Work together?
 
-Q1: How long does it (approximately) take for the steel ball to fall through the Galtonboard?
+Q1: How long does it (approximately) take for the steel ball to fall through the Galtonboard(s)?
 
-a) 1 second;	b) 10 seconds; c) 100 seconds?
+a) 1 second; b) 10 seconds; or, c) 100 seconds?
 
 That is the length of a day in Wetropolis, a Wetropolis day —with new SI unit wd.
 
-ANSWER: b) Wetropolis day or wd is 10 seconds.
+ANSWER: b) The Wetropolis day or wd is 10 seconds.
 
 
-Q2: Notice which two lights light up during a wd (Wetropolis day) and notice what happens in the river set-up with rain falling into the moor and reservoir.
+Q2: Notice which two lights light up on the Galton board(s) during a wd (Wetropolis day)and notice what happens in the river set-up with rain falling on the moor and reservoir.
 
 When the lights in channels “2 seconds” and “moor” lit up, what happens in the set-up?
 
-a) rain falls for 4s in the reservoir; b) there is no rain; c) rain falls for 2s in the moor. 
+a) Rain falls for 4s in the reservoir; b) there is no rain; c) rain falls for 2s in the moor. 
 
-ANSWER: c) rain falls for 2 seconds in the moor (the box with the porous particles representing a porous peat moor, say).
+ANSWER: c) Rain falls for 2 seconds in the moor (the box with the porous particles representing a porous peat moor, say).
 
 
 Q3: There are 4 rain duration outcomes (that is: 1s,2s,4s,9s of rainfall per wd) and 4 rain location outcomes (that is: rainfall in reservoir, in reservoir & moor, in moor, no rain).
@@ -43,14 +43,15 @@ Q5) During climate change more (annual or Wetropolis) rainfall is predicted. Fin
 ANSWER: See the red switch sticking out of the wooden lid.
 
 
-Q6: The water volume that floods the city is the flood-excess volume: collect and measure that volume underneath the city by turning the valve off on under the city (and play!)
+Q6: The water volume that floods the city is the flood-excess volume: collect and measure that volume underneath the city by turning the valve off/on under the city (and play!)
 
+The Wetropolis Event Probability (WEP) is thus circa 2.73%, the analog of the Annual Event Probability (AEP used by the Environment Agency in flood-risk maps for your house. The EA uses 1/30=3.3%, 1/100=1% and 1/1000=0.1% flood-risk thresholds -see https://check-long-term-flood-risk.service.gov.uk/postcode
 
-Q7: In the ideal case of 50%-50% splits on the Galtonboard, in 16 what is distribution in the 4 Galtonboard channels?
+Q7: In the ideal case of 50%-50% splits on the Galtonboard, what is distribution in the 4 Galtonboard channels?
 
-Hint: first split 1/2 & 1/2; 2nd split: 3/4 & 1/4; 3rd split: 3/8 & 1/2 & 1/8; final split and answer: … & 7/16 & … & 1/16.
+Hint: first split 1/2 & 1/2; 2nd split: 3/4 & 1/4; 3rd split: 3/8 & 1/2 & 1/8; final split and answer: 3/16 & 7/16 & … & 1/16.
 
-Answer (see poster): ... & 7/16 & ... & 1/16.
+Answer (see poster): 3/16 & 7/16 & ... & 1/16.
 
 ANSWER: 3/16 & 7/16 & 5/16 & 1/16 (on average).
 
@@ -67,8 +68,6 @@ Q9: Extreme rainfall occurs circa 3% (2.73% to be more precise) of the time on a
 What is then the return period for such an extreme flood event?
 
 a) 256/7~36wd’s or 6:06min; b) 120wd’s or 20min; c) 16wd’s or 160s. (See poster.)
-
-The Wetropolis Event Probability (WEP) is thus circa 2.73%, the analog of the Annual Event Probability (AEP used by the Environment Agency in flood-risk maps for your house. The EA uses 1/30=3.3%, 1/100=1% and 1/1000=0.1% flood-risk thresholds -see https://check-long-term-flood-risk.service.gov.uk/postcode
 
 ANSWER: a) 256/7~36wd’s or 6:06min with 36x10s=6min.
 
