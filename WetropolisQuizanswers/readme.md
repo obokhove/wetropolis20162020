@@ -8,6 +8,8 @@ a) 1 second;	b) 10 seconds; c) 100 seconds?
 
 That is the length of a day in Wetropolis, a Wetropolis day —wd (new SI unit).
 
+ANSWER: b) Wetropolis day or wd is 10 seconds.
+
 
 Q2: Notice which two lights lit up during a wd (Wetropolis day) and notice what happens in the river set-up with rain falling into the moor and reservoir. 
 
@@ -15,13 +17,18 @@ When the lights in channels “2 seconds” and “moor” lit up, what happens 
 
 a) rain falls for 4s in the reservoir; b) there is no rain; c) rain falls for 2s in the moor. 
 
+ANSWER: c) rain falls for 2 seconds in the moor (the box with the porous particles representing a porous peat moor, say).
+
 
 Q3: There are 4 rain duration outcomes (that is 1s,2s,4s,9s of rainfall per wd) and 4 rain location outcomes (rainfall in reservoir, in reservoir & moor, in moor, no rain).
 
 What is the most extreme rainfall event possible on one Wetropolis day?
 
 a) No rainfall; b) 9s in moor; c) 9s in reservoir & moor; d) 9s in reservoir.
-Locate the city in the set-up. Next observe Wetropolis over several Wetropolis days and notice that the city starts to flood after such an extreme rainfall events —unless you have applied flood control. On average you will have to wait for a certain number of Wetropolis days, the return period, for extreme rainfall and extreme flooding of the city to occur
+
+Locate the city in the set-up. Next observe Wetropolis over several Wetropolis days and notice that the city starts to flood after such an extreme rainfall events —unless you have applied flood control. On average you will have to wait for a certain number of Wetropolis days, the return period, for extreme rainfall and extreme flooding of the city to occur.
+
+ANSWER: c) 9s of rainfall in both the reservoir and moor.
 
 
 Q4: In the ideal case of 50%-50% splits on the Galtonboard, in 16 what is the average number of balls collected in the 4 Galtonboard channels?
@@ -30,10 +37,14 @@ Hint: first split 1/2 & 1/2; 2nd split: 3/4 & 1/4; 3rd split: 3/8 & 1/2 & 1/8; f
 
 Answer (see poster): … & 7 & … & 1 times (average over 16 perfect outcomes).
 
+ANSWER: average over 16 outcomes: 3 (1st channel), 7 (2nd channel), 5 (3rd channel) and 1 (4th channel) or distribution (3/16, 7/16, 5/16, 1/16) in the ideal case for ideal Galton boards, for both Galton boards. 
+
 
 Q5: How often does such an extreme rainfall event occur? What is its distribution?
 
 a) 1/16 x 7/16=7/256; b) 1/16; c) 5/16x5/16=25/256; d) 7/16x1/16=7/256. (See poster.)
+
+ANSWER: a) 1/16 x 7/16=7/256;
 
 Q6: Extreme rainfall occurs circa 3% (2.73% to be more precise) of the time on average.
 
