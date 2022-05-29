@@ -74,5 +74,5 @@ ANSWER: a) 256/7~36wd’s or 6:06min with 36x10s=6min.
 
 Q10: How do the two Galtonboard distributions approximate their ideal distributions?
 
-Answer: see the outcome (updates) on the Raspberry Pi (move the moose and look at the serial monitor; printed lines with numbers per channel, normalised and ideal outcomes). What can we do to improve the outcomes?
+Answer: see the outcome (updates) on the Raspberry Pi (move the mouse and look at the serial monitor; printed lines with numbers per channel, normalised and ideal outcomes). What can we do to improve the outcomes?
 
