@@ -76,3 +76,5 @@ Q10: How do the two Galtonboard distributions approximate their ideal distributi
 
 Answer: see the outcome (updates) on the Raspberry Pi (move the mouse and look at the serial monitor; printed lines with numbers per channel, normalised and ideal outcomes). What can we do to improve the outcomes?
 
+Poster: https://github.com/obokhove/wetropolis20162020/blob/master/WetropolisQuizanswers/WetropolisposterMPEIC2022.pdf
+
