@@ -1,4 +1,4 @@
-# Wetropolis Flood Demonstrator Quiz
+# Wetropolis Flood Demonstrator Quiz: questions and answers
 
 ## Welcome to the Wetropolis Quiz on extreme rainfall and river flooding! Work together.
 
