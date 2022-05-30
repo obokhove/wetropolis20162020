@@ -82,3 +82,5 @@ ANSWER:  (7/256)*(7/256)=0.075% or after on average 1337wd's, which is 3:43hrs, 
 
 Poster: https://github.com/obokhove/wetropolis20162020/blob/master/WetropolisQuizanswers/WetropolisposterMPEIC2022.pdf
 
+Comments? o.bokhove@leeds.ac.uk
+
