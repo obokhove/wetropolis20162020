@@ -131,9 +131,16 @@ Flood modelling and forecasting challenges in industry workshop https://twenty65
 Due to the Covid-19 pandemic, this showcasing was cancelled and, instead, Dr Tom Kent was kind enough to make and give a presentation, found here (I was preparing to and did kayak across Scotland): https://www1.maths.leeds.ac.uk/~obokhove/Wetropolis_talk_Sheffield_2021.pdf
 (OB is on the committee of the EPSRC fellowship of Dr Georges Kesserwani who organised this event.)
 
-## 6. Wetropolis II: Invitation Mathematics of Planet Earth Exhibition 28-05-2022 to 05-06 2022
+## 6. Wetropolis II: Mathematics of Planet Earth Exhibition 28-05-2022 to 05-06 2022
 
 Imperial College, London. https://mpecdt.ac.uk/mathematics-of-planet-earth-exhibition-2022-2/
+
+Log:
+- Arduino updating: before uploading choose board ie Arduino Mega-2560; then compile and upload
+- Extended program to print histograms of top and bottom 4 channels, normalised histogram & ideal case on two lines, updated every 10s;
+- Fabio noticed that after 9s of rain the top Galtonboard does not count since the serial programming prevents the signal to be registered when pumoing for more than 7s; attempts to bypass this anmomaly failed hitherto; program/folder: galtonboardV11march2019c3.ino
+- Motor marble run failed on 02-06-2022 midday; ordered 2 new ones; likely burned out;
+
 
 ## 7. Wetropolis II: showcasing as part of 6th form conference, 40 students, 2022 upcoming
 Likely in our School of Mathematics labs, demonstration of Wetropolis by PhD students who use the lab.
