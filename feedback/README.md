@@ -148,7 +148,7 @@ to do: reprogram and fix the issue;
 Best experiences:
 - likely the filming
 - two young ladies one of which liked drowning teh smurfs while the other older young lady got the hang of using flood control via the gates of the reservoir in order to protect the city from flooding, see their comments:
-<img src="20220530133824copy.jpg" width="380"> 
+<img src="20220530133824copy.jpg" width="680"> 
 
 - a (French) high-school student had heard about the set-up via his brother at Imperial College and was considering using the statistics on Wetropolis for school presentation of 3min on mathematics.
 
