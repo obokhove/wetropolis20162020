@@ -138,8 +138,17 @@ Imperial College, London. https://mpecdt.ac.uk/mathematics-of-planet-earth-exhib
 Log:
 - Arduino updating: before uploading choose board ie Arduino Mega-2560; then compile and upload
 - Extended program to print histograms of top and bottom 4 channels, normalised histogram & ideal case on two lines, updated every 10s;
-- Fabio noticed that after 9s of rain the top Galtonboard does not count since the serial programming prevents the signal to be registered when pumoing for more than 7s; attempts to bypass this anmomaly failed hitherto; program/folder: galtonboardV11march2019c3.ino
-- Motor marble run failed on 02-06-2022 midday; ordered 2 new ones; likely burned out;
+- Fabio (thanks, well-spotted) noticed that after 9s of rain the top Galtonboard does not count since the serial programming prevents the signal to be registered when pumoing for more than 7s; attempts to bypass this anmomaly failed hitherto; program/folder: galtonboardV11march2019c3.ino
+to do: reprogram and fix the issue;
+- Motor marble run failed on 02-06-2022 midday; ordered 2 new ones; likely burned out; to do;
+- City: when the base is dry the water has initially difficulty rolling oiver the berm, once that has happened the base starts soaking up water and is slightly leaking; a fix may be to varnish one side of the city; to do;
+- during transport to London the end of the aquifer collecting gutter had disappeared; fix; to do;
+- during tgransport back a Mercedes car was used; everything fit in one car with the back seat folded down.
+
+Best experiences:
+- likely the filming
+- two young ladies one of which liked drowning teh smurfs while the other older young lady got the hang of using flood control via the gates of the reservoir in order to protect the city from flooding, see their comments:
+- a (French) high-school student had heard about the set-up via his brother at Imperial College and was considering using the statistics on Wetropolis for school presentation of 3min on mathematics.
 
 
 ## 7. Wetropolis II: showcasing as part of 6th form conference, 40 students, 2022 upcoming
