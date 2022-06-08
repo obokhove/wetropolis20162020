@@ -145,9 +145,9 @@ to do: reprogram and fix the issue;
 - during transport to London the end of the aquifer collecting gutter had disappeared; fix; to do;
 - during tgransport back a Mercedes car was used; everything fit in one car with the back seat folded down.
 
-Best experiences:
-- likely the filming
-- two young ladies one of which liked drowning teh smurfs while the other older young lady got the hang of using flood control via the gates of the reservoir in order to protect the city from flooding, see their comments:
+Highlights:
+- the filming over 3hrs for a 3min clip; to be continued whetehr that pays off;
+- two young ladies one of whom liked drowning the smurfs while the other older young lady got the hang of using flood control via the gates of the reservoir in order to protect the city from flooding, see their comments:
 <img src="20220530133824copy.jpg" width="680"> 
 
 - a (French) high-school student had heard about the set-up via his brother at Imperial College and was considering using the statistics on Wetropolis for school presentation of 3min on mathematics.
