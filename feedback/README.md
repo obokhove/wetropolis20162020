@@ -150,7 +150,7 @@ Highlights:
 - two young ladies one of whom liked drowning the smurfs while the other older young lady got the hang of using flood control via the gates of the reservoir in order to protect the city from flooding, see their comments:
 <img src="20220530133824copy.jpg" width="680"> 
 
-- a (French) high-school student had heard about the set-up via his brother at Imperial College and was considering using the statistics on Wetropolis for school presentation of 3min on mathematics.
+- a (French) high-school student had heard about the set-up via his brother at Imperial College and was considering using the statistics of Wetropolis for a school presentation of 3min on mathematics.
 
 
 ## 7. Wetropolis II: showcasing as part of 6th form conference, 40 students, 2022 upcoming
