@@ -67,7 +67,8 @@ Future possible plans:
 - O. Bokhove, T. Hicks, W. Zweers and T. Kent (2020) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. *Hydrology and Earth System Sciences*. https://www.hydrol-earth-syst-sci.net/24/2483/2020/ (```wetroarticle```) ![wetroarticle](wetropolis2018.pdf) See also 2019 preprint: https://eartharxiv.org/59ymk/
 Revised version found above as: (```wetroarticlerevised```) ![wetroarticlerevised](wetropolis2019_2020.pdf) and (```wetroarticlerevisedno2```) ![wetroarticlerevisedno2](wetropolis2020.pdf)
 - O. Bokhove (2018) Wetropolis flood demonstrator. Final report EPSRC Maths Foresees network outreach project: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
-- O. Bokhove (2017) Wetropolis flood demonstrator. Blog in Data Assimilation of the Resilient city -DARE- project: http://blogs.reading.ac.uk/dare/2017/07/25/wetropolis-flood-demonstrator/
+- O. Bokhove (2017) Wetropolis flood demonstrator. Blog in Data Assimilation of the Resilient city -DARE- project: 
+https://research.reading.ac.uk/dare/2017/07/25/wetropolis-flood-demonstrator/
 - O. Bokhove, T. Kent, M. Kelmanson, G. Piton, J.-M. Tacnet 2019: Communicating (nature-based) flood-mitigation
 schemes using flood-excess volume. River Research and Applications 35, 1402-1414 (open access). Preprint: (```preprintRRA```) ![preprintRRA](mainrevRRA3.pdf) (Upon request: link to GitHub site with various river applications, R, Matlab and Python template files and applications. Please email Onno Bokhove.)
 -  O. Bokhove, T. Kent, M. Kelmanson, G. Piton, J.-M. Tacnet 2020: A cost-effectiveness protocol for flood-mitigation plans based on Leeds’ Boxing Day 2015 floods Water 12(3), 652. https://www.mdpi.com/2073-4441/12/3/652 and https://doi.org/10.3390/w12030652
