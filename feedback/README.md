@@ -140,8 +140,8 @@ Log:
 - Extended program to print histograms of top and bottom 4 channels, normalised histogram & ideal case on two lines, updated every 10s;
 - Fabio (thanks, well-spotted) noticed that after 9s of rain the top Galtonboard does not count since the serial programming prevents the signal to be registered when pumoing for more than 7s; attempts to bypass this anmomaly failed hitherto; program/folder: galtonboardV11march2019c3.ino
 to do: reprogram and fix the issue;
-- Motor marble run failed on 02-06-2022 midday; ordered 2 new ones; likely burned out; to do;
-- City: when the base is dry the water has initially difficulty rolling oiver the berm, once that has happened the base starts soaking up water and is slightly leaking; a fix may be to varnish one side of the city; to do;
+- Motor marble run failed on 02-06-2022 midday; ordered 2 new ones; likely burned out; to do; fixed 16-06 model-craft motor replaced; reserve available. 
+- City: when the base is dry the water has initially difficulty rolling over the berm, once that has happened the base starts soaking up water and is slightly leaking; a fix may be to varnish one side of the city; to do;
 - during transport to London the end of the aquifer collecting gutter had disappeared; fix; to do;
 - during tgransport back a Mercedes car was used; everything fit in one car with the back seat folded down.
 
