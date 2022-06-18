@@ -144,6 +144,7 @@ to do: reprogram and fix the issue;
 - City: when the base is dry the water has initially difficulty rolling over the berm, once that has happened the base starts soaking up water and is slightly leaking; a fix may be to varnish one side of the city; to do;
 - during transport to London the end of the aquifer collecting gutter had disappeared; fix; to do;
 - during tgransport back a Mercedes car was used; everything fit in one car with the back seat folded down.
+- See: https://www.lego.com/en-gb/product/loop-coaster-10303?cmp=REF-202206-Loop_Coaster_Laun
 
 Highlights:
 - the filming over 3hrs for a 3min clip; to be continued whetehr that pays off;
