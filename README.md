@@ -4,7 +4,7 @@
 The Wetropolis flood demonstrator is a conceptual, physical installation showcasing what an extreme rainfall event is and how such an event can lead to extreme flooding of a city. A layman's introduction to Wetropolis is found in the following blog:
 https://research.reading.ac.uk/dare/2017/07/25/wetropolis-flood-demonstrator/
 Please read the blog first. Wetropolis is best experienced in person but, second best, please watch the following movies (from 30-08-2016):
-- Exploring Wetropolis (movie for everyone): https://www.youtube.com/watch?v=rNgEqWdafKk
+- Exploring Wetropolis (movie for everyone October 2022): https://www.youtube.com/watch?v=rNgEqWdafKk
 - News item October 11, 2022: https://mpecdt.ac.uk/exploring-wetropolis-an-extreme-rainfall-and-flood-demonstrator/
 - a test to give a first impression https://youtu.be/1FIHFOn6IPQ
 - the equivalent of the River Aire Boxing Day flood of 2015 with city flooding resulting from two wd's (one Wetropolis day wd=10s) of consecutive extreme 90% rainfall (so 18s of rainfall in 20s) https://youtu.be/N4Sp5gHXcz4
