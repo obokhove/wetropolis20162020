@@ -96,7 +96,7 @@ Podcast (mathematical argument raised in interview by OB at 3:30min ff.; MP3 fil
 
 ## Assessment of flood-mitigation plans near Bradford and Leeds
 - Early 2021 a representation was officially submitted to Leeds City Council (LCC) by me on the flood-easing plans for Apperley Bridge (part of Bradford City Council BDMC); see file PlansApperleyBridgefloodeasingUpdate.pdf (note that I am a Bradford citizen)
-- After numerous emails to LCC, LCC commented by email that it did not need to reply because legally it is not obliged to reply to representations from organisations which are not part of a specified list.
+- After numerous emails to LCC, LCC commented by email that it did not need to respond to the queries raised in my representation because legally it is not obliged to reply to representations from organisations which are not part of a specified list. (Note that this response is in direct conflict with LCC's code of conduct which states that LCC needs to be open to scrutiny and accountability.)
 - Hence, my queries about
 a) the flood-defence walls possibly being more expensive than earthen walls,
 b) the funnel being created in front of Apperley Bridge under climate change leading to an equal chance of flooding of the houses and the flood plain & road (walls for the flood plain should be lower or absent, and
