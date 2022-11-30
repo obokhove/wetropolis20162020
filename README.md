@@ -94,6 +94,13 @@ Podcast (mathematical argument raised in interview by OB at 3:30min ff.; MP3 fil
 - See the feedback folder for comments by organisers of three events at which Wetropolis was showcased.
 - Onno Bokhove (17-02-2020) Managing river floods in an age of extremes: should we be more worried? Imperial College ![Public lecture](PublicMPEBokhove2020sm.pdf). Audio recording link pending. As part of: http://www.imperial.ac.uk/news/195539/planet-earth-alive-using-mathematics-understand/
 
+## Assessment of flood-mitigation plans near Bradford and Leeds
+- Early 2021 a representation was officially submitted to Leeds City Council (LCC) by m,e on the flood-easing plans for Apperley Bridge (part of Bradford City Council BDMC); see file PlansApperleyBridgefloodeasingUpdate.pdf (note that I a Bradford citizen)
+- After numerous emails to LCC, lCC commented that it did not need to reply because legally it is not obliged to reply to representationsfrom organisation which are not part of a specified list.
+- Hence, my queries about a) the flood-defence walls possibly being more expensive than earthen walls, b) the funnel being created in front of Apperley Bridge under climate change leading to an equal chance of flooding of the houses and the flood plain & road (walls for the flood plain should be lower or absent, and c) the Haigh Beck catchement sewage-laden water being trapped in the neighbourhood next to the river because valves block the polluted beck water from entering the River Aire, during high water, all these points were not responded to.
+- Recent inquiry (October 2022) at BDMC revealed that BDMC had given all rights to build flood defence works on Bradford council soil had been given rto LCC and that LCC could not be held accountable and that BDMC had no say in any of the matter. Is that legal? BDMC also admitted the oversight in (c) in that a consultant had been appointed to deal with the beck water flooding the Apperley Bridge neighbourhood bext to teh river with the sewage-laden back waters (see several posts of pollting events on my youtube channel ).
+- Recent inquiry with Yorkshire Water (October 2022) also revealed that LCC & BDMC had forgottten" to include Haigh Beck floods from the flood-protection works.
+
 ## Wetropolis spin-off projects, including Wainfleet
 - Cost-effectiveness analysis of flood-mitigation plans: see the work of Bokhove, Kelmanson, Kent, Piton and Tacnet in References and Selected presentations above.
 - Advisory work for Wainfleet Flood Action Group (W-FLAG) based on 19-08-2019 visit to Wainfleet in Lincolnshire: (```wfag2019```) ![wfag2019](ObservationssuggestionsWainfleetfloodprotection4.pdf) Will be updated/under construction.
