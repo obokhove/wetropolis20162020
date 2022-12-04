@@ -205,7 +205,7 @@ c) the Haigh Beck catchment sewage-laden water being trapped in the neighbourhoo
 
 Why would one be so foolish to analyse council flood-mitigation plans? I called the flood-evacuation of Leeds' Crossfit gym in Kirkstall on Boxing Day 2015. We arrived late at 15:00 since nobody had a key and the owner Mike had to come from Redcar. The water had entered the premises. We worked hard to bring the gym equipment upstairs or place it on the pull-up racks. At 18:00, I called quits since the water-level was still rising and Mike took a group photo. Wading back through hip-deep fast-flowing waters of the torrent that once was Kirkstall Road leaves a deep impression. It made me wonder whether the flood damage could have been prevented and why the flood plains were build-up the way they are. Logically, I looked at the flood-allevation plans of 2017 and onwards. We saved 20000 pounds of gym equipment and Mike kindly gave a statement how my call and impromptu flood-evacuation plan had mattered, see the REF impact-case study. The rest you know.
 
-Would I do it again, given the harassment I have faced via work? That is a good question. After all, it is more peaceful to do exactly nothing.
+Would I do it again, given the harassment I have faced via work and councils? That is a good question. After all, it is more peaceful to do exactly nothing.
 
 ![WetNFM2](figs/armleyflood.png)
 
