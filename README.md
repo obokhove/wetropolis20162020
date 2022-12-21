@@ -209,11 +209,9 @@ Would I do it again, given all the harassment I have faced and continue to face 
 
 Xmas party response of a colleague who I told the above was: "Ad hominem".
 
-See also Gramham's hierarchy of disagreement, aslo including "responding to tone", both in "rather than addressing the substance of the argument itself":
+See Graham's hierarchy of disagreement, also including "responding to tone", both used "rather than addressing the substance of the argument itself":
 https://en.wikipedia.org/wiki/Paul_Graham_(programmer)#/media/File:Graham's_Hierarchy_of_Disagreement-en.svg
-
 and
-
 https://en.wikipedia.org/wiki/Paul_Graham_(programmer)#Graham's_Hierarchy_of_Disagreement
 
 ![WetNFM2](figs/armleyflood.png)
