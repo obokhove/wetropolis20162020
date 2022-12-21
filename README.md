@@ -207,6 +207,15 @@ Why would one be so foolish to analyse council flood-mitigation plans? I called 
 
 Would I do it again, given all the harassment I have faced and continue to face via work and councils? That is a good question. After all, it is more peaceful to do exactly nothing and be part of the silent majority.
 
+Xmas party response of a colleague who I told the above was: "Ad hominem".
+
+See also Gramham's hierarchy of disagreement, aslo including "responding to tone", both in "rather than addressing the substance of the argument itself":
+https://en.wikipedia.org/wiki/Paul_Graham_(programmer)#/media/File:Graham's_Hierarchy_of_Disagreement-en.svg
+
+and
+
+https://en.wikipedia.org/wiki/Paul_Graham_(programmer)#Graham's_Hierarchy_of_Disagreement
+
 ![WetNFM2](figs/armleyflood.png)
 
 
