@@ -207,6 +207,8 @@ Why would one be so foolish to analyse council flood-mitigation plans? I called 
 
 Would I do it again, given all the harassment I have faced and continue to face via work and councils? That is a good question. After all, it is more peaceful to do exactly nothing and be part of the silent majority.
 
+## Ad hominem and responding to tone
+
 Xmas party response of a colleague who I told the above was: "Ad hominem".
 
 See Graham's hierarchy of disagreement, also including "responding to tone", both used "rather than addressing the substance of the argument itself":
