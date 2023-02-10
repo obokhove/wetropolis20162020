@@ -217,6 +217,8 @@ and
 https://en.wikipedia.org/wiki/Paul_Graham_(programmer)#Graham's_Hierarchy_of_Disagreement
 
 -->
+
+The idea of Wetropolis arose after the 26-12-2015 Boxing Day flood evacuation of Crossfit Leeds The Forge gym in comination with a request by the (national) EA and JBA Trust to visualise wghat a flooding return period is:
 ![WetNFM2](figs/armleyflood.png)
 
 
