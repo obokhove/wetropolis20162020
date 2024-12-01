@@ -154,5 +154,6 @@ Highlights:
 - a (French) high-school student had heard about the set-up via his brother at Imperial College and was considering using the statistics of Wetropolis for a school presentation of 3min on mathematics.
 
 
-## 7. Wetropolis II: showcasing as part of 6th form conference, 40 students, 2022 upcoming
-Likely in our School of Mathematics labs, demonstration of Wetropolis by PhD students who use the lab.
+## 7. Wetropolis shown at Flood and Coast 2023 as part of Jacobs' stand
+<img src="fac2023.jpg" width="680">
+i.e., on p15 of: https://issuu.com/syonmedia/docs/flood_and_coast_23_showcase_ (accessed 01-12-2024).
