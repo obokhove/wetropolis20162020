@@ -1,4 +1,4 @@
-# Wetropolis I & II Showcasings and Feedback
+# Wetropolis Showcasings and Feedback
 
 Well over 1000 people have now experienced in person what a return period (or ``Annual'' Event Probability) is for an extreme flood by viewing the Wetropolis Flood Demonstrator in action.
 
@@ -155,5 +155,5 @@ Highlights:
 
 
 ## 7. Wetropolis shown at Flood and Coast 2023 as part of Jacobs' stand
-<img src="fac2023.jpg" width="680">
+<img src="fac2023.png" width="680">
 i.e., on p15 of: https://issuu.com/syonmedia/docs/flood_and_coast_23_showcase_ (accessed 01-12-2024).
