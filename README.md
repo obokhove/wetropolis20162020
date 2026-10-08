@@ -67,6 +67,7 @@ Future possible plans:
 - work with Wainfleet Flood Action Group, invitation & report --see report below with input from Wout Zweers (Aug 2019).
 
 ## References
+- https://westleedsdispatch.com/government-flood-defence-proposals-kick-in-teeth-for-kirkstall/ Plus comments.
 - O. Bokhove, T. Hicks, W. Zweers and T. Kent (2020) Wetropolis extreme rainfall and flood demonstrator: from mathematical design to outreach and research. *Hydrology and Earth System Sciences*. https://www.hydrol-earth-syst-sci.net/24/2483/2020/ (```wetroarticle```) ![wetroarticle](wetropolis2018.pdf) See also 2019 preprint: https://eartharxiv.org/59ymk/
 Revised version found above as: (```wetroarticlerevised```) ![wetroarticlerevised](wetropolis2019_2020.pdf) and (```wetroarticlerevisedno2```) ![wetroarticlerevisedno2](wetropolis2020.pdf)
 - O. Bokhove (2018) Wetropolis flood demonstrator. Final report EPSRC Maths Foresees network outreach project: http://www1.maths.leeds.ac.uk/mathsforesees/outreachprojreportwetropolis20162017.pdf
